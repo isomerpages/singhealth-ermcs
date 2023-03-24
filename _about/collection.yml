@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - ABOUT ERMCS.md
-      - Welcome Message.md
+      - WELCOME MESSAGE.md
