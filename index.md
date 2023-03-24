@@ -7,19 +7,18 @@ permalink: /
 notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now open for 2023!"
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      title: ERMCS 2023
+      background: /images/isomer-logo.svg
+      button: REGISTER NOW!
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Programme Outline
+          description: ""
           url: https://google.com
-        - title: Highlight B
+        - title: Speakers
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: CALL FOR ABSTRACTS
           description: Page A is important too
           url: /privacy/
   - infobar:
