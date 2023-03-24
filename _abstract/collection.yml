@@ -1,4 +1,5 @@
 collections:
   abstract:
     output: true
-    order: []
+    order:
+      - CALL FOR ABSTRACTS.md
