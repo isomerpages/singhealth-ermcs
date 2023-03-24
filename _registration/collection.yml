@@ -1,0 +1,4 @@
+collections:
+  registration:
+    output: true
+    order: []
