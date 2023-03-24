@@ -2,4 +2,5 @@ collections:
   abstract:
     output: true
     order:
+      - ELIGIBILITY REQUIREMENTS.md
       - CALL FOR ABSTRACTS.md
