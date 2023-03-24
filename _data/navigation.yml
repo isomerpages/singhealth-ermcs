@@ -8,11 +8,15 @@ links:
     collection: abstract
   - title: PROGRAMME
     url: /permalink
-  - title: CONGRESS GUIDE
-    collection: congress-guide
   - title: SPEAKERS
     url: /permalink
   - title: REGISTRATION
     collection: registration
   - title: SPONSORS
+    url: /permalink
+  - title: CONGRESS GUIDE
+    collection: congress-guide
+  - title: RESOURCES
+    collection: resources
+  - title: CONTACT US
     url: /permalink
