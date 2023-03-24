@@ -8,7 +8,7 @@ notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now ope
 sections:
   - hero:
       title: ERMCS 2023
-      background: /images/ERMCS Website eBanner2_test.jpg
+      background: /images/hero-banner.png
       button: REGISTER NOW!
       url: /contact-us/
       key_highlights:
