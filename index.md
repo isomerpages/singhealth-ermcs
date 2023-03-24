@@ -21,7 +21,7 @@ sections:
         - title: CALL FOR ABSTRACTS
           description: Page A is important too
           url: /privacy/
-      subtitle: “Building Resiliency through ERM”
+      subtitle: Building Resiliency through ERM
   - infobar:
       title: Infobar title
       subtitle: Subtitle
