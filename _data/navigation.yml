@@ -1,4 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: HOME
+    url: /permalink
+  - title: ABOUT
+    collection: about
+  - title: ABSTRACT
+    collection: abstract
   - title: CONGRESS GUIDE
     collection: congress-guide
