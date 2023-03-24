@@ -6,7 +6,13 @@ links:
     collection: about
   - title: ABSTRACT
     collection: abstract
+  - title: PROGRAMME
+    url: /permalink
   - title: CONGRESS GUIDE
     collection: congress-guide
-  - title: PROGRAMME
+  - title: SPEAKERS
+    url: /permalink
+  - title: REGISTRATION
+    collection: registration
+  - title: SPONSOR
     url: /permalink
