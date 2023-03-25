@@ -20,9 +20,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: REGISTRATION NOW OPEN
+      description: Secure your seats for ERMCS 2023. Kindly note that accommodation
+        and transport are not included in the registration fee.
+      button: Register now
       url: /faq/
 ---
