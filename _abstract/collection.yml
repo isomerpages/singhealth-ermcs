@@ -2,7 +2,7 @@ collections:
   abstract:
     output: true
     order:
-      - SUBMISSION GUIDELINES.md
       - CALL FOR ABSTRACTS.md
       - ELIGIBILITY REQUIREMENTS.md
+      - SUBMISSION GUIDELINES.md
       - NOTIFICATION.md
