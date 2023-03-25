@@ -8,7 +8,6 @@ notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now ope
 sections:
   - hero:
       background: /images/ERMCS-banner.png
-      button: REGISTER NOW!
       url: /contact-us/
       key_highlights:
         - title: Programme Outline
