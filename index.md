@@ -25,4 +25,10 @@ sections:
         and transport are not included in the registration fee.
       button: Register now
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
