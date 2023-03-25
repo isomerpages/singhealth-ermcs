@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ERMCS Organising Committee
+agency_name: the Organising Committee
 locations:
   - address:
       - "168 Jalan Bukit Merah "
