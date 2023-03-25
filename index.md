@@ -7,8 +7,7 @@ permalink: /
 notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now open for 2023!"
 sections:
   - hero:
-      title: ERMCS 2023
-      background: /images/ERMCS website banner.png
+      background: /images/ERMCS-banner.png
       button: REGISTER NOW!
       url: /contact-us/
       key_highlights:
@@ -21,7 +20,6 @@ sections:
         - title: CALL FOR ABSTRACTS
           description: Page A is important too
           url: /privacy/
-      subtitle: Building Resiliency through ERM
   - infobar:
       title: Infobar title
       subtitle: Subtitle
