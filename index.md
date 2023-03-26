@@ -29,7 +29,7 @@ sections:
   - infobar:
       title: CALL FOR ABSTRACTS
       description: Submit your abstracts by xx mm yyyy.
-      button: Register now
+      button: SUBMIT NOW
       url: /faq/
       subtitle: NOW OPEN!
 ---
