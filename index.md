@@ -19,12 +19,6 @@ sections:
         - title: CALL FOR ABSTRACTS
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: REGISTRATION NOW OPEN
-      description: Secure your seats for ERMCS 2023. Kindly note that accommodation
-        and transport are not included in the registration fee.
-      button: Register now
-      url: /faq/
   - infopic:
       title: REGISTRATION NOW OPEN
       subtitle: Secure your seats now!
@@ -32,4 +26,10 @@ sections:
       alt: Image alt text
       url: \
       image: /images/ERMCS Website About ERMCS page.png
+  - infobar:
+      title: CALL FOR ABSTRACTS
+      description: Submit your abstracts by xx mm yyyy.
+      button: Register now
+      url: /faq/
+      subtitle: NOW OPEN!
 ---
