@@ -25,7 +25,7 @@ sections:
       button: REGISTER HERE
       alt: Image alt text
       url: \
-      image: /images/SingHealth-Event-Day-2.jpg
+      image: /images/SingHealth-Event-Day-3.png
   - infobar:
       title: CALL FOR ABSTRACTS
       description: Submit your abstracts by xx mm yyyy.
