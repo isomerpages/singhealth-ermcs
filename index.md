@@ -14,10 +14,10 @@ sections:
           description: ""
           url: https://google.com
         - title: Speakers
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: CALL FOR ABSTRACTS
-          description: Page A is important too
+          description: ""
           url: /privacy/
   - infopic:
       title: REGISTRATION NOW OPEN
