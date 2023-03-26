@@ -31,5 +31,5 @@ sections:
       button: REGISTER HERE
       alt: Image alt text
       url: \
-      image: /images/SingHealth-Event-1.jpg
+      image: /images/ERMCS Website About ERMCS page.png
 ---
