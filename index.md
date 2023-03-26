@@ -26,10 +26,9 @@ sections:
       button: Register now
       url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: REGISTRATION NOW OPEN
+      subtitle: Secure your seats now!
+      button: REGISTER HERE
       alt: Image alt text
+      url: \
 ---
-
