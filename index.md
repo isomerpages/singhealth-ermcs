@@ -28,7 +28,6 @@ sections:
       image: /images/SingHealth-Event-Day-3.png
   - infobar:
       title: CALL FOR ABSTRACTS
-      description: Submit your abstracts by xx mm yyyy.
       button: SUBMIT NOW
       url: /faq/
       subtitle: NOW OPEN!
