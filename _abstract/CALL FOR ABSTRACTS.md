@@ -22,4 +22,3 @@ The ERMCS Organising Committee 2023 cordially invites professionals from all ind
 8. Supply Chain & Operations
 
 For questions about abstract submission, please do not hesitate to contact us at secretariat@ermcs.sg
-
