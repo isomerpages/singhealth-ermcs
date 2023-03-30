@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: ERMCS
+description: Enterprise Risk Management Congress Singapore
+image: /images/ermcs-website-logo.jpg
 permalink: /
 notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now open for 2023!"
 sections:
