@@ -23,8 +23,9 @@ sections:
       title: REGISTRATION NOW OPEN
       subtitle: Secure your seats now!
       button: REGISTER HERE
-      url: \
+      url: /registration/registernow/
       image: /images/ERMCS Website About ERMCS page.png
+      alt: Register Now
   - infobar:
       title: CALL FOR ABSTRACTS
       button: SUBMIT NOW
