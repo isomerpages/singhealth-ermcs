@@ -23,9 +23,8 @@ sections:
       title: REGISTRATION NOW OPEN
       subtitle: Secure your seats now!
       button: REGISTER HERE
-      alt: Image alt text
       url: \
-      image: /images/SingHealth-Event-Day-3.png
+      image: /images/ERMCS Website About ERMCS page.png
   - infobar:
       title: CALL FOR ABSTRACTS
       button: SUBMIT NOW
