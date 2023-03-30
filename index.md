@@ -29,6 +29,6 @@ sections:
   - infobar:
       title: CALL FOR ABSTRACTS
       button: SUBMIT NOW
-      url: /faq/
+      url: abstract/submitnow/
       subtitle: NOW OPEN!
 ---
