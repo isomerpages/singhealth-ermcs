@@ -2,6 +2,7 @@ collections:
   abstract:
     output: true
     order:
+      - IMPORTANT DATES.md
       - CALL FOR ABSTRACTS.md
       - ELIGIBILITY REQUIREMENTS.md
       - SUBMISSION GUIDELINES.md
