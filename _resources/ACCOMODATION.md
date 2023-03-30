@@ -17,4 +17,3 @@ Kindly find more details appended in the e-flyer below:
 #### Embark on a virtual tour of the hotel: 
 
 [360 Virtual Tour - Conrad Centennial Singapore](https://chrisogrady-visual-narrative.s3.amazonaws.com/conrad-v3/virtual-tour.html)
-
