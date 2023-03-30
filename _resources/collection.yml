@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - VISA.md
       - ABOUT SINGAPORE.md
       - ACCOMODATION.md
