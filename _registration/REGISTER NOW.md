@@ -5,11 +5,11 @@ description: ""
 ---
 ![](/images/ERMCS%20Website%20eBanner2_test.jpg)
 
->#### Registration for the Enterprise Risk Management Congress Singapore (ERMCS) 2023 is NOW OPEN!
+#### **Registration for the Enterprise Risk Management Congress Singapore (ERMCS) 2023 is NOW OPEN!**
 
 Please note that registration slots are limited and are available on a first-come, first-served basis.  
 
-#### How to Register for ERMCS 2023?
+#### **How to Register for ERMCS 2023?**
 
 1\. [Click Here](https://form.gov.sg/642282ea72f46900113b80f3) to register now. 
 
