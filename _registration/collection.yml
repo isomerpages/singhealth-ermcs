@@ -1,4 +1,5 @@
 collections:
   registration:
     output: true
-    order: []
+    order:
+      - FEES.md
