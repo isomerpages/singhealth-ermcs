@@ -8,17 +8,16 @@ notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now ope
 sections:
   - hero:
       background: /images/ERMCS-banner.png
-      url: /contact-us/
       key_highlights:
         - title: Programme Outline
           description: ""
-          url: https://google.com
+          url: " https://www.ermcs.sg/programme/"
         - title: Speakers
           description: ""
           url: https://gmail.com
         - title: CALL FOR ABSTRACTS
           description: ""
-          url: /privacy/
+          url: " https://www.ermcs.sg/abstract/callforabstracts/"
   - infopic:
       title: REGISTRATION NOW OPEN
       subtitle: Secure your seats now!
