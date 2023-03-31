@@ -1,0 +1,6 @@
+collections:
+  registration:
+    output: true
+    order:
+      - FEES.md
+      - REGISTER NOW.md

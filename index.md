@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: ERMCS
+description: Enterprise Risk Management Congress Singapore
+image: /images/ermcs-temp-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now open for 2023!"
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/ERMCS-banner.png
+      key_highlights:
+        - title: Programme Outline
+          description: ""
+          url: " https://www.ermcs.sg/programme/"
+        - title: CALL FOR ABSTRACTS
+          description: ""
+          url: " https://www.ermcs.sg/abstract/callforabstracts/"
+  - infopic:
+      title: REGISTRATION NOW OPEN
+      subtitle: Secure your seats now!
+      button: REGISTER HERE
+      url: https://www.ermcs.sg/registration/registernow/
+      image: /images/ERMCS Website About ERMCS page.png
+      alt: Register Now
+  - infobar:
+      title: CALL FOR ABSTRACTS
+      button: SUBMIT NOW
+      url: https://www.ermcs.sg/abstract/submissionguidelines/
+      subtitle: NOW OPEN!
 ---
-
