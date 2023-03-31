@@ -12,9 +12,6 @@ sections:
         - title: Programme Outline
           description: ""
           url: " https://www.ermcs.sg/programme/"
-        - title: Speakers
-          description: ""
-          url: https://gmail.com
         - title: CALL FOR ABSTRACTS
           description: ""
           url: " https://www.ermcs.sg/abstract/callforabstracts/"
