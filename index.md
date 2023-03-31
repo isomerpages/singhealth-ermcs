@@ -2,7 +2,7 @@
 layout: homepage
 title: ERMCS
 description: Enterprise Risk Management Congress Singapore
-image: /images/ermcs-website-logo.jpg
+image: /images/ermcs-temp-logo.png
 permalink: /
 notification: "CALL FOR ABSTRACTS: ERMCS poster abstract submissions are now open for 2023!"
 sections:
