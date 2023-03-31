@@ -12,11 +12,11 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Sat/Sun & Public Holidays
-    maps_link: ""
+    maps_link: https://goo.gl/maps/48fL2PAiaPsLBaZE8
     title: ERMCS Secretariat
 contacts:
   - content:
-      - phone: +65 6377 8769
+      - phone: ""
       - email: secretariat@ermcs.sg
       - other: ""
     title: General Enquiries & Feedback
