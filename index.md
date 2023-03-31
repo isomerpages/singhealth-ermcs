@@ -22,12 +22,12 @@ sections:
       title: REGISTRATION NOW OPEN
       subtitle: Secure your seats now!
       button: REGISTER HERE
-      url: /registration/registernow/
+      url: https://www.ermcs.sg/registration/registernow/
       image: /images/ERMCS Website About ERMCS page.png
       alt: Register Now
   - infobar:
       title: CALL FOR ABSTRACTS
       button: SUBMIT NOW
-      url: abstract/submitnow/
+      url: https://www.ermcs.sg/abstract/submissionguidelines/
       subtitle: NOW OPEN!
 ---
