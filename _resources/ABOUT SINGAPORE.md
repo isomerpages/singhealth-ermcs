@@ -3,7 +3,6 @@ title: ABOUT SINGAPORE
 permalink: /resources/aboutsingapore/
 description: ""
 ---
-![](/images/ermcs-website-visit-singapore.jpg)
 
 Singapore is a vibrant, multi-cultural city-state that is located in Southeast Asia at the southern tip of the Malay peninsula. It is a major business and is also home to the world’s busiest port.
 
