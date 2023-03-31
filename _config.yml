@@ -3,7 +3,7 @@ url: https://www.ermcs.sg
 favicon: /images/ermcs-website-logo.jpg
 colors:
   primary-color: "#006c72"
-  secondary-color: "#fad099"
+  secondary-color: "#005c63"
   media-colors:
     - title: media-color-one
       color: "#04a6b5"
