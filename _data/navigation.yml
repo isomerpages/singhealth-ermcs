@@ -1,7 +1,7 @@
 logo: /images/ermcs-website-logo.jpg
 links:
   - title: HOME
-    url: www.ermcs.sg
+    url: https://www.ermcs.sg/
   - title: ABOUT
     collection: about
   - title: ABSTRACT
