@@ -4,6 +4,6 @@ permalink: /programme/
 description: ""
 image: /images/ERMCS DAY 1.png
 ---
-![](/images/ERMCS%20DAY%201.png)
+![](/images/ermcs%20day%201%20latest.JPG)
 
-![](/images/ERMCS%20DAY%202.png)
+![](/images/ermcs%20day%202%20latest.JPG)
