@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - ABOUT SINGAPORE.md
-      - ACCOMODATION.md
-      - TRAVEL.md
+      - About Singapore.md
+      - Accomodation.md
+      - Travel.md

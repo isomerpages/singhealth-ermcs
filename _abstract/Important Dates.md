@@ -1,5 +1,5 @@
 ---
-title: IMPORTANT DATES
+title: Important Dates
 permalink: /abstract/importantdates/
 description: ""
 ---

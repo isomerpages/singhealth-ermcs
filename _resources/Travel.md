@@ -1,5 +1,5 @@
 ---
-title: TRAVEL
+title: Travel
 permalink: /resources/travel/
 description: ""
 ---

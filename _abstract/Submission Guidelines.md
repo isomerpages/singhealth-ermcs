@@ -1,5 +1,5 @@
 ---
-title: SUBMISSION GUIDELINES
+title: Submission Guidelines
 permalink: /abstract/submissionguidelines/
 description: ""
 ---

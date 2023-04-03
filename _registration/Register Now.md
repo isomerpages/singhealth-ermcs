@@ -1,5 +1,5 @@
 ---
-title: REGISTER NOW
+title: Register Now
 permalink: /registration/registernow/
 description: ""
 ---

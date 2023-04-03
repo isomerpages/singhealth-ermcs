@@ -1,5 +1,5 @@
 ---
-title: FEES
+title: Fees
 permalink: /registration/fees/
 description: ""
 ---

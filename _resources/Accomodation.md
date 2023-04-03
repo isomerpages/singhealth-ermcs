@@ -1,5 +1,5 @@
 ---
-title: ACCOMODATION
+title: Accomodation
 permalink: /resources/accomodation/
 description: ""
 image: ""

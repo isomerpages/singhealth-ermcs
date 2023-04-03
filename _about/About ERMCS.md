@@ -1,5 +1,5 @@
 ---
-title: ABOUT ERMCS
+title: About ERMCS
 permalink: /about/aboutermcs/
 description: ""
 ---

@@ -2,8 +2,8 @@ collections:
   abstract:
     output: true
     order:
-      - CALL FOR ABSTRACTS.md
-      - ELIGIBILITY REQUIREMENTS.md
-      - SUBMISSION GUIDELINES.md
-      - NOTIFICATION.md
-      - IMPORTANT DATES.md
+      - Call For Abstracts.md
+      - Eligibility Requirements.md
+      - Submission Guidelines.md
+      - Notification.md
+      - Important Dates.md

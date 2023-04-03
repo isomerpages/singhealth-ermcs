@@ -1,5 +1,5 @@
 ---
-title: NOTIFICATION
+title: Notification
 permalink: /abstract/notification/
 description: ""
 ---

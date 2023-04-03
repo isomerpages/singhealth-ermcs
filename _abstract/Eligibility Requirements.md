@@ -1,5 +1,5 @@
 ---
-title: ELIGIBILITY REQUIREMENTS
+title: Eligibility Requirements
 permalink: /abstract/eligibilityrequirements/
 description: ""
 ---

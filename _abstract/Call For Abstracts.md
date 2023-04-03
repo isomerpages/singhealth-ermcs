@@ -1,5 +1,5 @@
 ---
-title: CALL FOR ABSTRACTS
+title: Call For Abstracts
 permalink: /abstract/callforabstracts/
 description: ""
 ---

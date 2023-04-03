@@ -1,5 +1,5 @@
 ---
-title: ABOUT SINGAPORE
+title: About Singapore
 permalink: /resources/aboutsingapore/
 description: ""
 ---
