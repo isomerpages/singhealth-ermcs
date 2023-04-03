@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About Singapore.md
-      - ACCOMODATION.md
+      - Accomodation.md
       - TRAVEL.md
