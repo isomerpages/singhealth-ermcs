@@ -15,4 +15,4 @@ description: ""
 
 * Please use numerals to indicate numbers, except for beginning of sentences.
 
-* Authors should fill in the [ERMCS 2023 Abstract Submission Form]() to submit their abstracts to secretariat@ermcs.sg
+* Authors should fill in the [[ERMCS 2023 Abstract Submission Form](/files/ermcs%20poster%20abstract%20submission%20form_final.pdf)]() to submit their abstracts to secretariat@ermcs.sg
