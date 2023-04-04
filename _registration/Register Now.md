@@ -28,6 +28,6 @@ Alternatively, please scan the QR code below to register for the Congress.
 
 1\. Kindly seek approval from your HODs before registering with your respective HR representatives. You will be required to liaise with your respective institutions’ HR representatives in order to complete your registration.
 
-2\. Please access your respective institutions’ HR point of contact [HERE](/files/registration-instructions-for-singhealth-institutions-(as%20at%204%20apr).pdf)
+2\. Please access your respective institutions’ HR point of contact [HERE](/files/registration%20instructions%20for%20singhealth%20institutions%20(as%20at%204%20apr).pdf)
 
 3\. Upon successful registration, a confirmation email will be sent to your registered email address. Please save this confirmation email and show it to our friendly registration staff on-duty to collect your physical congress passes during the event.
