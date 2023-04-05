@@ -13,6 +13,4 @@ This Congress has brought together a **diverse group of like-minded ERM leaders 
 
 The Congress Organising Committee and I look forward to warmly welcoming you to this exciting event and to meeting all of you in person in June 2023 in Singapore.
 
-*Best Regards<br>
-Associate Professor Ong Biauw Chi<br>
-Group Chief Risk Officer, SingHealth*
+![](/images/prof-ong-photo-1.JPG)
