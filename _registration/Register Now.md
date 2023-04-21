@@ -20,7 +20,7 @@ Alternatively, please scan the QR code below to register for the Congress.
 
 3\. Upon successful registration and payment, you will have full access to the two (2)-day congress. Kindly look out for the confirmation email which will be sent to your registered email address. Please save this confirmation email and show it to our friendly registration staff on-duty to collect your physical congress passes during the event.
 
-   
+4\. For replacement or cancellation requests, please notify the Secretariat (at secretariat@ermcs.sg) in writing, no later than **26 May 2023**. Full registration fees will be charged for any cancellations received after 26 May 2023.   
 
 **Note:**
 
