@@ -7,7 +7,7 @@ permalink: /
 notification: "[UPDATE] CALL FOR ABSTRACTS: SUBMISSION DEADLINE EXTENDED TILL 5 MAY 2023!"
 sections:
   - hero:
-      background: /images/ERMCS-banner.png
+      background: /images/ermcs-website-banner-v2.png
       key_highlights:
         - title: Programme Outline
           description: ""
