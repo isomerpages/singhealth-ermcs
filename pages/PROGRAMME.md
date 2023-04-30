@@ -4,6 +4,10 @@ permalink: /programme/
 description: ""
 image: /images/ERMCS DAY 1.png
 ---
-![](/images/ermcs%202023%20programme%20outline%20(with%20speakers)%20(as%20at%205%20apr)_1.jpg)
+![](/images/day-1-a.PNG)
 
-![](/images/ermcs%202023%20programme%20outline%20(with%20speakers)%20(as%20at%205%20apr)_2.jpg)
+![](/images/day-1-b.PNG)
+
+![](/images/day-2-a.PNG)
+
+![](/images/day-2-b.PNG)
