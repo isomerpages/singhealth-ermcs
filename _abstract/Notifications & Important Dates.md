@@ -9,8 +9,10 @@ Please take note of the following:
 
 * Authors will be notified for poster submission via email if the abstract has been accepted.
 
-Important dates:
-![](/images/ermcs-website-important-dates-updated.jpg)
+**Important Dates**:
+* **3 April 2023**: Abstract Submission Opens 
+* **~~5 May 2023~~ 12 May 2023 (EXTENDED)**: Abstract Submission Closes
+* **19 May 2023**: Shortlisted Authors to be notified for poster submission
+* **2 June 2023**: Poster submission closes 
 
-
-*Note: The dates have been updated as at 14 Apr 2023.*
+*Note: The dates have been updated as at 4 May 2023.*
