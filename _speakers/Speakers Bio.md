@@ -1,6 +1,6 @@
 ---
-title: Speaker Bio
-permalink: /speakers/speakerbio/
+title: Speakers Bio
+permalink: /speakers/speakersbio/
 description: ""
 ---
 #### **Day 1 Speakers**
