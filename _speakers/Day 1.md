@@ -1,6 +1,6 @@
 ---
 title: Day 1
-permalink: /speakers/day-1/
+permalink: /speakers/day1/
 description: ""
 ---
 ##### **Keynote Address**

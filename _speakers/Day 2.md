@@ -1,6 +1,6 @@
 ---
 title: Day 2
-permalink: /speakers/day-2/
+permalink: /speakers/day2/
 description: ""
 ---
 ##### **Plenary 4: Human Capital and Employee Wellness**
