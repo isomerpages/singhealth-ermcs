@@ -4,7 +4,7 @@ title: ERMCS
 description: Enterprise Risk Management Congress Singapore
 image: /images/ermcs-website-icon-logo.png
 permalink: /
-notification: "[UPDATE] CALL FOR ABSTRACTS: SUBMISSION DEADLINE EXTENDED TILL 12 MAY 2023!"
+notification: REGISTRATION STILL OPEN. SIGN UP NOW!
 sections:
   - hero:
       background: /images/ermcs-website-banner-v2.png
