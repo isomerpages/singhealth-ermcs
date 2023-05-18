@@ -7,7 +7,7 @@ permalink: /
 notification: REGISTRATION STILL OPEN. SIGN UP NOW!
 sections:
   - hero:
-      background: /images/official-ermcs-banner.jpg
+      background: /images/official-website-banner-4.png
       key_highlights:
         - title: Programme Outline
           description: ""
