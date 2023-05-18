@@ -4,7 +4,7 @@ title: ERMCS
 description: Enterprise Risk Management Congress Singapore
 image: /images/ermcs-website-icon-logo.png
 permalink: /
-notification: REGISTRATION STILL OPEN. SIGN UP NOW
+notification: REGISTRATION STILL OPEN. SIGN UP NOW!
 sections:
   - hero:
       background: /images/official-ermcs-banner.jpg
