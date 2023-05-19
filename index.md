@@ -7,7 +7,7 @@ permalink: /
 notification: REGISTRATION STILL OPEN. SIGN UP NOW!
 sections:
   - hero:
-      background: /images/official-website-banner-4.png
+      background: /images/website-banner.png
       key_highlights:
         - title: Programme Outline
           description: ""
