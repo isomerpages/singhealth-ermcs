@@ -22,7 +22,7 @@ He was previously appointed as the Deputy Secretary of MCCY, Commissioner of Cha
 
 Prior to these appointments, Prof Ang has served in the Public Service for more than 30 years. In addition to enhancing Singapore’s ability in curbing emerging threats, he forged strategic international partnerships for the Singapore Police Force. Prof Ang also led the Health Promotion Board in championing healthy living as a pervasive lifestyle and social movement during his time as the Chief Executive Officer. As the Chief Executive Director of People’s Association (PA), he transformed PA to a resident-centric organisation, playing an invaluable role in strengthening Singapore’s social fabric.
 
-![](/images/rach-dennis-bio.png)
+![](/images/rachel-and-dennis.jpg)
 **Rachel** is currently an Associate Director with RSM Risk Advisory Pte Ltd. She spent most of her career in the accounting profession and has more than 16 years of experience in advisory, mainly in sustainability reporting, risk management, internal controls, business advisory and Sarbanes-Oxley. Rachel is a Chartered Accountant and Certified Internal Auditor with a wide range of governance experience from both industrial and professional sectors, including healthcare sector. She focused on serving non-for-profit organisations and government sectors in recent years.
 
 **Dennis** is a Partner and the Head of RSM’s Business Consulting Practice. He has over 21 years of professional experience in governance, risk and internal controls matters. He holds professional qualifications with CA Singapore, CPA Australia and is a CRMA with IIA Singapore. He is also a certified PMC. Dennis is the Leader of RSM Singapore’s Real Estate and Construction Vertical and is also the Co-Head of RSM Singapore’s ESG Practice. He has significant experience working with healthcare enterprises in the public and private space, providing consulting and risk management solutions across financial, operational and compliance fields.
@@ -59,7 +59,14 @@ Dr Fermin Diez is an adjunct Professor at the NUS, NTU, and SMU Business Schools
 
 ![](/images/dr-jai.PNG)
 
-![](/images/ms-kuntha.PNG)
+![](/images/ms-kuntha.jpg)
+Kuntha has over 22 years of industry and consulting experience. She started her career in the Telecom industry with Telstra in Australia, and was a manager in the global headquarters of Alcatel in France where she developed long-term global supply chain strategy, implemented developed strategies worldwide. She then moved to strategy consulting and supply chain and operations consulting. She has worked in Europe for close to 10 years and across Asia Pacific for over 12 years, having been based in Paris, London, Hong Kong, Sydney, Melbourne and now Singapore. 
+
+Before becoming the APAC Supply Chain and Procurement Transformation Leader at IBM, she was the Global Leader for Procurement Advisory at EY.
+
+Kuntha has focused on the design and delivery of large multi-year business transformations. She has personally been involved in more that 100 transformation globally. Her expertise includes supply chain and procurement strategy, organizational design, end-to-end supply chain and procurement solution design and implementation using best of breed and cloud based systems, AI and advanced analytics to drive efficiency and sustainability.
+
+Kuntha has a Masters of Business Administration (MBA) from the University of Oxford and a Bachelor’s Degree in Electrical Engineering from the University of Sydney, Australia. She is in the process of undertaking a leadership course at Harvard Business School.
 
 ![](/images/ecri-eric.PNG)
 Eric Woo is the Regional Director for ECRI Asia Pacific and is responsible for the business development activities, research initiatives, project execution, and operational management in the APAC region. Prior to joining ECRI in 2015, he was the Chief Operating Officer of a private hospital specializing in sports injuries and stem cell technology.
