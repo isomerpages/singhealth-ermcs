@@ -7,32 +7,32 @@ description: ""
 ![](/images/dr-sarjit.PNG)
 <hr>
 
-##### **Plenary 1: Environmental, Social, and Governance (ESG) and Organisational Resilience**
+###### **Plenary 1: Environmental, Social, and Governance (ESG)**
 ![](/images/mr-keith.PNG)
-###### ***Risk Management and ESG***
+##### ***Risk Management and ESG***
 The presentation aim to share with the delegates on the how the ERM has evolved with the introduction of ESG risks. These include strategic risks and operational risks in relation to the Healthcare ecosystem.
 
 This will include the incorporation of ESG in the risk management exercise for health care service providers.
 <hr>
 
 ![](/images/prof-ang.PNG)
-###### ***How to manage ESG risk in the People sector***
+##### ***How to manage ESG risk in the People sector***
 Recently, the Charity Council has announced that ESG will be incorporated into the Code of Governance. As a result, ESG awareness within the People sector has been increasing rapidly. However, while many understand what ESG will look like for the People sector, many more may not fully understand the risks of engaging in ESG. What are these risks? How can the People sector manage these risks? What are some tools that People sector organisations can use for ESG risk management? Prof Ang Hak Seng’s presentation will bring clarity on how ESG
 risk can be managed in the People sector.
 <hr>
 
 ![](/images/panel-discussion-prof-ang-rach-dennis.PNG)
-###### ***Panel Discussion: From ESG to R(esilience)***
+##### ***Panel Discussion: From ESG to R(esilience)***
    
 
 The general theme of the Panel discussion will seek to address areas such as ESG risks, Strategic Risks and Overall Operational Risks in relation to the Healthcare ecosystem. This will include perspectives in relation to public, private service providers, service intermediaries and community health care service providers.
 
 <hr>   
 
-##### **Plenary 2: Facilitating Effective &amp; Resilient Communications**
+###### **Plenary 2: Crisis &amp; Risk Communications**
 
 ![](/images/vocal-charisma.PNG)
-###### ***Crisis Ready, Media Savvy Part 1 – A Practical Approach for High Stakes Situation***
+##### ***Crisis Ready, Media Savvy Part 1 – A Practical Approach for High Stakes Situation***
 In today's world where bad news can go viral in mere seconds, organisations must be fast and ready to react in a crisis. To protect its reputation and survival, a company needs to shape and manage public perception the moment an emergency erupts
 
 Knowing the right thing to say, while showing empathy, comes with proper guidance, preparation and practice. CEOs and spokespersons can no longer hide behind press statements. Due to the rampant nature of social media, a wrong word or gesture can create even more chaos and confusion.
@@ -47,7 +47,7 @@ People are more likely to switch off, if they find your appearance jarring or di
 <hr>
 
 ![](/images/dr-olivia-jensen.PNG)
-###### ***Getting Risk Communication Right***
+##### ***Getting Risk Communication Right***
 Groups of individuals can hold very different perceptions of risk from each other, and there are sometimes wide gaps between individuals’ risk perceptions and expert risk assessments. These gaps make risk management actions harder to implement and at worst lead to conflict within organisations or across society, as many incidents during the Covid pandemic illustrated.
 
 Insights from the fields of psychology and decision-making help explain why perceptions of risk diverge. By drawing on this knowledge base, we can design more effective risk communications strategies, using methods of engagement and forms of communication which build trust.
