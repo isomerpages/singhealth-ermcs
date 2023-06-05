@@ -29,7 +29,7 @@ By leveraging on innovative solutioning, digitalisation and the multitude of sta
 
 ##### **Track B: Building a Resilient Global Supply Chain**
 
-![](/images/kuntha.jpg)
+![](/images/ms-kuntha.jpg)
 <hr>
 
 ##### **Plenary 6: Break-Out Session 2**
