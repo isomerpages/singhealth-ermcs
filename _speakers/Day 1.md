@@ -55,7 +55,7 @@ Insights from the fields of psychology and decision-making help explain why perc
 The first step in communicating risk effectively is to understand the values, concerns and perceptions of stakeholder groups. The presentation will provide a snapshot of risk perceptions on key issues from recent surveys and consider how organisations can monitor the pulse of stakeholders when it comes to key risks. A central recommendation is to work in peaceful times to ensure that risk communications are more effective when a crisis hits.
 <hr>
 
-##### **Plenary 3: Healthcare Enterprise Risk Management**
+###### **Plenary 3: Healthcare Enterprise Risk Management**
 
 ![](/images/prof-ong.PNG)
 <hr>
