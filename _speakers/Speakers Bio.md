@@ -59,7 +59,7 @@ Dr Fermin Diez is an adjunct Professor at the NUS, NTU, and SMU Business Schools
 
 ![](/images/dr-jai.PNG)
 
-![](/images/ms-kuntha.PNG)
+![](/images/ms-kuntha.jpg)
 Kuntha has over 22 years of industry and consulting experience. She started her career in the Telecom industry with Telstra in Australia, and was a manager in the global headquarters of Alcatel in France where she developed long-term global supply chain strategy, implemented developed strategies worldwide. She then moved to strategy consulting and supply chain and operations consulting. She has worked in Europe for close to 10 years and across Asia Pacific for over 12 years, having been based in Paris, London, Hong Kong, Sydney, Melbourne and now Singapore. 
 
 Before becoming the APAC Supply Chain and Procurement Transformation Leader at IBM, she was the Global Leader for Procurement Advisory at EY.
