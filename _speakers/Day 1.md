@@ -60,7 +60,9 @@ The first step in communicating risk effectively is to understand the values, co
 ![](/images/prof-ong.PNG)
 <hr>
 
-![](/images/mr-chaudhry.PNG)
+![](/images/mr-ali.png)
+##### ***Healthcare Enterprise Risk Management - The Insurance Market Perspective***
+Mr. Chaudhry will shed light on the risks and trends in the Asian healthcare sector and cover the emerging risk issues. He will also explore the learning points which other businesses outside the healthcare arena can gain from the healthcare approach.
 <hr>
 
 ##### **Special Session: Crisis Ready, Media Savvy Part 2**
