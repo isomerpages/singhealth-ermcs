@@ -13,7 +13,7 @@ His areas of expertise include corporate governance consulting, business consult
 
 Keith began his career in audit with an international accounting firm where he was assigned to manage listed and multinational corporations in the healthcare, construction, real estate, shipping, technology, engineering, and financial services sectors.
 
-![](/images/prof-ang.PNG)
+![](/images/prof-ang.jpg)
 Prof Ang is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good, which champions social entrepreneurship within Singapore’s people and non-profit sectors.
 
 Prof Ang is also concurrently an adjunct professor with NTU’s Nanyang Centre for Public Administration and the Chairman of the Charity Accounting Committee with the Institute of Singapore Chartered Accountants.
@@ -47,7 +47,12 @@ Olivia Jensen is Lead Scientist at the Institute for the Public Understanding of
 
 ![](/images/prof-ong.PNG)
 
-![](/images/mr-chaudhry.PNG)
+![](/images/mr-ali.png)
+Ali has over 35 years insurance industry experience and started his career in the London and Lloyd’s insurance markets.
+
+He has been in Asia for nearly 30 years mostly based in Hong Kong and leads the Marsh Specialty financial and professional lines (or FINPRO) sector and overseas this business for Asia. Ali has in depth experience across Crime, Directors & Officers Liability, Financial Institutions, Professional Indemnity and Medical Malpractice segments. Ali was also involved in the start of the Cyber Insurance segment in Asia and has been closely involved in its growth since it first started gaining traction in the region.
+
+In recent years, Ali has led the Marsh expansion in the Asian healthcare medical malpractice segment from the large private and government institutions to also include some of the most successful individual doctor schemes.
 
 #### **Day 2 Speakers**
 ![](/images/dr-diez.PNG)
