@@ -4,7 +4,26 @@ permalink: /speakers/speakersbio/
 description: ""
 ---
 #### **Day 1 Speakers**
-![](/images/dr-sarjit.PNG)
+![](/images/dr-singh.png)
+Sarjit Singh currently holds the position of Senior Advisor at Deloitte Southeast Asia, where he leads the Deloitte Learning Solutions practice. With a wealth of knowledge and experience, he specialises in various areas, including business assurance and advisory, client training, internal controls reviews (including pre-IPO), risk management, sustainability reporting, regulatory compliance, financial due diligence, and business valuation.
+
+Sarjit's expertise extends to serving a diverse range of clients, including public listed companies, financial institutions, multinationals, government ministries, organs of state, and statutory boards.
+
+Sarjit is a highly accomplished professional with over 30 years of multinational experience in accounting and finance. He holds multiple qualifications, including being a Fellow Chartered Accountant in Singapore, Australia and New Zealand, a Chartered Valuer and Appraiser, and a Financial Forensic Professional. He has also been awarded an honorary doctorate degree.
+
+Sarjit has held various leadership roles throughout his career, including CEO Singapore of In.Corp Global, Chairman and Senior Partner of Kreston ACA, CFO of Aviva Asia, and CFO of AIA Singapore. He has extensive experience in assurance and advisory, having spent 16 years with a Big 4 firm.
+
+In addition to his professional roles, Sarjit is actively involved in the Singapore community. He serves as the Chairman of the Singapore Overseas Regional Council of Chartered Accountants Australia and New Zealand; is a member of the Advocacy Committee of The Institute of Internal Auditors Singapore.
+
+In 2023, Sarjit was appointed by the Ministry of Education to the Board of Trustees of the University of the Arts Singapore (UAS) and serves as the founding chairman of the Audit Committee at UAS.
+
+Sarjit's contributions have been recognised with multiple accolades. He has received three national honours from the President of the Republic of Singapore, including the Public Service Star (Bar) in 2021, the Public Service Star in 2011, and the Public Service Medal in 2007. In 2019, he was honored with the prestigious SkillsFuture Fellowship by the President of the Republic of Singapore for his mastery of skills and mentorship of future talent.
+
+Recognised by Nanyang Technological University (NTU) as a ‘financial industry talent’, Sarjit was the winner of the Nanyang Alumni Achievement Award in 2012. Sarjit was appointed as an Adjunct Associate Professor by NTU from 2010 to 2016 given his expertise in Corporate Governance, Risk Management, Auditing, and Financial Reporting and Analysis.
+
+Sarjit has furthered his education by completing the Advanced Management Program at Harvard Business School and being an alumnus of Harvard University.
+
+Sarjit’s extensive experience and expertise make him a trusted advisor for organisations seeking strategic insights, robust risk management, and sustainable business practices. His expertise, leadership, and commitment make him a highly respected and accomplished professional in the field of accounting and finance. His contributions to the field of accounting and finance continue to benefit clients across various industries within the Southeast Asia region.
 
 ![](/images/mr-keith.PNG)
 Keith is a director with the Business Consulting arm of the Firm. He is also the Deputy Lead of the Firm’s Healthcare Practice.
@@ -47,7 +66,7 @@ Olivia Jensen is Lead Scientist at the Institute for the Public Understanding of
 
 ![](/images/prof-ong.PNG)
 
-![](/images/mr-ali.png)
+![](/images/mr-chaudhry.png)
 Ali has over 35 years insurance industry experience and started his career in the London and Lloyd’s insurance markets.
 
 He has been in Asia for nearly 30 years mostly based in Hong Kong and leads the Marsh Specialty financial and professional lines (or FINPRO) sector and overseas this business for Asia. Ali has in depth experience across Crime, Directors & Officers Liability, Financial Institutions, Professional Indemnity and Medical Malpractice segments. Ali was also involved in the start of the Cyber Insurance segment in Asia and has been closely involved in its growth since it first started gaining traction in the region.
@@ -60,7 +79,8 @@ Dr Fermin Diez is an adjunct Professor at the NUS, NTU, and SMU Business Schools
 
 ![](/images/suchitra.PNG)
 
-![](/images/dr-janson-yap.PNG)
+![](/images/dr-janson-yap.png)
+Dr. Yap is both VP of HR (CPO) as well Adjunct Professor at Business School. He managed the Risk Advisory Business whilst at Deloitte SEA and subsequently at Asia Pacific. In 2020, he joined NUS as Chief Risk Officer to set up the Risk Agenda for the university. He has authored several books and also a keen song composer
 
 ![](/images/dr-jai.PNG)
 
@@ -83,7 +103,17 @@ In recent years, Eric has provided consultation, trainings and presentations rel
 ![](/images/ecri-stella.PNG)
 As a consultant in the Business Development team, Stella identifies new business opportunities in the region by analyzing client challenges and crafting conceptual solutions. She is actively involved in various healthcare projects related to technology assessment, process improvement, and patient safety. Stella joined ECRI as a Project Executive and was tasked to assist in various consultancy projects. Her previous role includes performing extensive research on medical technology to provide evidence-based findings, developing neutral technical specifications, and performing tender evaluations. She has experience in Healthcare Technology Planning and has supported multiple projects in countries such as China and Philippines. Stella’s experience includes healthcare technology management, particularly in the maintenance of medical devices, where she played an active role in improving biomedical engineering operations and medical device maintenance management in a project in Thailand. She was recently involved in the analysis of Health IT-related events reported by hospitals to identify patient safety risks associated with the use of health IT.
 
-![](/images/ben-chang.PNG)
+![](/images/ben-chang.png)
+Benjamin Chang is a Managing Director at Marsh and currently serves as the Asia Power & Hydrogen Leader. With approximately 17 years of experience in risk and insurance, he specializes in de-risking energy and power projects to facilitate investments that support the global energy transition.
+
+Throughout his career, Benjamin has been personally involved in over 65 successful financial closings of infrastructure and power projects across Asia, the Middle East, Africa, and Latin America. In addition to working with sponsors, he has also acted as a risk consultant to governments and development banks in Asia, providing valuable advice on IPP development programs and key PPP infrastructure projects.
+
+Some of his notable project experiences include:
+*   Overseeing more than 70GW of conventional power and renewable energy projects, both in construction and operation.
+*   Involvement in the largest combined-cycle gas turbine (CCGT) project in the world.
+*   Contribution to the largest green hydrogen project in the world.
+*   Contribution to the development of the largest thermal power plant in Asia.
+*   Involvement in the financing of the largest geothermal power plant in the world.
 
 ![](/images/ying-zhi.PNG)
 
@@ -93,6 +123,14 @@ Jing Ping is the Vice President in** Cytel** and General Manager for Asia Pacifi
 She has more than 25 years of experience in Clinical Research in the Pharmaceutical and CRO industries. Prior to joining Cytel, she was the Director for Research Integrity, Compliance and Ethics in Singapore Health Services (**SingHealth**), the largest healthcare group of hospitals, specialty centres and primary care clinics in Singapore. She was responsible for implementation of ethical foundations, regulatory compliance, research integrity, Good Clinical Practice and other research excellence standards for all aspects of human research within SingHealth. She was previously the Corporate Vice President for **PAREXEL** International CRO, responsible for leading the global biopharmaceutical unit in project deliveries (including trial execution) for pharmaceutical companies and for providing the strategic consultancy. In her role as Corporate Vice President, she has successfully led the strategic partnership programme, managed portfolios of compounds from more than 50 biopharmaceutical companies.  
 
 Jing Ping brings with her wealth of experience in all aspects of clinical development, including strategic planning, budget management, clinical operations, project management, biometrics, medical writing, medical affairs, quality management, audits, biobanking, compliance, research integrity and ethics. She is currently the Steering Committee Member for the Singapore Chapter of Drug Information Association and has been the chairperson of the Singapore Clinical Research Professional Forum until 2018. She is also an active speaker in the academic platform and in Pharmaceutical and CRO industries.
+
+![](/images/ms-pauline.png)
+Ms Pauline Tan is Flexxon’s Senior Director of Strategic Growth, leading the company’s long-term growth strategies and brand-building initiatives, as well as communications efforts, across its markets of operations. In line with the Company’s overarching vision and mission, Pauline leads the team in designing and implementing impactful strategies that reinforce the importance of safe and secure digital usage.          
+With close to fifteen years of experience in market strategy, product management, consumer engagement and strategic communications, Pauline possesses a deep-rooted passion for analysing and integrating product functionalities, intricacies and deployments with market needs and demands.
+
+A passionate spokesperson for the cybersecurity industry, Pauline is a strong advocate for the safe and secure integration of technology across organisations to advance their efficiencies in the digital economy. Guided by this mission, Pauline plays a key role in representing Flexxon’s market-leading technologies and products on local, regional, and global platforms.
+
+Prior to joining Flexxon, Pauline held senior positions in major healthcare organisations, which saw her actively engaged in multi-stakeholder communications to synthesize corporate development and services with the on-ground requirements and demands of public sector organisations and customers
 
 ![](/images/agnes-koh.PNG)
 Ms Agnes Koh is Chief Risk Officer of Singapore Exchange (SGX Group). She is responsible for championing and leading enterprise risk management activities across the organisation, establishing the risk frameworks for new products and business strategies, managing the clearing risk of SGX Group’s securities and derivatives clearing houses and driving operational resilience and business continuity in SGX Group.
