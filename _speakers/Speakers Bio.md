@@ -114,6 +114,14 @@ She has more than 25 years of experience in Clinical Research in the Pharmaceuti
 
 Jing Ping brings with her wealth of experience in all aspects of clinical development, including strategic planning, budget management, clinical operations, project management, biometrics, medical writing, medical affairs, quality management, audits, biobanking, compliance, research integrity and ethics. She is currently the Steering Committee Member for the Singapore Chapter of Drug Information Association and has been the chairperson of the Singapore Clinical Research Professional Forum until 2018. She is also an active speaker in the academic platform and in Pharmaceutical and CRO industries.
 
+
+Ms Pauline Tan is Flexxon’s Senior Director of Strategic Growth, leading the company’s long-term growth strategies and brand-building initiatives, as well as communications efforts, across its markets of operations. In line with the Company’s overarching vision and mission, Pauline leads the team in designing and implementing impactful strategies that reinforce the importance of safe and secure digital usage.          
+With close to fifteen years of experience in market strategy, product management, consumer engagement and strategic communications, Pauline possesses a deep-rooted passion for analysing and integrating product functionalities, intricacies and deployments with market needs and demands.
+
+A passionate spokesperson for the cybersecurity industry, Pauline is a strong advocate for the safe and secure integration of technology across organisations to advance their efficiencies in the digital economy. Guided by this mission, Pauline plays a key role in representing Flexxon’s market-leading technologies and products on local, regional, and global platforms.
+
+Prior to joining Flexxon, Pauline held senior positions in major healthcare organisations, which saw her actively engaged in multi-stakeholder communications to synthesize corporate development and services with the on-ground requirements and demands of public sector organisations and customers
+
 ![](/images/agnes-koh.PNG)
 Ms Agnes Koh is Chief Risk Officer of Singapore Exchange (SGX Group). She is responsible for championing and leading enterprise risk management activities across the organisation, establishing the risk frameworks for new products and business strategies, managing the clearing risk of SGX Group’s securities and derivatives clearing houses and driving operational resilience and business continuity in SGX Group.
 
