@@ -4,4 +4,4 @@ permalink: /congressguide/onsiteguide/
 description: ""
 image: /images/Onsite Guide (latest).png
 ---
-![](/images/onsite%20guide%20(latest).png)
+![](/images/onsite-guide-as-at-17-june.png)
