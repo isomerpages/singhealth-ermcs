@@ -18,7 +18,7 @@ By leveraging on innovative solutioning, digitalisation and the multitude of sta
 ![](/images/suchitra.PNG)
 <hr>
 
-![](/images/dr-janson-yap.PNG)
+![](/images/dr-janson-yap.png)
 ##### ***Engaging (M.E.) - (M)otivation and (E)xpectations of a worker in a post COVID world***
 Engagement is a significant issue in the workforce. The factors affecting engagement is framed in the broader context of work-culture. The presentation aims to highlight the (M)otivations &amp; (E)xpectations of a worker in a post-COVID world, mitigating risks related to work culture by increasing employee engagement, motivation &amp; productivity, which will be of great interest and benefit to the delegates.
 <hr>
@@ -48,7 +48,7 @@ The safe use of health technology—from simple devices to complex information s
 <hr>
 
 ###### **Track D: Risk and Resilience in the Finance &amp; Insurance Industry**
-![](/images/ben-chang.PNG)
+![](/images/ben-chang.png)
 <hr>
 
 ![](/images/ying-zhi.PNG)
@@ -60,6 +60,8 @@ The safe use of health technology—from simple devices to complex information s
 ##### ***Building Resilience in Clinical Research Post COVID***
 The clinical research ecosystem is facing major drivers (post covid-19 pandemic and ability to utilise large datasets) for future innovation, causing the stakeholders to re-evaluate the approach to medical product development. In order for us to be competitive in the global research landscape, the Singapore research ecosystem will need to look at how to institutionalise innovation while mitigating the associated risks. Areas where Singapore can make a difference includes harnessing big data from diverse sources and use of advanced analytics, optimising the use of digital healthcare solutions, closing the gap in translational medicine. The various stakeholders should be equipped to adapt to these innovations and stay ahead of the ever-changing research landscape.
 
+
+![](/images/ms-pauline.png)
 ##### ***Innovation in Cybersecurity: Empowering Proactive Defense and Resilience***
 Enhancing cyber-defenses is a fundamental aspect of innovation in cybersecurity. Traditional security measures that used to work may no longer suffice against sophisticated attacks. Through innovation, organizations can implement cutting-edge technologies to proactively adapt to ever-evolving cyber-attacks.
 
@@ -74,3 +76,6 @@ Gain valuable insights from Pauline Tan's talk as she highlights the crucial rol
 Current events, such as the recent banking turmoil coupled with Russia’s ongoing conflict with Ukraine, have led to macroeconomic challenges such as high inflation, potential risk of financial instability, and disruptions in the global supply chain. These are happening against the backdrop of climate change and other environmental challenges, as well as fast-moving technological innovations in automation and artificial intelligence, which are transforming the way we work and live. Organisations therefore need to be always on, always vigilant, and always adapting to potential disruptive events and trends.
 
 Ms Koh will be sharing her experiences and insights on what organisations can do to be more prepared, and how having oversight of enterprise risks can help organisations better deal with potential new and emerging risks. All of this can help organisations to foster resiliency amidst this uncertain and future global risk landscape.
+<hr>
+
+![](/images/ben-chang.png)
