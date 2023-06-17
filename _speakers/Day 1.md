@@ -3,8 +3,9 @@ title: Day 1
 permalink: /speakers/day1/
 description: ""
 ---
-##### **Keynote Address**
+##### **Keynote Address: Unleashing Dynamic Risk Management**
 ![](/images/dr-sarjit.PNG)
+This captivating keynote reveals how to navigate uncharted territories, seize opportunities, and overcome challenges. Explore real-world case studies and innovative strategies that empower professionals to proactively identify, evaluate, and respond to risks in real-time. Discover the power of dynamic risk management in securing the future of&nbsp;organisational excellence and optimising operational efficiencies. From harnessing data analytics and predictive modeling to fostering a risk-aware culture, this keynote provides a roadmap for integrating dynamic risk management into the fabric of organisations for sustainable growth. We will explore the emerging risk landscape, where challenges and opportunities intertwine in an intricate dance. From disruptive technologies to geopolitical shifts, we will uncover the forces shaping the risk landscape and unveil the secrets to conquering them. Together, let us unlock the potential of dynamic risk management, navigate the ever-evolving risk landscape, and secure a thriving future for&nbsp;organisations&nbsp;with confidence and foresight.
 <hr>
 
 ###### **Plenary 1: Environmental, Social, and Governance (ESG)**
