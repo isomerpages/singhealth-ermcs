@@ -60,6 +60,14 @@ The safe use of health technology—from simple devices to complex information s
 ##### ***Building Resilience in Clinical Research Post COVID***
 The clinical research ecosystem is facing major drivers (post covid-19 pandemic and ability to utilise large datasets) for future innovation, causing the stakeholders to re-evaluate the approach to medical product development. In order for us to be competitive in the global research landscape, the Singapore research ecosystem will need to look at how to institutionalise innovation while mitigating the associated risks. Areas where Singapore can make a difference includes harnessing big data from diverse sources and use of advanced analytics, optimising the use of digital healthcare solutions, closing the gap in translational medicine. The various stakeholders should be equipped to adapt to these innovations and stay ahead of the ever-changing research landscape.
 
+##### ***Innovation in Cybersecurity: Empowering Proactive Defense and Resilience***
+Enhancing cyber-defenses is a fundamental aspect of innovation in cybersecurity. Traditional security measures that used to work may no longer suffice against sophisticated attacks. Through innovation, organizations can implement cutting-edge technologies to proactively adapt to ever-evolving cyber-attacks.
+
+Advanced technologies such as artificial intelligence, machine learning, and behavioral analytics enable real-time threat detection and response. These innovative approaches empower organizations to identify and mitigate potential cyber-attacks to safeguard sensitive information and secure digital assets.
+
+Gain valuable insights from Pauline Tan's talk as she highlights the crucial role of continuous innovation in enabling organizations to uphold a proactive approach in implementing cybersecurity measures and cultivating cyber resilience.
+<hr>
+
 ###### **Closing Plenary: Resilience for the Future**
 ![](/images/agnes-koh.PNG)
 ##### ***A Resilient Organisation - What we can do to prepare for the Future***
