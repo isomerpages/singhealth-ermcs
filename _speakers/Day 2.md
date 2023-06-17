@@ -20,6 +20,8 @@ By leveraging on innovative solutioning, digitalisation and the multitude of sta
 
 ![](/images/dr-janson-yap.PNG)
 ##### ***Engaging (M.E.) - (M)otivation and (E)xpectations of a worker in a post COVID world***
+Engagement is a significant issue in the workforce. The factors affecting engagement is framed in the broader context of work-culture. The presentation aims to highlight the (M)otivations &amp; (E)xpectations of a worker in a post-COVID world, mitigating risks related to work culture by increasing employee engagement, motivation &amp; productivity, which will be of great interest and benefit to the delegates.
+<hr>
 
 ###### **Plenary 5: Break-Out Session 1**
 ###### **Track A: Education – A Cornerstone in ERM**
