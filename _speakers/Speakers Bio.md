@@ -104,6 +104,16 @@ In recent years, Eric has provided consultation, trainings and presentations rel
 As a consultant in the Business Development team, Stella identifies new business opportunities in the region by analyzing client challenges and crafting conceptual solutions. She is actively involved in various healthcare projects related to technology assessment, process improvement, and patient safety. Stella joined ECRI as a Project Executive and was tasked to assist in various consultancy projects. Her previous role includes performing extensive research on medical technology to provide evidence-based findings, developing neutral technical specifications, and performing tender evaluations. She has experience in Healthcare Technology Planning and has supported multiple projects in countries such as China and Philippines. Stella’s experience includes healthcare technology management, particularly in the maintenance of medical devices, where she played an active role in improving biomedical engineering operations and medical device maintenance management in a project in Thailand. She was recently involved in the analysis of Health IT-related events reported by hospitals to identify patient safety risks associated with the use of health IT.
 
 ![](/images/ben-chang.PNG)
+Benjamin Chang is a Managing Director at Marsh and currently serves as the Asia Power & Hydrogen Leader. With approximately 17 years of experience in risk and insurance, he specializes in de-risking energy and power projects to facilitate investments that support the global energy transition.
+
+Throughout his career, Benjamin has been personally involved in over 65 successful financial closings of infrastructure and power projects across Asia, the Middle East, Africa, and Latin America. In addition to working with sponsors, he has also acted as a risk consultant to governments and development banks in Asia, providing valuable advice on IPP development programs and key PPP infrastructure projects.
+
+Some of his notable project experiences include:
+*   Overseeing more than 70GW of conventional power and renewable energy projects, both in construction and operation.
+*   Involvement in the largest combined-cycle gas turbine (CCGT) project in the world.
+*   Contribution to the largest green hydrogen project in the world.
+*   Contribution to the development of the largest thermal power plant in Asia.
+*   Involvement in the financing of the largest geothermal power plant in the world.
 
 ![](/images/ying-zhi.PNG)
 
