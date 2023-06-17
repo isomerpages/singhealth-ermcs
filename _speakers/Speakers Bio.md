@@ -80,6 +80,7 @@ Dr Fermin Diez is an adjunct Professor at the NUS, NTU, and SMU Business Schools
 ![](/images/suchitra.PNG)
 
 ![](/images/dr-janson-yap.PNG)
+Dr. Yap is both VP of HR (CPO) as well Adjunct Professor at Business School. He managed the Risk Advisory Business whilst at Deloitte SEA and subsequently at Asia Pacific. In 2020, he joined NUS as Chief Risk Officer to set up the Risk Agenda for the university. He has authored several books and also a keen song composer
 
 ![](/images/dr-jai.PNG)
 
