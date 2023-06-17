@@ -5,6 +5,25 @@ description: ""
 ---
 #### **Day 1 Speakers**
 ![](/images/dr-sarjit.PNG)
+Sarjit Singh currently holds the position of Senior Advisor at Deloitte Southeast Asia, where he leads the Deloitte Learning Solutions practice. With a wealth of knowledge and experience, he specialises in various areas, including business assurance and advisory, client training, internal controls reviews (including pre-IPO), risk management, sustainability reporting, regulatory compliance, financial due diligence, and business valuation.
+
+Sarjit's expertise extends to serving a diverse range of clients, including public listed companies, financial institutions, multinationals, government ministries, organs of state, and statutory boards.
+
+Sarjit is a highly accomplished professional with over 30 years of multinational experience in accounting and finance. He holds multiple qualifications, including being a Fellow Chartered Accountant in Singapore, Australia and New Zealand, a Chartered Valuer and Appraiser, and a Financial Forensic Professional. He has also been awarded an honorary doctorate degree.
+
+Sarjit has held various leadership roles throughout his career, including CEO Singapore of In.Corp Global, Chairman and Senior Partner of Kreston ACA, CFO of Aviva Asia, and CFO of AIA Singapore. He has extensive experience in assurance and advisory, having spent 16 years with a Big 4 firm.
+
+In addition to his professional roles, Sarjit is actively involved in the Singapore community. He serves as the Chairman of the Singapore Overseas Regional Council of Chartered Accountants Australia and New Zealand; is a member of the Advocacy Committee of The Institute of Internal Auditors Singapore.
+
+In 2023, Sarjit was appointed by the Ministry of Education to the Board of Trustees of the University of the Arts Singapore (UAS) and serves as the founding chairman of the Audit Committee at UAS.
+
+Sarjit's contributions have been recognised with multiple accolades. He has received three national honours from the President of the Republic of Singapore, including the Public Service Star (Bar) in 2021, the Public Service Star in 2011, and the Public Service Medal in 2007. In 2019, he was honored with the prestigious SkillsFuture Fellowship by the President of the Republic of Singapore for his mastery of skills and mentorship of future talent.
+
+Recognised by Nanyang Technological University (NTU) as a ‘financial industry talent’, Sarjit was the winner of the Nanyang Alumni Achievement Award in 2012. Sarjit was appointed as an Adjunct Associate Professor by NTU from 2010 to 2016 given his expertise in Corporate Governance, Risk Management, Auditing, and Financial Reporting and Analysis.
+
+Sarjit has furthered his education by completing the Advanced Management Program at Harvard Business School and being an alumnus of Harvard University.
+
+Sarjit’s extensive experience and expertise make him a trusted advisor for organisations seeking strategic insights, robust risk management, and sustainable business practices. His expertise, leadership, and commitment make him a highly respected and accomplished professional in the field of accounting and finance. His contributions to the field of accounting and finance continue to benefit clients across various industries within the Southeast Asia region.
 
 ![](/images/mr-keith.PNG)
 Keith is a director with the Business Consulting arm of the Firm. He is also the Deputy Lead of the Firm’s Healthcare Practice.
