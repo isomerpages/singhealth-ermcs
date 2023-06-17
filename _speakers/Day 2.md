@@ -24,7 +24,7 @@ Engagement is a significant issue in the workforce. The factors affecting engage
 <hr>
 
 ###### **Plenary 5: Break-Out Session 1**
-###### **Track A: Education – A Cornerstone in ERM**
+###### **Track A: Education in ERM**
 
 ![](/images/dr-jai.PNG)
 <hr>
