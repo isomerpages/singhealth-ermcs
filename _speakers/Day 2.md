@@ -26,13 +26,28 @@ Engagement is a significant issue in the workforce. The factors affecting engage
 ###### **Plenary 5: Break-Out Session 1**
 ###### **Track A: Education in ERM**
 
-![](/images/dr-jai.PNG)
+![](/images/dr-jai.png)
+##### ***Cultivating a Risk-Aware Culture through ERM-ducation***
+
+Cultivating a risk-aware culture is crucial for organisations to manage and mitigate potential risks and uncertainties effectively. As the global risk landscape evolves in tandem with the every-changing environment, ERM becomes increasingly important in creating value for the organisation. By equipping and empowering employees with essential knowledge and training on proactive risk identification, assessment, evaluation and response, organisations can leverage on their human capital to identify and address pertinent or emerging risks in a coordinated manner.
+
+This plenary session will share some of the benefits of ERM education, how organisations can leverage on the ERM communications and stakeholder engagement to bridge the gap in ERM literacy as well as cover some of the strategies that SingHealth takes to build a risk-aware culture amongst staff, ERM Leads and ERM practitioners in the organisation.&nbsp; We will also explore a bit about the need for ERM training in education practitioners.
 <hr>
 
 ###### **Track B: Global Supply Chain Management**
 
 ![](/images/ms-kuntha.jpg)
 ##### ***Risk Management across the end-to-end supply chain using exponential technology***
+   
+
+A lot of traditional supply chain planning and execution has happened by analysis of historical performance, and whilst there have been advanced statistical models to forecast demand based on historical performance, there is more of a need now to use external data from events monitoring or sentiment analysis to enrich the planning and be able to respond more rapidly to volatility in demand and supply.&nbsp;&nbsp;
+
+End to end supply chain processes are moving to more dynamic processes, to enable a proactive response rather than a reactive one. One of the key criteria is to harness both internal and external data to advance the supply chain resilience and agility. Whilst data and technology are key ingredients, supply chain practitioners need to embrace new ways of working.&nbsp; &nbsp;&nbsp;
+
+Let's look at various risk factors that impact the various nodes of the supply chain, and how to understand and have visibility into these risk factors to be able to respond to them.&nbsp;
+
+Various technologies enable Supply Chain optimization such as demand forecasting, supply planning and inventory optimization. Let’s look at some examples of how we embed risk factors into the end to end Supply Chain and leverage AI and ML, simulation models and predictive analytics to manage supply chain risk.
+<hr>
 
 ###### **Plenary 6: Break-Out Session 2**
 ###### **Track C: Cyber Risk and Internet of Things (IoT)**
@@ -47,11 +62,14 @@ The increasing adoption of integrated devices and systems in healthcare has brou
 The safe use of health technology—from simple devices to complex information systems—necessitates identifying possible sources of danger or difficulty with those technologies and taking steps to minimize the risk that adverse events will occur. This is especially important as the cradle-to-grave management of medical equipment becomes more complex with medical devices being more interconnected. This session will highlight technology safety topics related to the Internet of Medical Things that we believe warrant great attention.
 <hr>
 
-###### **Track D: Risk and Resilience in the Finance &amp; Insurance Industry**
+###### **Track D: Charting a New Course for Resilience in the Finance &amp; Insurance Arena**
 ![](/images/ben-chang.png)
+##### ***New Frontier of Risk &amp; Resilience***
 <hr>
 
-![](/images/ying-zhi.PNG)
+![](/images/ying-pru.png)
+##### ***Bringing Risk Culture to the Next Level***
+A refreshing approach to build a stronger Risk Culture through exploring individual risk propensities, collaborating innovatively and looking at Risk Culture from a different lens.
 <hr>
 
 ###### **Plenary 7: Innovation &amp; Research**
@@ -79,3 +97,4 @@ Ms Koh will be sharing her experiences and insights on what organisations can do
 <hr>
 
 ![](/images/ben-chang.png)
+##### ***Risk and Resilience for a Post-Pandemic World***
