@@ -65,6 +65,13 @@ Hwee Yin graduated from the National University of Singapore with a degree in Po
 Olivia Jensen is Lead Scientist at the Institute for the Public Understanding of Risk at the National University of Singapore where she heads the Environment and Climate research pillar. She is an economist and public policy scholar specialising in risk perceptions and communications, with a focus on risks linked to climate change, water and the intersection between health and environment. At IPUR, she partners with government agencies and international organisations to develop and deliver research projects with policy impact. Prior to joining IPUR, she was based at the LKY School of Public Policy. Olivia holds a PhD from the London School of Economics and a BA from Oxford University. She has lived and worked throughout Asia, including in China, Japan and India, and has been resident in Singapore since 2011.
 
 ![](/images/prof-ong.PNG)
+A/Prof Ong Biauw Chi is the Group Chief Risk Officer of SingHealth and is a Senior Consultant of Anaesthesiology at SingHealth. She was the Head of Anaesthesiology, SGH from 2009 – 2014 and completed her fellowship training in Cardiac Anaesthesia, including Transesophageal Echocardiography training in Massachusetts General Hospital  and  Boston  Children's Hospital. She was also the   team   lead   in   the separation of the Nepalese Craniopagus twins (2001) and the Iranian Craniopagus twins (2003).
+
+A College Master in Duke-NUS, A/Prof Ong is deeply interested in teaching, mentoring and training junior doctors, including medical students in both Yong Loo Lin School of Medicine and Duke-NUS Graduate Medical School, anaesthesia trainees and other medical officers and registrars. She was named best mentor by SingHealth trainees and continues to be involved in teaching via the use of simulations and various pedagogy methods. She was involved in kick-starting a post basic peri-anaesthesia course for nurses with NYP to further advance the role and professional development of nurses in anaesthesia.
+
+A/Prof Ong actively supports research and has held several NMRC grants to date. She was awarded the Public Administration Silver Medal in the National Day Awards, 2013 and the National Medical Excellence award for National Outstanding Clinical Quality Activist in 2014.
+
+As the first Chairman of the Medical Board of Sengkang General Hospital, A/Prof Ong Biauw Chi was actively involved in the planning, development and operations of SKH until July 2021. During the COVID-19 pandemic, A/Prof Ong led the hospital in its fight against COVID-19 and contributed towards the national initiatives aimed at containing the COVID-19 outbreak within the S11 migrant worker dormitories. She was one of the eight women named “Woman of the Year” by Her World in 2020.
 
 ![](/images/mr-chaudhry.png)
 Ali has over 35 years insurance industry experience and started his career in the London and Lloyd’s insurance markets.
@@ -82,7 +89,10 @@ Dr Fermin Diez is an adjunct Professor at the NUS, NTU, and SMU Business Schools
 ![](/images/dr-janson-yap.png)
 Dr. Yap is both VP of HR (CPO) as well Adjunct Professor at Business School. He managed the Risk Advisory Business whilst at Deloitte SEA and subsequently at Asia Pacific. In 2020, he joined NUS as Chief Risk Officer to set up the Risk Agenda for the university. He has authored several books and also a keen song composer
 
-![](/images/dr-jai.PNG)
+![](/images/dr-jai.png)
+Dr Jai Prashanth Rao is a Senior Consultant Neurosurgeon in the National Neuroscience Institute (NNI). He graduated with his MBBS degree from the University of New South Wales, Australia in 1999 and was awarded his FRCSEd (SN) in 2013. Dr Rao believes strongly in the importance of education and was awarded his Master of Science (Health Professions Education) from the MGH Institute of Health Professions in 2015. Dr Rao is extensively involved in the education of medical students and is also the Programme Director of the SingHealth Neurosurgery Residency Programme. His education interests include online learning, simulation and interprofessional collaboration.
+
+Dr Rao is also highly active in the realm of Enterprise Risk Management (ERM) and ERM education. As Deputy Director, Risk Management NNI, he has spear-headed the development of two e-learning modules for the SingHealth cluster – i.e. ‘ERM 101: Basics of Healthcare ERM’ and ‘ERM 102’ under the ERM Education Task Force (E2TF). The modules aim to fulfill the learning needs of SingHealth staff, ERM leads and practitioners by equipping them with ERM knowledge and expertise via a self-directed learning approach.
 
 ![](/images/ms-kuntha.jpg)
 Kuntha has over 22 years of industry and consulting experience. She started her career in the Telecom industry with Telstra in Australia, and was a manager in the global headquarters of Alcatel in France where she developed long-term global supply chain strategy, implemented developed strategies worldwide. She then moved to strategy consulting and supply chain and operations consulting. She has worked in Europe for close to 10 years and across Asia Pacific for over 12 years, having been based in Paris, London, Hong Kong, Sydney, Melbourne and now Singapore. 
@@ -115,7 +125,14 @@ Some of his notable project experiences include:
 *   Contribution to the development of the largest thermal power plant in Asia.
 *   Involvement in the financing of the largest geothermal power plant in the world.
 
-![](/images/ying-zhi.PNG)
+![](/images/ying-pru.png)
+Ying is Head of Enterprise Risk Management at Prudential Singapore. She oversees the Enterprise Risk Management function in Prudential, covering both financial and non-financial risks, and Quality Assurance.
+
+Ying joined Prudential in 2017. During her time at Prudential, she has taken on various roles in Corporate Strategy, Compliance and Risk. Ying played an instrumental role in Prudential’s early years of transformation, driving the change of the organisation’s vision, business plans, and culture in her previous capacity as the Head of Strategic Planning. She subsequent led a company-wide initiative to revamp Prudential sales journey from process design, system implementation to changes in sales practices.
+
+Ying has over 15 years of working experience and started her career as an Auditor at Price Waterhouse Coopers, subsequently moving on to Management Consulting, where she worked in various countries (Singapore, London, Zurich and Malaysia). A highly motivated problem solver, she focuses on driving positive change and delivering results by translating management objectives into actions that achieve results. She is passionate about developing teams and individuals through coaching and mentoring.
+
+Ying is a Chartered Accountant and a member of the Institute of Chartered Accountants in England and Wales (ICAEW). She holds a degree in Accounting and Business Management from Singapore Management University (SMU). She is also a pro-bono Finance Committee Member of YWCA.
 
 ![](/images/dr-yeo.PNG)
 Jing Ping is the Vice President in** Cytel** and General Manager for Asia Pacific. In her current role, she is responsible for Cytel’s growth strategy for Asia, servicing as the commercial and operational lead in execution of the growth of biometrics business across analytics softwares and services.
