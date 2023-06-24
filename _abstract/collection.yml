@@ -2,7 +2,7 @@ collections:
   abstract:
     output: true
     order:
-      - Acknowledgement of Submissions.md
+      - Note of Appreciation.md
       - Call For Abstracts.md
       - Eligibility Requirements.md
       - Submission Guidelines.md
