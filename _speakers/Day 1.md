@@ -59,6 +59,7 @@ The first step in communicating risk effectively is to understand the values, co
 ###### **Plenary 3: Healthcare Enterprise Risk Management**
 
 ![](/images/prof-ong.PNG)
+##### ***Clinical Risk Management – A Cornerstone in Healthcare ERM***
 <hr>
 
 ![](/images/mr-chaudhry.png)
