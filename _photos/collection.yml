@@ -2,4 +2,4 @@ collections:
   photos:
     output: true
     order:
-      - Photos.md
+      - ERMCS 2023 Photos.md
