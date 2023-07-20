@@ -1,4 +1,5 @@
 collections:
   photos:
     output: true
-    order: []
+    order:
+      - Photos.md
