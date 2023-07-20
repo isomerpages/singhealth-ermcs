@@ -1,0 +1,5 @@
+collections:
+  photos:
+    output: true
+    order:
+      - ERMCS 2023 Photos.md
