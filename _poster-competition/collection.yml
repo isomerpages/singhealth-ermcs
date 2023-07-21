@@ -1,5 +1,5 @@
 collections:
-  abstract:
+  poster-competition:
     output: true
     order:
       - Note of Appreciation.md
