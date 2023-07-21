@@ -1,7 +1,8 @@
 collections:
-  abstract:
+  poster-competition:
     output: true
     order:
+      - Congratulations.md
       - Note of Appreciation.md
       - Call For Abstracts.md
       - Eligibility Requirements.md
