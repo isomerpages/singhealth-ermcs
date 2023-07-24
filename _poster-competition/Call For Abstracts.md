@@ -1,6 +1,6 @@
 ---
 title: Call For Abstracts
-permalink: /abstract/callforabstracts/
+permalink: /postercompetition/callforabstracts/
 description: ""
 ---
 The ERMCS Organising Committee 2023 cordially invites professionals from all industries to submit abstracts in the following categories to share your innovation and expertise:

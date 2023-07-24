@@ -1,6 +1,6 @@
 ---
 title: Note of Appreciation
-permalink: /abstract/noteofappreciation/
+permalink: /postercompetition/noteofappreciation/
 description: ""
 ---
 We would like to thank everyone who participated and submitted their abstracts for our inaugural ERMCS Poster Competition 2023. 

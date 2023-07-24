@@ -1,6 +1,6 @@
 ---
 title: Submission Guidelines
-permalink: /abstract/submissionguidelines/
+permalink: /postercompetition/submissionguidelines/
 description: ""
 ---
 ## **Abstract Submission Guidelines:**

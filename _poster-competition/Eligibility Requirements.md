@@ -1,6 +1,6 @@
 ---
 title: Eligibility Requirements
-permalink: /abstract/eligibilityrequirements/
+permalink: /postercompetition/eligibilityrequirements/
 description: ""
 ---
 ## **Abstract Submission Eligibility:**

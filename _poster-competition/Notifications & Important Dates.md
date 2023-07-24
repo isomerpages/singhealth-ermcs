@@ -1,6 +1,6 @@
 ---
 title: Notifications & Important Dates
-permalink: /abstract/notificationsandimportantdates/
+permalink: /postercompetition/notificationsandimportantdates/
 description: ""
 ---
 Please take note of the following:
