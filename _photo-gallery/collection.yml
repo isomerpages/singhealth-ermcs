@@ -1,5 +1,5 @@
 collections:
-  photos:
+  photo-gallery:
     output: true
     order:
       - 2023.md
