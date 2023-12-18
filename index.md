@@ -7,18 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ERMCS_2024_Website_Banner_v1__resized_2_.png
+      background: /images/final_ERMCS_2024_Website_Banner_v1__hi_res___resized_for_website_.png
       key_highlights:
         - title: Programme Outline
-          description: ""
+          description: More details to be released
           url: https://www.ermcs.sg/programme/
         - title: CALL FOR ABSTRACTS
-          description: ""
+          description: More details to be released
           url: https://www.ermcs.sg/abstract/callforabstracts/
   - infopic:
       title: MARK YOUR CALENDARS!
       url: https://www.ermcs.sg/registration/registernow/
-      image: /images/ERMCS Website About ERMCS page.png
+      image: /images/ERMCS_2024_Photo_Collage_for_Website.png
       alt: Register Now
       description: ERMCS will be happening on 17 and 18 September 2024. Details will
         be released progressively.
