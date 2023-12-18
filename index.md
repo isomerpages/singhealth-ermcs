@@ -10,10 +10,10 @@ sections:
       background: /images/final_ERMCS_2024_Website_Banner_v1__hi_res___resized_for_website_.png
       key_highlights:
         - title: Programme Outline
-          description: ""
+          description: More details to be released
           url: https://www.ermcs.sg/programme/
         - title: CALL FOR ABSTRACTS
-          description: ""
+          description: More details to be released
           url: https://www.ermcs.sg/abstract/callforabstracts/
   - infopic:
       title: MARK YOUR CALENDARS!
