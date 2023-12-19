@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/final_ERMCS_2024_Website_Banner_v1__hi_res___resized_for_website_.png
+      background: /images/ERMCS_2024_Website_Banner_v1__resized_for_website_.png
       key_highlights:
         - title: Programme Outline
           description: More details to be released
