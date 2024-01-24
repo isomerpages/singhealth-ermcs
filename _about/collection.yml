@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - About ERMCS.md
+      - Welcome Message.md

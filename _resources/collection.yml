@@ -1,0 +1,7 @@
+collections:
+  resources:
+    output: true
+    order:
+      - About Singapore.md
+      - Accomodation.md
+      - Travel.md
