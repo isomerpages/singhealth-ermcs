@@ -2,23 +2,23 @@
 title: Call For Abstracts
 permalink: /postercompetition/callforabstracts/
 description: ""
+variant: markdown
 ---
-The ERMCS Organising Committee 2023 cordially invites professionals from all industries to submit abstracts in the following categories to share your innovation and expertise:
 
+![](/images/ERMCS_2024_Abstract_Call_1__for_website_.png)
+
+ERMCS Organising Committee cordially invites professionals from all industries to share risk management related ideas, expertise and projects with us today!
+
+**Poster Categories:**
 1. Clinical Risk & Patient Safety
-
 2. Compliance, Regulation, Workplace & Safety
-
-3. Crisis Communication & Management
- 
+3. Crisis Communications & Management
 4. Cybersecurity, Data & Technology
- 
 5. Finance & Insurance
-  
 6. Human Capital
-  
 7. Research, Innovation & Education
-  
-8. Supply Chain & Operations
+8. Operations
 
-For questions about abstract submission, please do not hesitate to contact us at secretariat@ermcs.sg
+To submit your abstract, [click here](https://form.gov.sg/65a11ac4f2138c0012e4daa9)
+
+For questions on abstract submission, please do not hesitate to contact us at secretariat@ermcs.sg
