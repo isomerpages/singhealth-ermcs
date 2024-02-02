@@ -3,9 +3,7 @@ title: PROGRAMME
 permalink: /programme/
 description: ""
 image: /images/ERMCS DAY 1.png
+variant: markdown
 ---
-![](/images/day1-1.PNG)
-![](/images/day1-2.PNG)
-
-![](/images/day2-1.PNG)
-![](/images/day2-2.PNG)
+Details on ERMCS 2024 Programme Outline to be released soon.
+<br> Continue to watch this space for updates!
