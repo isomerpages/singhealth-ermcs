@@ -2,6 +2,7 @@
 title: Eligibility Requirements
 permalink: /postercompetition/eligibilityrequirements/
 description: ""
+variant: markdown
 ---
 ## **Abstract Submission Eligibility:**
 
@@ -9,7 +10,7 @@ description: ""
 
 * Abstracts must be original and unpublished works.
 
-* The abstracts should be based on Enterprise Risk Management-related research / innovation / work / process completed between 2021 to 2022.
+* The abstracts should be based on Enterprise Risk Management-related research / innovation / work / process completed between 2022 to 2023.
 
 * Authors consent to have their abstracts published on the ERMCS website upon acceptance. Formal notification will be required for authors who are unwilling to publish their abstracts.
 
