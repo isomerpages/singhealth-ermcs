@@ -3,5 +3,6 @@ title: Onsite Guide
 permalink: /congressguide/onsiteguide/
 description: ""
 image: /images/Onsite Guide (latest).png
+variant: markdown
 ---
-![](/images/onsite-guide-as-at-17-june.png)
+Onsite guide for ERMCS 2024 will be released soon
