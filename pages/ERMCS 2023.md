@@ -4,6 +4,7 @@ permalink: /ermcs-2023/
 variant: markdown
 description: ""
 ---
+![](/images/ermcs-welcome-message-from-gcro-1.jpg)
 
 <p></p>
 <div class="isomer-image-wrapper">
