@@ -2,9 +2,9 @@ collections:
   poster-competition:
     output: true
     order:
-      - Congratulations.md
-      - Note of Appreciation.md
       - Call For Abstracts.md
       - Eligibility Requirements.md
       - Submission Guidelines.md
       - Notifications & Important Dates.md
+      - Congratulations.md
+      - Note of Appreciation.md
