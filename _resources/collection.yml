@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - ERMCS 2023.md
       - About Singapore.md
       - Accomodation.md
       - Travel.md

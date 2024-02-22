@@ -1,5 +1,5 @@
 ---
-title: Congratulations to ERMCS 2023 Poster Competition Winners!
+title: Congratulations (ERMCS 2023)
 permalink: /postercompetition/congratulations/
 description: ""
 variant: tiptap
