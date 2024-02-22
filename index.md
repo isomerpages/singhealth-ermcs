@@ -25,5 +25,5 @@ sections:
   - infobar:
       title: CALL FOR ABSTRACTS
       url: https://www.ermcs.sg/abstract/submissionguidelines/
-      description: More details to be released in 2024
+      description: Abstract Call Starts Now!
 ---
