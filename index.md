@@ -13,7 +13,7 @@ sections:
           description: More details to be released
           url: https://www.ermcs.sg/programme/
         - title: CALL FOR ABSTRACTS
-          description: More details to be released
+          description: Abstract Call Starts Now!
           url: https://www.ermcs.sg/abstract/callforabstracts/
   - infopic:
       title: MARK YOUR CALENDARS!
