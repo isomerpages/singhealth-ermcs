@@ -2,9 +2,10 @@ collections:
   poster-competition:
     output: true
     order:
-      - Congratulations.md
-      - Note of Appreciation.md
       - Call For Abstracts.md
       - Eligibility Requirements.md
       - Submission Guidelines.md
-      - Notifications & Important Dates.md
+      - Things to Note & Important Dates.md
+      - Congratulations to ERMCS 2023 Poster Competition Winners!.md
+      - Note of Appreciation (ERMCS 2023 Poster Competition Abstract
+        Submissions).md

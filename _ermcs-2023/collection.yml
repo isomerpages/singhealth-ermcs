@@ -1,5 +1,5 @@
 collections:
-  about:
+  ermcs-2023:
     output: true
     order:
-      - About ERMCS.md
+      - ERMCS 2023.md

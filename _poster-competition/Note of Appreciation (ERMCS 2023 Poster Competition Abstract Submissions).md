@@ -1,7 +1,8 @@
 ---
-title: Note of Appreciation
+title: Note of Appreciation (ERMCS 2023 Poster Competition Abstract Submissions)
 permalink: /postercompetition/noteofappreciation/
 description: ""
+variant: tiptap
 ---
 We would like to thank everyone who participated and submitted their abstracts for our inaugural ERMCS Poster Competition 2023. 
 

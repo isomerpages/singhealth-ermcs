@@ -7,14 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ERMCS_2024_Website_Banner_v1__resized_for_website_.png
+      background: /images/ERMCS_2024_Website_Banner_v2__resized_for_website_.png
       key_highlights:
-        - title: Programme Outline
+        - title: PROGRAMME OUTLINE
           description: More details to be released
           url: https://www.ermcs.sg/programme/
         - title: CALL FOR ABSTRACTS
-          description: More details to be released
-          url: https://www.ermcs.sg/abstract/callforabstracts/
+          description: Abstract Call Starts Now!
+          url: https://www.ermcs.sg/postercompetition/callforabstracts/
   - infopic:
       title: MARK YOUR CALENDARS!
       url: https://www.ermcs.sg/registration/registernow/
@@ -25,5 +25,5 @@ sections:
   - infobar:
       title: CALL FOR ABSTRACTS
       url: https://www.ermcs.sg/abstract/submissionguidelines/
-      description: More details to be released in 2024
+      description: Abstract Call Starts Now!
 ---
