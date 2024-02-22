@@ -1,4 +1,5 @@
 collections:
   ermcs-2023:
     output: true
-    order: []
+    order:
+      - ERMCS 2023.md
