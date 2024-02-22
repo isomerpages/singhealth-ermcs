@@ -2,6 +2,7 @@
 title: Notifications & Important Dates
 permalink: /postercompetition/notificationsandimportantdates/
 description: ""
+variant: markdown
 ---
 Please take note of the following:
 
@@ -10,9 +11,12 @@ Please take note of the following:
 * Authors will be notified for poster submission via email if the abstract has been accepted.
 
 **Important Dates**:
-* **3 April 2023**: Abstract Submission Opens 
-* **~~5 May 2023~~ 12 May 2023 (EXTENDED)**: Abstract Submission Closes
-* **19 May 2023**: Shortlisted Authors to be notified for poster submission
-* **2 June 2023**: Poster submission closes 
+* **Call for Abstract Submissions**: 1 Feb 2024 to 29 Mar 2024
+* **Review Period**: 1 to 30 Apr 2024
+* **Announcement of Results**: 30 Apr 2024
+* **Authors to Submit Poster for Poster Competition**: May to Jun 2024
+* **Pre-Judging for Poster Competition**: Jul 2024
+* **Poster Presentation Judging**: 17 Sep 2024
+* **Announcement of Results**: 17 Sep 2024
 
-*Note: The dates have been updated as at 4 May 2023.*
+*Note: The dates are accurate as at 22 February 2024.*
