@@ -6,7 +6,7 @@ variant: markdown
 ---
 > ####  **Bringing together like-minded risk management leaders and professional from various industries**
 
-Started in 2023, the annual **Enterprise Risk Management Congress Singapore 2023**, organised by the SingHealth Office of Risk Services, will bring together **like-minded ERM leaders and professionals** to share their ERM insights, expert advice and experiences in their expertise areas. 
+Started in 2023, the annual **Enterprise Risk Management Congress Singapore**, organised by the SingHealth Office of Risk Services, will bring together **like-minded ERM leaders and professionals** to share their ERM insights, expert advice and experiences in their expertise areas. 
 
 ![](/images/Img_0054.jpg)
 
