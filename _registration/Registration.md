@@ -8,10 +8,13 @@ variant: markdown
 
 Click [here](https://form.gov.sg/65bc5336f7f3ee7394d56d4b) to register.
 
-#### **The registration fees for ERMCS 2024 are as follows:**
+#### **ERMCS 2024 registration fees:**
 
-**Public Service/Public Healthcare**: SGD 790.00 <br>
-**Public**: SGD 1,100.00
+The registration fee for ERMCS 2024 is SGD 1,100.00
+
+**Public Service/Public Healthcare** participants enjoy a special registration rate of SGD 790.00
+
+**General Public** (i.e. do not fall under the "Public Service/Public Healthcare" group) are entitled to our **Early Bird discount**. Read below for more details. 
 
 ##### Early Bird Discount
 Get to enjoy 20% Early Bird discount\* if you register by 3 April 2024.
@@ -21,7 +24,6 @@ Get to enjoy 20% Early Bird discount\* if you register by 3 April 2024.
 For registration of 2 pax or more, you may use the group registration form. **Please email secretariat@ermcs.sg to request for the form.**
 
 **Group discount is available** for group registration of 5 pax or more!
-(More details on the group discount rates can be found in the group registration form)
 
 ##### Note:
 
