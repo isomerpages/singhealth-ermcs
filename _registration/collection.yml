@@ -2,5 +2,5 @@ collections:
   registration:
     output: true
     order:
-      - Registration Fees.md
+      - Registration.md
       - Register Now.md
