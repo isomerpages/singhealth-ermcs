@@ -4,7 +4,11 @@ permalink: /registration/registration/
 description: ""
 variant: markdown
 ---
-##### The registration fees for ERMCS 2024 are as follows:
+#### **Registration for ERMCS 2024 is now open!**
+
+Click [here](https://form.gov.sg/65bc5336f7f3ee7394d56d4b) to register.
+
+#### **The registration fees for ERMCS 2024 are as follows:**
 
 **Public Service/Public Healthcare**: SGD 790.00 <br>
 **Public**: SGD 1,100.00
