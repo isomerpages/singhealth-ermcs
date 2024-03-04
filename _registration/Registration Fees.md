@@ -9,7 +9,17 @@ variant: markdown
 **Public Service/Public Healthcare**: SGD 790.00 <br>
 **Public**: SGD 1,100.00
 
-**Note:**
+##### Early Bird Discount
+Get to enjoy 20% Early Bird discount\* if you register by 3 April 2024.
+<br>**For General Public only*
+
+##### Group Registration &amp; Group Discount
+For registration of 2 pax or more, you may use the group registration form. **Please email secretariat@ermcs.sg to request for the form.**
+
+**Group discount is available** for group registration of 5 pax or more!
+(More details on the group discount rates can be found in the group registration form)
+
+##### Note:
 
 *   All prices quoted are in Singapore Dollars (SGD) and are subject to prevailing government tax.
 *   Payment must be made before the congress commencement date to secure your registration.
