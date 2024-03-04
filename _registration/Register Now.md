@@ -4,5 +4,9 @@ permalink: /registration/registernow/
 description: ""
 variant: markdown
 ---
-#### **Registration details for ERMCS 2024 to be released soon**
+#### **Registration for ERMCS is now open!**
+
+Click [here](https://form.gov.sg/65bc5336f7f3ee7394d56d4b) to register.
+
+
 
