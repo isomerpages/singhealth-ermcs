@@ -1,5 +1,4 @@
 collections:
   registration:
     output: true
-    order:
-      - Registration.md
+    order: []
