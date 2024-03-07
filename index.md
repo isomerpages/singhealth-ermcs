@@ -17,10 +17,10 @@ sections:
           url: https://www.ermcs.sg/postercompetition/callforabstracts/
   - infopic:
       title: REGISTRATION IS NOW OPEN
-      url: https://www.ermcs.sg/registration/registration/
+      url: https://www.ermcs.sg/registration/
       image: /images/ERMCS_2024_Photo_Collage_for_Website.png
       alt: Register Now
-      description: "Register now and get to enjoy early bird discount! "
+      description: Register now and get to enjoy early bird discount!
       button: FOR DETAILS ON REGISTRATION
   - infobar:
       title: CALL FOR ABSTRACTS
