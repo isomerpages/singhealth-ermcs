@@ -2,7 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - ERMCS 2023.md
-      - About Singapore.md
+      - Onsite Guide.md
       - Accomodation.md
+      - About Singapore.md
       - Travel.md
+      - ERMCS 2023.md

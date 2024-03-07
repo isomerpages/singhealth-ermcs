@@ -1,6 +1,6 @@
 ---
 title: Registration
-permalink: /registration/registration/
+permalink: /registration/
 description: ""
 variant: markdown
 ---
