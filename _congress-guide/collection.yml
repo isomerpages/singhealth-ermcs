@@ -1,5 +1,4 @@
 collections:
   congress-guide:
     output: true
-    order:
-      - Onsite Guide.md
+    order: []
