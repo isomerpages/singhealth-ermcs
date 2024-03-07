@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Onsite Guide.md
-      - ERMCS 2023.md
-      - About Singapore.md
       - Accomodation.md
+      - About Singapore.md
       - Travel.md
+      - ERMCS 2023.md
