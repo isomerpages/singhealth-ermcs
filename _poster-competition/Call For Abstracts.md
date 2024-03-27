@@ -4,8 +4,9 @@ permalink: /postercompetition/callforabstracts/
 description: ""
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERMCS_2024_Abstract_Call_1__for_website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERMCS_2024_eDM_3__Abstract_Call_Extension__v3__for_website_.png">
 </div>
 <h3><strong>ERMCS Organising Committee cordially invites professionals from all industries to share risk management related ideas, expertise and projects with us today!</strong></h3>
 <h4><strong>Poster Categories:</strong></h4>
