@@ -14,7 +14,7 @@ Please take note of the following:
 * Late or inappropriately formatted submissions will not be accepted.
 
 **Important Dates**:
-* **Call for Abstract Submission Deadline**: ~~29 Mar 2024~~ Extended to 15 April 2024
+* **Call for Abstract Submission Deadline**: ~~29 Mar 2024~~ Extended to 30 April 2024
 * **Announcement of Results (via email)**: ~~30 Apr 2024~~ Mid May 2024
 * **Authors of Shortlisted Abstracts to Submit Poster for Poster Competition**: Mid May to End June 2024
 * **Pre-Judging for Poster Competition**: July 2024
