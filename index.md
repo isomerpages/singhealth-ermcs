@@ -20,8 +20,7 @@ sections:
       url: https://www.ermcs.sg/registration/
       image: /images/ERMCS_2024_Photo_Collage_for_Website.png
       alt: Register Now
-      description: Register now and get to enjoy early bird discount!
-      button: FOR DETAILS ON REGISTRATION
+      button: CLICK HERE FOR DETAILS
   - infobar:
       title: CALL FOR ABSTRACTS
       url: https://www.ermcs.sg/abstract/submissionguidelines/
