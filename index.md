@@ -10,7 +10,7 @@ sections:
       background: /images/ERMCS_2024_Website_Banner_v2__resized_for_website_.png
       key_highlights:
         - title: PROGRAMME OUTLINE
-          description: More details to be released
+          description: ""
           url: https://www.ermcs.sg/programme/
         - title: CALL FOR ABSTRACTS
           description: Abstract Call Starts Now!
