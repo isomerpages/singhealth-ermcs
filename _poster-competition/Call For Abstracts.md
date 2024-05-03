@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3></h3>
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERMCS_2024_eDM_4__Abstract_Call_Ext_to_30_Apr__v1__for_website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERMCS_2024__Abstract_Call_Ext_to_10_May__v1__for_website_.png">
 </div>
 <h3><strong>ERMCS Organising Committee cordially invites professionals from all industries to share risk management related ideas, expertise and projects with us today!</strong></h3>
 <h4><strong>Poster Categories:</strong></h4>
