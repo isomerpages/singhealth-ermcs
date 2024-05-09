@@ -2,4 +2,4 @@ collections:
   programme:
     output: true
     order:
-      - PROGRAMME.md
+      - Day 1.md
