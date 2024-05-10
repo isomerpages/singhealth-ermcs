@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Slide4.png)![](/images/Slide5.png)
 
-&gt; ##### **Plenary 9: Risk-Ready: Navigating the Risk and Resilience Journey**
+##### **Plenary 9: Risk-Ready: Navigating the Risk and Resilience Journey**
 
 **Mr Derek Taylor**
 <br>
@@ -20,7 +20,7 @@ Through activities and case studies, we will showcase how organizations have suc
 
 By attending this presentation, participants will be able to gain insights into the key success factors of implementing effective ERM, BCM, and CM frameworks, and learn how this integration can bolster an organization's proactive risk and resilience efforts, ensure preparedness for potential incidents, and ultimately foster long-term resilience in the face of evolving challenges.
 
-&gt; ##### **Plenary 10: Risk Management in the Film, Media and Entertainment World**
+##### **Plenary 10: Risk Management in the Film, Media and Entertainment World**
 
 **Mr Kelvin SNG**
 <br>
