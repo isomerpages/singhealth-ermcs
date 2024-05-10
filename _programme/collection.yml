@@ -1,5 +1,5 @@
 collections:
-  speakers:
+  programme:
     output: true
     order:
       - Day 1.md
