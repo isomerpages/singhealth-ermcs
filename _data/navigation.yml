@@ -8,8 +8,8 @@ links:
     collection: poster-competition
   - title: Registration
     url: /registration/
-  - title: PROGRAMME
-    url: /programme/
+  - title: Programme
+    collection: programme
   - title: SPEAKERS
     collection: speakers
   - title: SPONSORS
