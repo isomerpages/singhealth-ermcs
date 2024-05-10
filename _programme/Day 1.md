@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
 
-&gt;##### **Plenary 6: Risk Management in Aviation**
+##### **Plenary 6: Risk Management in Aviation**
 
 **Mr Faris Iskandar**
 <br>
