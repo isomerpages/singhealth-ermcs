@@ -6,8 +6,8 @@ description: ""
 ---
 ![](/images/Slide4.png)![](/images/Slide5.png)
 
-**Plenary 9: Risk-Ready: Navigating the Risk and Resilience Journey**
-<br>
+&gt;##### **Plenary 9: Risk-Ready: Navigating the Risk and Resilience Journey**
+
 **Mr Derek Taylor**
 <br>
 Managing Director, Strategic Risk Consulting, Marsh
@@ -21,8 +21,8 @@ Through activities and case studies, we will showcase how organizations have suc
 By attending this presentation, participants will be able to gain insights into the key success factors of implementing effective ERM, BCM, and CM frameworks, and learn how this integration can bolster an organization's proactive risk and resilience efforts, ensure preparedness for potential incidents, and ultimately foster long-term resilience in the face of evolving challenges.
 
 
-**Plenary 10: Risk Management in the Film, Media and Entertainment World**
-<br>
+&gt;##### **Plenary 10: Risk Management in the Film, Media and Entertainment World**
+
 **Mr Kelvin SNG**
 <br>
 Managing Director, Production, Corporate &amp; Education, Kelvin Sng Productions Pte Ltd
