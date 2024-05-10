@@ -1,7 +1,8 @@
 ---
-title: SPONSORS
+title: Sponsors
 permalink: /sponsor/
 description: ""
+variant: tiptap
 ---
 ![](/images/marsh-logo-final.png)
 

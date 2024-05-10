@@ -8,15 +8,15 @@ links:
     collection: poster-competition
   - title: Registration
     url: /registration/
-  - title: PROGRAMME
-    url: /programme/
+  - title: Programme
+    collection: programme
   - title: SPEAKERS
     collection: speakers
   - title: SPONSORS
     url: /sponsor/
   - title: CONTACT US
     url: https://form.gov.sg/642658e4d11e70001382b42a
-  - title: Photo Gallery
+  - title: Photos
     collection: photo-gallery
   - title: RESOURCES
     collection: resources

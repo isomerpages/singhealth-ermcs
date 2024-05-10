@@ -8,8 +8,8 @@ variant: markdown
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
 
-**Plenary 6: Risk Management in Aviation**
-<br>
+##### **Plenary 6: Risk Management in Aviation**
+
 **Mr Faris Iskandar**
 <br>
 Co-Founder, Aeroviation Singapore
@@ -31,5 +31,3 @@ Here are some key points that can be taken away by other industries:
 **Regulatory Compliance:** Adhering to regulatory requirements is fundamental in managing risks. Faris emphasizes the need for organizations to stay updated with industry regulations and standards, ensuring compliance to minimize legal and operational risks.
 
 By incorporating these key points into their risk management practices, industries beyond aviation can enhance their resilience, minimize vulnerabilities, and foster a culture of safety and efficiency.
-
-
