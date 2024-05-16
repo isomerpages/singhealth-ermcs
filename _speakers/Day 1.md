@@ -27,3 +27,11 @@ Faris Iskandar has dedicated close to a decade of his professional life to the a
 His passion for flying extends beyond his professional responsibilities; Faris holds a recreational pilot's license and often takes to the skies for leisure. This personal connection to aviation fuels his dedication to the field.
 
 Currently, Faris serves as the founder of Aeroviation Singapore, a prominent flight school in the region. Through Aeroviation, Faris aims to share his expertise and passion for aviation, nurturing the next generation of pilots and aviation enthusiasts in Singapore. His leadership and vision contribute significantly to the growth and development of the aviation industry in the region.
+
+![](/images/waikhin.png)
+   
+Wai Khin is a Partner at RSM Singapore and oversees the Technology Compliance business arm. He leads a team that is experienced in ISO 27001/cyber Security Trust Mark certification projects, MAS Technology risk Management review, MAS Outsourcing review, 3rd party vendor review, IT due diligence for mergers & acquisitions, SOX ITGC review, Singapore’s Personal Data Protection Act (PDPA), and other internal and external IT compliance requirements.
+
+Wai Khin previously provided in-house audit assurances and security and business continuity advisory services for several organisations, while working for a Big 4 firm.
+
+He is a recipient of the AISP Cybersecurity Leader Awards 2022 and was conferred the “Leader Award” (Professional Category) in recognition of his contributions made in the cybersecurity space in Singapore.
