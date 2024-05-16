@@ -4,7 +4,8 @@ permalink: /postercompetition/callforabstracts/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
+<h3><strong><em>(Abstract Call has closed)</em></strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ERMCS_2024__Abstract_Call_Ext_to_10_May__v1__for_website_.png">
 </div>
