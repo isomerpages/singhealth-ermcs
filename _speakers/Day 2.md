@@ -4,6 +4,10 @@ permalink: /speakers/day2/
 description: ""
 variant: markdown
 ---
+![](/images/seantan.png)
+       
+Sean is a Partner in Mercer Singapore. He leads the Talent, Workforce Transformation and Rewards practice, which delivers advisory services and insights to help our clients on their most important people and culture ambitions in areas such as Work Design, Skills Transformation, Total Rewards Strategy & Insights, HR Function Effectiveness, Employee Experience and Organization Culture Alignment. Sean’s consulting expertise areas include work design, competency modelling, talent management, career pathing, leadership development, performance management, workforce planning & analytics, HR operating model, career value proposition, organization culture alignment, employee engagement and people strategy formulation.
+
 ![](/images/mr_derek.png)
 
 Derek is the Head of Strategic Risk Consulting in Asia and leads a team of highly-experienced risk management consultants with deep subject matter expertise, who specialize the Asia region. He has developed regional experience through both academic study and working in Singapore, Thailand and South Korea for more than 12 years. Derek has scoped, managed and delivered client risk projects in 20 countries across Asia Pacific. He has over 20 years of professional experience, with over ten years as a management consultant.

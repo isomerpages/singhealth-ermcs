@@ -2,8 +2,8 @@ logo: /images/ermcs-website-icon-logo.png
 links:
   - title: HOME
     url: https://www.ermcs.sg/
-  - title: ABOUT
-    collection: about
+  - title: About
+    url: /about/
   - title: Poster Competition
     collection: poster-competition
   - title: Registration
