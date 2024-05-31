@@ -8,6 +8,12 @@ variant: markdown
  
 Associate Professor Tan Hiang Khoon is the Director of SingHealth Duke-NUS Global Health Institute, Group Director of SingHealth's International Collaboration Office, and Deputy CEO of Future Health Systems at Singapore General Hospital (SGH). Dr. Tan specializes in complex head and neck cancers and has pioneered endoscopic and robotic head and neck surgery in Singapore.
 
+![](/images/dr_jai.png)
+
+Dr Jai Prashanth Rao is a Senior Consultant Neurosurgeon in the National Neuroscience Institute (NNI). He graduated with his MBBS degree from the University of New South Wales, Australia in 1999 and was awarded his FRCSEd (SN) in 2013. Dr Rao believes strongly in the importance of education and was awarded his Master of Science (Health Professions Education) from the MGH Institute of Health Professions in 2015. Dr Rao is extensively involved in the education of medical students and is also the Programme Director of the SingHealth Neurosurgery Residency Programme. His education interests include online learning, simulation and interprofessional collaboration.
+
+Dr Rao is also highly active in the realm of Enterprise Risk Management (ERM) and ERM education. As Deputy Director, Risk Management NNI, and Chair of the SingHealth ERM Education Task Force (E2TF), he has helped SingHealth develop online training solutions as well as to conceptualize the education framework to grow risk professional competencies.
+
 ![](/images/prof_simon.png)
 
 
@@ -36,8 +42,3 @@ Wai Khin previously provided in-house audit assurances and security and business
 
 He is a recipient of the AISP Cybersecurity Leader Awards 2022 and was conferred the “Leader Award” (Professional Category) in recognition of his contributions made in the cybersecurity space in Singapore.
 
-![](/images/dr_jai.png)
-
-Dr Jai Prashanth Rao is a Senior Consultant Neurosurgeon in the National Neuroscience Institute (NNI). He graduated with his MBBS degree from the University of New South Wales, Australia in 1999 and was awarded his FRCSEd (SN) in 2013. Dr Rao believes strongly in the importance of education and was awarded his Master of Science (Health Professions Education) from the MGH Institute of Health Professions in 2015. Dr Rao is extensively involved in the education of medical students and is also the Programme Director of the SingHealth Neurosurgery Residency Programme. His education interests include online learning, simulation and interprofessional collaboration.
-
-Dr Rao is also highly active in the realm of Enterprise Risk Management (ERM) and ERM education. As Deputy Director, Risk Management NNI, and Chair of the SingHealth ERM Education Task Force (E2TF), he has helped SingHealth develop online training solutions as well as to conceptualize the education framework to grow risk professional competencies.
