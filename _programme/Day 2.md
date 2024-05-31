@@ -4,7 +4,7 @@ permalink: /day-2/
 variant: markdown
 description: ""
 ---
-![](/images/Slide4.png)![](/images/Slide5.png)
+![](/images/Slide5.png)![](/images/Slide6.png)
 
 ##### **Plenary 9: Risk-Ready: Navigating the Risk and Resilience Journey**
 
