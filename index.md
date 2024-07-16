@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/ERMCS_2024_Website_Banner_v2__resized_for_website_.png
       key_highlights:
-        - title: Programme
+        - title: Speakers
           description: ""
-          url: https://www.ermcs.sg/programme/
+          url: https://www.ermcs.sg/speakers/day1/
         - title: Registration
           description: ""
           url: https://www.ermcs.sg/registration/
