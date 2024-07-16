@@ -363,3 +363,5 @@ She is also Chairman of Energy Market Company (EMC), a wholly owned subsidiary o
 Ms Koh joined SGX Group on 1 December 2005 as Vice President in Risk Management and has worked through various roles within risk management. Prior to SGX Group, she had more than 11 years of experience in managing the foreign reserves of the Monetary Authority of Singapore and was also an auditor with a public accountancy firm.
 
 Ms Koh was conferred the Distinguished Fellow award by the Institute of Banking and Finance Singapore (IBF) in 2016. The IBF Distinguished Fellow is a significant role model who serves as a beacon of excellence for the financial industry. She is a Certified Public Accountant from the Institute of Singapore Chartered Public Accountants, and holds a Bachelor of Accountancy (Hons) from National University of Singapore.
+
+
