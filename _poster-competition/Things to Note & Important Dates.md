@@ -21,4 +21,4 @@ Please take note of the following:
 * **Poster Presentation Judging**: 17 September 2024 (ERMCS Day 1)
 * **Announcement of Results**: 17 September 2024 (ERMCS Day 1)
 
-*Note: The dates are accurate as at 5 April 2024.*
+*Note: The dates are accurate as of 5 April 2024.*
