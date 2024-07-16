@@ -10,7 +10,7 @@ variant: markdown
 
 ##### **Plenary 6: Risk Management in Aviation**
 
-**Mr Faris Iskandar**
+**Mr Faris ISKANDAR**
 <br>
 Co-Founder, Aeroviation Singapore
 
@@ -22,7 +22,7 @@ By incorporating the key elements into risk management practices, industries bey
 
 ##### **Plenary 7: Your 3rd Party Suppliers Should Not Be Your Weakest Link**
 
-**Mr Hoi Wai Khin**
+**Mr HOI Wai Khin**
 <br>
 Partner, Technology Consulting, RSM Singapore
   
