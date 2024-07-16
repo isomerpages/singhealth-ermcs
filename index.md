@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Speakers
           description: ""
-          url: https://www.ermcs.sg/speakers/day1/
+          url: https://www.ermcs.sg/speakers/day1
         - title: Registration
           description: ""
-          url: https://www.ermcs.sg/registration/
+          url: https://www.ermcs.sg/registration
   - infopic:
       title: LATEST PROGRAMME
       url: https://www.ermcs.sg/programme/day1/
