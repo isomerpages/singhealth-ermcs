@@ -4,7 +4,7 @@ permalink: /speakers/day1/
 description: ""
 variant: markdown
 ---
-![](/images/prof_tan_hiang_koon.png)
+![](/images/prof_tan_hk.png)
  
 Associate Professor Tan Hiang Khoon is the Director of SingHealth Duke-NUS Global Health Institute, Group Director of SingHealth's International Collaboration Office, and Deputy CEO of Future Health Systems at Singapore General Hospital (SGH). Dr. Tan specializes in complex head and neck cancers and has pioneered endoscopic and robotic head and neck surgery in Singapore.
 
@@ -14,8 +14,7 @@ Dr Jai Prashanth Rao is a Senior Consultant Neurosurgeon in the National Neurosc
 
 Dr Rao is also highly active in the realm of Enterprise Risk Management (ERM) and ERM education. As Deputy Director, Risk Management NNI, and Chair of the SingHealth ERM Education Task Force (E2TF), he has helped SingHealth develop online training solutions as well as to conceptualize the education framework to grow risk professional competencies.
 
-![](/images/prof_simon.png)
-
+![](/images/simon.png)
 
 Simon Chesterman is David Marshall Professor and Vice Provost (Educational Innovation) at the National University of Singapore, where he is also the founding Dean of NUS College. He serves as Senior Director of AI Governance at AI Singapore and Editor of the _Asian Journal of International Law_. Previously, he was Dean of NUS Law from 2012 to 2022 and Co-President of the Law Schools Global League from 2021 to 2023.
 
@@ -25,8 +24,7 @@ From 2006-2011, he was Global Professor and Director of the New York University 
 
 Professor Chesterman is the author or editor of more than twenty books, including We, the Robots? Regulating Artificial Intelligence and the Limits of the Law (CUP, 2021) and One Nation Under Surveillance (OUP, 2011). He also writes on legal education and higher education more generally, and is the author of five novels including the Raising Arcadia trilogy and Artifice.
 
-![](/images/mr_faris.png)
-    
+![](/images/faris.png)
 
 Faris Iskandar has dedicated close to a decade of his professional life to the aviation sector. His journey began with exposure to both the private and general aviation sectors, providing him with a comprehensive understanding of the industry. Faris has worked in various capacities within aviation, including Fixed Based Operations (FBO), flying, and Maintenance, Repair, and Overhaul (MRO) services.
 
@@ -34,11 +32,10 @@ His passion for flying extends beyond his professional responsibilities; Faris h
 
 Currently, Faris serves as the founder of Aeroviation Singapore, a prominent flight school in the region. Through Aeroviation, Faris aims to share his expertise and passion for aviation, nurturing the next generation of pilots and aviation enthusiasts in Singapore. His leadership and vision contribute significantly to the growth and development of the aviation industry in the region.
 
-![](/images/waikhin.png)
+![](/images/hoi.png)
    
 Wai Khin is a Partner at RSM Singapore and oversees the Technology Compliance business arm. He leads a team that is experienced in ISO 27001/cyber Security Trust Mark certification projects, MAS Technology risk Management review, MAS Outsourcing review, 3rd party vendor review, IT due diligence for mergers & acquisitions, SOX ITGC review, Singapore’s Personal Data Protection Act (PDPA), and other internal and external IT compliance requirements.
 
 Wai Khin previously provided in-house audit assurances and security and business continuity advisory services for several organisations, while working for a Big 4 firm.
 
 He is a recipient of the AISP Cybersecurity Leader Awards 2022 and was conferred the “Leader Award” (Professional Category) in recognition of his contributions made in the cybersecurity space in Singapore.
-
