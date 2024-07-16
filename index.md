@@ -17,7 +17,7 @@ sections:
           url: https://www.ermcs.sg/registration/
   - infopic:
       title: LATEST PROGRAMME
-      url: https://www.ermcs.sg/registration/
+      url: https://www.ermcs.sg/programme/
       image: /images/ERMCS_2024_Photo_Collage_for_Website.png
       alt: Register Now
       button: CLICK HERE FOR DETAILS
