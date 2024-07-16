@@ -1,6 +1,6 @@
 logo: /images/ermcs-website-icon-logo.png
 links:
-  - title: HOME
+  - title: Home
     url: https://www.ermcs.sg/
   - title: About
     url: /about/
@@ -8,15 +8,15 @@ links:
     url: /registration/
   - title: Programme
     collection: programme
-  - title: SPEAKERS
+  - title: Speakers
     collection: speakers
   - title: Poster Competition
     collection: poster-competition
-  - title: SPONSORS
+  - title: Sponsors
     url: /sponsor/
   - title: Photos
     collection: photo-gallery
-  - title: RESOURCES
+  - title: Resources
     collection: resources
-  - title: CONTACT US
+  - title: Contact Us
     url: https://www.ermcs.sg/contact-us/
