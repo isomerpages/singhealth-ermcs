@@ -4,19 +4,19 @@ links:
     url: https://www.ermcs.sg/
   - title: About
     url: /about/
-  - title: Poster Competition
-    collection: poster-competition
   - title: Registration
     url: /registration/
   - title: Programme
     collection: programme
   - title: SPEAKERS
     collection: speakers
+  - title: Poster Competition
+    collection: poster-competition
   - title: SPONSORS
     url: /sponsor/
-  - title: CONTACT US
-    url: https://www.ermcs.sg/contact-us/
   - title: Photos
     collection: photo-gallery
   - title: RESOURCES
     collection: resources
+  - title: CONTACT US
+    url: https://www.ermcs.sg/contact-us/
