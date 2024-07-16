@@ -8,7 +8,7 @@ description: ""
 
 ##### **Plenary 9: To Kill a White Elephant**
 
-**Dr Lu Weiquan**
+**Dr LU Weiquan**
 <br>
 Assistant Professor (Immersive Learning), Technology-Enhanced Learning &amp; Innovation, Duke-NUS Medical School
 
@@ -16,7 +16,7 @@ Developing, deploying, maintaining and disposing of an Immersive Technology solu
 
 ##### **Plenary 10: Risk-Ready: Navigating the Risk and Resilience Journey**
 
-**Mr Derek Taylor**
+**Mr Derek TAYLOR**
 <br>
 Managing Director, Strategic Risk Consulting, Marsh
 
