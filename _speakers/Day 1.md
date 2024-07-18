@@ -5,8 +5,11 @@ description: ""
 variant: markdown
 ---
 ![](/images/tan_hk.png)
- 
-Associate Professor Tan Hiang Khoon is the Director of SingHealth Duke-NUS Global Health Institute, Group Director of SingHealth's International Collaboration Office, and Deputy CEO of Future Health Systems at Singapore General Hospital (SGH). Dr. Tan specializes in complex head and neck cancers and has pioneered endoscopic and robotic head and neck surgery in Singapore.
+Associate Professor Tan Hiang Khoon is the Director of SingHealth Duke-NUS Global Health Institute and the Group Director of the International Collaboration Office at SingHealth. He also holds the position of Deputy CEO (Future Health System) at Singapore General Hospital.
+
+Dr Tan has a distinguished career in head and neck surgery and surgical oncology. He received his medical degree from the National University of Singapore, a Ph.D. from the University of Bristol, and advanced training in head and neck surgical oncology from the Institute Gustave Roussy in Paris. He has made significant contributions to surgery, particularly in pioneering endoscopic and robotic head and neck surgeries in Singapore. Dr Tan has demonstrated exceptional leadership in various roles, including the formation of the SingHealth Duke-NUS Head and Neck Disease Centre in 2013 and the integration of the Division of Surgery at Singapore General Hospital with the Division of Surgical Oncology at the National Cancer Centre Singapore in 2019.
+
+During the COVID-19 pandemic, Dr Tan led the establishment of a 3,700-bed Community Care Facility, ensuring that hospital capacities were not overwhelmed. His commitment to global health equity led to the establishment of the Global Surgery Programme. He has partnered with Duke University to develop a low-cost portable flexible nasopharyngoscope that can improve access to diagnostics for head and neck conditions in lower-resourced settings. Recently, he initiated the Asian Surgical Leaders Network, which focuses on assessing the pandemic's impact on surgical health systems across Asia and developing strategies for health system resilience.
 
 ![](/images/dr_jai.png)
 
