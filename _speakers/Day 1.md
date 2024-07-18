@@ -4,7 +4,7 @@ permalink: /speakers/day1/
 description: ""
 variant: markdown
 ---
-![](/images/prof_tan_hk.png)
+![](/images/tan_hk.png)
  
 Associate Professor Tan Hiang Khoon is the Director of SingHealth Duke-NUS Global Health Institute, Group Director of SingHealth's International Collaboration Office, and Deputy CEO of Future Health Systems at Singapore General Hospital (SGH). Dr. Tan specializes in complex head and neck cancers and has pioneered endoscopic and robotic head and neck surgery in Singapore.
 
