@@ -4,9 +4,7 @@ permalink: /registration/
 description: ""
 variant: markdown
 ---
-#### **Limited slots available!**
-
-Click [here](https://form.gov.sg/65bc5336f7f3ee7394d56d4b) to register.
+#### **[Registration has closed]**
 
 #### **ERMCS 2024 registration fees:**
 
