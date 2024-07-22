@@ -12,9 +12,9 @@ sections:
         - title: Speakers
           description: ""
           url: https://www.ermcs.sg/speakers/day1
-        - title: Registration
+        - title: Contact Us
           description: ""
-          url: https://www.ermcs.sg/registration
+          url: https://www.ermcs.sg/contact-us/
   - infopic:
       title: LATEST PROGRAMME
       url: https://www.ermcs.sg/programme/day1/
