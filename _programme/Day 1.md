@@ -12,7 +12,7 @@ variant: markdown
 **A/Prof TAN Hiang Khoon**
 <br>
 Deputy Chief Executive Officer (Future Health System), Singapore General Hospital (SGH)<br>
-Senior Consultant, Division of Surgery &amp; Surgical Oncology, SGH &amp; National Cancer Center Singapore (NCCS)<br>
+Senior Consultant, Division of Surgery &amp; Surgical Oncology, SGH &amp; National Cancer Centre Singapore (NCCS)<br>
 Group Director, International Collaboration Office, SingHealth
 
 Clinical risk management in surgical settings is crucial, with data indicating that 30% of surgical deaths are preventable. A comprehensive strategy is essential for mitigating these risks, involving stringent privileging standards, harmonized care practices, advanced technological integration, and patient engagement. 
