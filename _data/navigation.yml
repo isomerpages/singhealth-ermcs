@@ -3,7 +3,7 @@ links:
   - title: Home
     url: https://www.ermcs.sg
   - title: About
-    url: /about/
+    collection: about
   - title: Registration
     url: /registration/
   - title: Programme
