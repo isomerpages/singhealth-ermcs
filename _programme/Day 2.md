@@ -32,6 +32,14 @@ Managing Director, Production, Corporate &amp; Education, Kelvin Sng Productions
 
 In today's world where we are constantly bombarded by social media, streaming platforms and various sources of media, it has become incredibly important to be savvy about Risk Management in the entire media eco-system, from content creation to the final product delivered to the viewers. Any hiccup within the process can potentially create significant risk that will cause unnecessary issues with the public. Join Film Director Kelvin Sng as he shares his risk management stories in the film, media and entertainment world.
 
+##### **Plenary 12: The Story of How Technological Transformation and Change Management Collide in a Highly Regulated Industry**
+
+**Ms Cherilyn TAN**
+<br>
+CEO, Tessaract Technologies
+
+A sharing of Cherilyn's technology journey as she founded Tessaract.io to serve professional services industry starting with Legal. She will share her experiences from identifying the gap in the market, to building to life a product that now transcends geography and is trusted by firms in Singapore and in the UK. This story aims to bring to the audience the small steps we can take to progress conversations within the industry, the regulators as well as the market players in order to create a product that can both replace legacy systems, and leverage on today's technology stack to achieve more results, better workplace integration and a healthier workforce. She will also share a personal mission where the same technology can help a non-profit organisation that serves the community in areas of mental wellness.
+
 ##### **Closing Plenary: Risk Landscape – Now and Beyond**
 
 **Mr Ali CHAUDHRY**
