@@ -32,6 +32,22 @@ Since 2008, Sng has been the managing director of Kelvin Sng Productions Pte Ltd
 
 Cherilyn founded Tessaract Technologies in 2018 when she identified a lack of tools available to help professionals work efficiently. Cherilyn is driven by her quest to connect people and businesses across Asia with reliable systems so that they can work quickly and efficiently in order to make better decisions and build stronger businesses. Tessaract was founded to empower professional services firms by digitalising their operations and introducing them to new technologies such as artificial intelligence and data analytics. Cherilyn is also the founder of Asia Law Network, Asia’s largest network of lawyers and has launched various products such as a lawyer-vetted legal blog, Quick Consult and Quick Contracts, to name a few. Prior to this, she was instrumental in turning around a creative agency and led multiple design thinking projects. She has a proven track record of excellent business implementation and drives strategic direction and technology and product development at Tessaract. Cherilyn has raised a total of 6.3M USD from angels and VCs such as Wavemaker Partners, CIMA Capital Partners and M Venture Partners, and has grown Tessaract Technologies into the UK and EMEA, leading the cloud-native solutions adoption in the industry alongside complementary companies such as Reynan Court.
 
+![](/images/edwin.png)
+
+Mr. Edwin Yap, PBM is the Vice President of ESIS Asia Pacific Pte Ltd and oversees HSE consultancy business operations in the Asia Pacific region and EMEA. He earned a double Master in SHE Tech and Industrial Engineering, and a Bachelor's Degree in Mechanical Engineering. He holds various professional memberships: President, NUS Alumni SHE Society, Board Member, National Fire, and Civil Emergency Council (NFEC), Immediate Past President, Human Factors and Ergonomics Society of Singapore (HFESS), and many more. He was also the Associate Professor for SUSS/NTU/NUS for EHS courses.
+
+Awards:
+
+* Pingat Bakti Masyarakat, PBM (The Public Service Medal) for contribution to the National Fire and Emergency Preparedness Council, NFEC.
+
+* Merit Award from SPRING Singapore: In recognition of contribution to development of OSH SS and COP
+
+* Executive Director Award: In recognition of significant contribution in the promotion of occupational safety and health in both the Bedok Safety Group and Metalworking Industries Promotion Committee in MOM
+
+* President Award: In recognition achieving significant improvements in EHS performance through obtaining integrated EHS Management Certification and implementation of Behavioral Based safety program to have fully functional Total Safety Culture
+
+* Certificate of Commendation from MOM: In recognition of meritorious service and significant contribution to the promotion of Occupational Safety and Health in Singapore
+
 ![](/images/ali.png)
 
 Marsh is a global leader in insurance broking and risk management, helping clients to grow, innovate, and create value by understanding and better managing the risks they face.
