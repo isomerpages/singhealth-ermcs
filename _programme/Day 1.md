@@ -40,7 +40,7 @@ A multi-faceted approach combines meticulous data monitoring, standardised pract
 **Cl Asst. Prof Jai Prashanth RAO**
 <br>
 Head &amp; Senior Consultant, Neurosurgery, National Neuroscience Institute (NNI)<br>
-Deputy Director, Risk Management, NNI
+Chair, ERM Education Taskforce (E2TF), SingHealth
 
 Empowering healthcare staff to deliver warm, compassionate care within the framework of enterprise risk management (ERM) is essential for both patient safety and organizational resilience. When staff are empowered and motivated, they not only enhance patient experiences but also contribute to a culture of safety and continuous improvement.
 
