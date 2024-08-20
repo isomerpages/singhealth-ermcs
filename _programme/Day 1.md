@@ -7,6 +7,14 @@ variant: markdown
 ---
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
+##### **Plenary 1: Fifty Shades of Green (ESG)**
+
+**Dr Sarjit SINGH**
+<br>
+Senior Advisor, Audit &amp; Assurance – Advisory Services, Deloitte Southeast Asia; Leader, Deloitte Learning Solutions Southeast Asia
+
+(synopsis TBC)
+
 ##### **Plenary 2: Mitigating Clinical Risks through Enhanced Surgical Safety**
 
 **A/Prof TAN Hiang Khoon**
@@ -18,6 +26,14 @@ Group Director, International Collaboration Office, SingHealth
 Clinical risk management in surgical settings is crucial, with data indicating that 30% of surgical deaths are preventable. A comprehensive strategy is essential for mitigating these risks, involving stringent privileging standards, harmonized care practices, advanced technological integration, and patient engagement. 
 
 A multi-faceted approach combines meticulous data monitoring, standardised practices, and patient involvement. By integrating these strategies, healthcare systems can better manage clinical risks and achieve optimal patient outcomes.
+
+##### **Plenary 3: Diplomacy and ERM (Title TBC)**
+
+**Mr Ashok MIRPURI**
+<br>
+ Head, International Policy &amp; Governance, Temasek International Pte. Ltd
+
+(synopsis TBC)
 
 ##### **Plenary 4: ERM Unleashed: Empowering Staff to Deliver ERM in Action**
 
