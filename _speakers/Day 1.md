@@ -11,6 +11,14 @@ Dr Tan has a distinguished career in head and neck surgery and surgical oncology
 
 During the COVID-19 pandemic, Dr Tan led the establishment of a 3,700-bed Community Care Facility, ensuring that hospital capacities were not overwhelmed. His commitment to global health equity led to the establishment of the Global Surgery Programme. He has partnered with Duke University to develop a low-cost portable flexible nasopharyngoscope that can improve access to diagnostics for head and neck conditions in lower-resourced settings. Recently, he initiated the Asian Surgical Leaders Network, which focuses on assessing the pandemic's impact on surgical health systems across Asia and developing strategies for health system resilience.
 
+![](/images/ashok.png)
+
+Mr. Ashok Kumar Mirpuri joined Temasek in September 2023 and is Head, International Policy & Governance.
+
+Prior to joining Temasek, Ashok was Singapore Ambassador to the United States for over a decade, where he represented Singapore’s interests in engaging with three U.S. Administrations. He has also held key Ambassadorial appointments in Indonesia, Malaysia, and Australia. A seasoned diplomat, Ashok has extensive experience in managing Singapore’s foreign policy interests.
+
+Ashok holds a Master of Arts from the University of London’s School of Oriental & African Studies and a Bachelor of Social Science (Hons) degree in Political Science from the National University of Singapore.
+
 ![](/images/dr_jai.png)
 
 Dr Jai Prashanth Rao is a Senior Consultant Neurosurgeon in the National Neuroscience Institute (NNI). He graduated with his MBBS degree from the University of New South Wales, Australia in 1999 and was awarded his FRCSEd (SN) in 2013. Dr Rao believes strongly in the importance of education and was awarded his Master of Science (Health Professions Education) from the MGH Institute of Health Professions in 2015. Dr Rao is extensively involved in the education of medical students and is also the Programme Director of the SingHealth Neurosurgery Residency Programme. His education interests include online learning, simulation and interprofessional collaboration.

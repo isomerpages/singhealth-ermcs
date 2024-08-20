@@ -7,6 +7,14 @@ variant: markdown
 ---
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
+##### **Plenary 1: Fifty Shades of Green (ESG)**
+
+**Dr Sarjit SINGH**
+<br>
+Senior Advisor, Audit &amp; Assurance – Advisory Services, Deloitte Southeast Asia; Leader, Deloitte Learning Solutions Southeast Asia
+
+(synopsis TBC)
+
 ##### **Plenary 2: Mitigating Clinical Risks through Enhanced Surgical Safety**
 
 **A/Prof TAN Hiang Khoon**
@@ -19,12 +27,20 @@ Clinical risk management in surgical settings is crucial, with data indicating t
 
 A multi-faceted approach combines meticulous data monitoring, standardised practices, and patient involvement. By integrating these strategies, healthcare systems can better manage clinical risks and achieve optimal patient outcomes.
 
+##### **Plenary 3: Diplomacy and ERM (Title TBC)**
+
+**Mr Ashok MIRPURI**
+<br>
+ Head, International Policy &amp; Governance, Temasek International Pte. Ltd
+
+(synopsis TBC)
+
 ##### **Plenary 4: ERM Unleashed: Empowering Staff to Deliver ERM in Action**
 
 **Cl Asst. Prof Jai Prashanth RAO**
 <br>
 Head &amp; Senior Consultant, Neurosurgery, National Neuroscience Institute (NNI)<br>
-Deputy Director, Risk Management, NNI
+Chair, ERM Education Taskforce (E2TF), SingHealth
 
 Empowering healthcare staff to deliver warm, compassionate care within the framework of enterprise risk management (ERM) is essential for both patient safety and organizational resilience. When staff are empowered and motivated, they not only enhance patient experiences but also contribute to a culture of safety and continuous improvement.
 
