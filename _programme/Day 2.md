@@ -6,6 +6,14 @@ description: ""
 ---
 ![](/images/Slide5.png)![](/images/Slide6.png)
 
+##### **Plenary 8A: Human Resources Practices, Human Capital Risks and Challenges**
+
+**Ms Sheela PARAKKAL**
+<br>
+Group Head of Leadership, People Development and Experience, Prudential PLC
+
+*(Synopsis TBC)*
+
 ##### **Plenary 9: To Kill a White Elephant**
 
 **Dr LU Weiquan**
