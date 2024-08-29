@@ -4,6 +4,15 @@ permalink: /speakers/day2/
 description: ""
 variant: markdown
 ---
+![](/images/sheela.png)
+ At Prudential, Sheela leads the agenda for developing future ready leaders who are equipped not just with the appropriate capabilities to navigate the ever-changing business landscape but leaders who are culture carriers and custodians of developing future leaders. A strong proponent of driving organisational culture that creates high performance, she also leads the culture and people experience agenda across our 14,000 employees to help our people Connect, Grow and Succeed at Prudential.
+
+Prior to assuming the Group role, Sheela was the Chief Human Resources Officer for Prudential Singapore where she led the People Strategy and focused on creating and nurturing a values-based organisation.
+
+Sheela started her career with PricewaterhouseCoopers Singapore (PwC Singapore) as an auditor before moving into a human capital role focusing on business partnership, talent and development, and mobility of its large professional workforce. Prior to joining Prudential Singapore, she was the Human Capital Leader for PwC Singapore Consulting and the Group Human Resources Director overseeing regional operations at Sindicatum Sustainable Resources.
+
+Sheela is a Malaysian citizen and a Singapore Permanent Resident. A proud mother to 3 daughters, she holds an MBA (Banking & Finance) from the Nanyang Technological University, Singapore. A certified public accountant, Sheela was conferred the Institute of Human Resource Professionals Master Professional (IHRP-MP) in 2021.
+
 ![](/images/sean.png)
        
 Sean is a Partner in Mercer Singapore. He leads the Talent, Workforce Transformation and Rewards practice, which delivers advisory services and insights to help our clients on their most important people and culture ambitions in areas such as Work Design, Skills Transformation, Total Rewards Strategy & Insights, HR Function Effectiveness, Employee Experience and Organization Culture Alignment. Sean’s consulting expertise areas include work design, competency modelling, talent management, career pathing, leadership development, performance management, workforce planning & analytics, HR operating model, career value proposition, organization culture alignment, employee engagement and people strategy formulation.
