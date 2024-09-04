@@ -40,7 +40,7 @@ Managing Director, Production, Corporate &amp; Education, Kelvin Sng Productions
 
 In today's world where we are constantly bombarded by social media, streaming platforms and various sources of media, it has become incredibly important to be savvy about Risk Management in the entire media eco-system, from content creation to the final product delivered to the viewers. Any hiccup within the process can potentially create significant risk that will cause unnecessary issues with the public. Join Film Director Kelvin Sng as he shares his risk management stories in the film, media and entertainment world.
 
-##### **Plenary 12: How Risky Exactly Is Technological Transformation and Change Management in a Highly Regulated Industry? What Are the Real Costs Involved?**
+##### **Plenary 12: Technological Transformation in a Highly Regulated Industry – What Are the Real Costs Involved?**
 
 **Ms Cherilyn TAN**
 <br>
