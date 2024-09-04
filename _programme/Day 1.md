@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
-##### **Plenary 1: Fifty Shades of Green (ESG)**
+##### **Plenary 1:(TBC)**
 
 **Dr Sarjit SINGH**
 <br>
@@ -27,7 +27,7 @@ Clinical risk management in surgical settings is crucial, with data indicating t
 
 A multi-faceted approach combines meticulous data monitoring, standardised practices, and patient involvement. By integrating these strategies, healthcare systems can better manage clinical risks and achieve optimal patient outcomes.
 
-##### **Plenary 3: Diplomacy and ERM (Title TBC)**
+##### **Plenary 3: Geopolitics in the Indo-Pacific: A Singapore Perspective**
 
 **Mr Ashok MIRPURI**
 <br>
