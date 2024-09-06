@@ -50,7 +50,7 @@ A sharing of Cherilyn's technological journey as she founded Tessaract.io to ser
 
 Cherilyn aims to provide insights to delegates about the small steps we can take to progress conversations within the industry, the regulators as well as market players in order to create a product that can both replace legacy systems, and leverage on today's technology stack to achieve more results, better workplace integration and a healthier workforce. She will also share a personal mission where the same technology can help a non-profit organisation that serves the community in areas of mental wellness.
 
-##### **Roles of Human Factors in Managing Complex and Dynamic Risk in Organisation**
+##### **Plenary 13: Roles of Human Factors in Managing Complex and Dynamic Risk in Organisation**
 
 **Mr Edwin YAP**
 <br>
