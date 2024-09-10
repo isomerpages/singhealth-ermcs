@@ -7,13 +7,18 @@ variant: markdown
 ---
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
-##### **Plenary 1:(TBC)**
+##### **Plenary 1:Unveiling the Hidden Dangers and Risk Blind Spots**
 
 **Dr Sarjit SINGH**
 <br>
-Senior Advisor, Audit &amp; Assurance – Advisory Services, Deloitte Southeast Asia; Leader, Deloitte Learning Solutions Southeast Asia
+Senior Advisor, Audit &amp; Assurance, Deloitte &amp; Touche LLP;   Leader, Deloitte Learning Solutions Southeast Asia
 
-(synopsis TBC)
+In today's rapidly evolving business landscape, the ability to identify and address hidden risks is more crucial than ever. As organisations expand and diversify, so do the complexities of the risks they face. In this plenary session, we will dive deep into the unseen dangers lurking beneath the surface of organisational processes, exposing the often-overlooked blind spots that can derail even the most resilient organisations.
+
+This session will empower leaders and risk professionals to sharpen their foresight, equipping them with the tools to detect early warning signs and act decisively. By understanding the anatomy of red flags and risk blind spots, you will gain insights into proactive risk management strategies, transforming vulnerabilities into opportunities for growth.
+
+Join us as we illuminate the path forward, uncovering hidden dangers that threaten sustainability and guiding organisations toward a future of resilience and success.
+
 
 ##### **Plenary 2: Mitigating Clinical Risks through Enhanced Surgical Safety**
 
@@ -33,7 +38,9 @@ A multi-faceted approach combines meticulous data monitoring, standardised pract
 <br>
  Head, International Policy &amp; Governance, Temasek International Pte. Ltd
 
-(synopsis TBC)
+Ashok Mirpuri will offer a personal perspective on current geopolitical developments in the Indo-Pacific from the vantage point of a former Ambassador with a front row seat of the policy evolution and changes in the region. Ashok was Singapore Ambassador to United States from 2012-2023,
+Ambassador to Indonesia, High Commissioner to Malaysia and High Commissioner to Australia. 
+
 
 ##### **Plenary 4: ERM Unleashed: Empowering Staff to Deliver ERM in Action**
 
