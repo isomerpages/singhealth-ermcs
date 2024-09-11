@@ -46,7 +46,7 @@ Ambassador to Indonesia, High Commissioner to Malaysia and High Commissioner to 
 
 **Cl Asst. Prof Jai Prashanth RAO**
 <br>
-Head &amp; Senior Consultant, Neurosurgery, National Neuroscience Institute (NNI)<br>
+Senior Consultant, Neurosurgery, National Neuroscience Institute (NNI)<br>
 Chair, ERM Education Taskforce (E2TF), SingHealth
 
 Empowering healthcare staff to deliver warm, compassionate care within the framework of enterprise risk management (ERM) is essential for both patient safety and organizational resilience. When staff are empowered and motivated, they not only enhance patient experiences but also contribute to a culture of safety and continuous improvement.
