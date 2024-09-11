@@ -6,13 +6,35 @@ description: ""
 ---
 ![](/images/Slide5.png)![](/images/Slide6.png)
 
-##### **Plenary 8A: Human Resources Practices, Human Capital Risks and Challenges**
+##### **Plenary 8A: Human Capital Risks in Singapore’s Healthcare Sector**
+
+**Mr Sean TAN**
+<br>
+Partner, Career Business Leader, Mercer
+
+*(Synopsis TBC)*
+
+##### **Plenary 8B: Human Resources Practices, Human Capital Risks and Challenges**
 
 **Ms Sheela PARAKKAL**
 <br>
 Group Head of Leadership, People Development and Experience, Prudential PLC
 
 *(Synopsis TBC)*
+
+##### **Panel Discussion: Human Capital Risks - Navigating Human Capital Risks in the Age of Automation and Artificial Intelligence: Balancing Innovation with Workforce Security**
+
+**Mr Sean TAN**
+<br>
+Partner, Career Business Leader, Mercer
+
+**Ms Sheela PARAKKAL**
+<br>
+Group Head of Leadership, People Development and Experience, Prudential PLC
+
+**Mr Aslam SARDAR**
+<br>
+Chief Executive Officer, Institute for Human Resource Professionals
 
 ##### **Plenary 9: To Kill a White Elephant**
 
