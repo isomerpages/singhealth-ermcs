@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/Slide1.png)![](/images/Slide2.png)
 
-##### **Plenary 1:Unveiling the Hidden Dangers and Risk Blind Spots**
+##### **Plenary 1: Unveiling the Hidden Dangers and Risk Blind Spots**
 
 **Dr Sarjit SINGH**
 <br>
