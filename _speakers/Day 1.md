@@ -4,7 +4,28 @@ permalink: /speakers/day1/
 description: ""
 variant: markdown
 ---
-![](/images/tan_hk.png)
+
+![](/images/sarjit.png)
+*BBM(L), BBM, PBM, FCA (Australia), FCA (Singapore), CVA, ISCA FFP, Ph.D(Hon.)*
+
+Sarjit Singh is a Senior Advisor at Deloitte Southeast Asia. He leads a team of dedicated experts, leveraging Deloitte's vast knowledge and expertise to deliver customised learning solutions across financial reporting and analysis, corporate governance, risk management, internal controls, sustainability, artificial intelligence, board readiness, and leadership programmes. His team is at the forefront of identifying emerging trends, technologies, and methodologies, ensuring they meet the evolving needs of businesses and professionals in the region.
+
+Sarjit has held various leadership roles throughout his career, including CEO of InCorp Global, Chairman and Senior Partner of Kreston ACA, CFO of Aviva Asia, and CFO of AIA Singapore. He has extensive experience in assurance and advisory, having spent 16 years with PricewaterhouseCoopers.
+
+In addition to his professional roles, Sarjit serves on the Investigations and Disciplinary Panel at the Institute of Singapore Chartered Accountants; and as Chairman of the Singapore Regional Council of Chartered Accountants Australia and New Zealand.
+
+In 2023, Sarjit was appointed by the Ministry of Education to the Board of Trustees of the University of the Arts Singapore (UAS) and became the founding chairman of the Audit and Risk Committee at UAS.
+
+Sarjit’s contributions have been recognised with multiple accolades. He has received three national honours from the President of the Republic of Singapore, including the Public Service Star (Bar) in 2021, the Public Service Star in 2011, and the Public Service Medal in 2007. In 2019, he was honoured with the prestigious SkillsFuture Fellowship by the President of the Republic of Singapore for his mastery of skills and mentorship of future talent.
+
+Recognised by Nanyang Technological University (NTU) as a ‘financial industry talent’, Sarjit was the winner of the Nanyang Alumni Achievement Award in 2012. Sarjit was appointed as an Adjunct Associate Professor by NTU from 2010 to 2016 given his expertise in Corporate Governance, Risk Management, Auditing, and Financial Reporting and Analysis.
+
+Sarjit is an alumnus of Harvard University, having completed the Advanced Management Programme at Harvard Business School.
+
+Sarjit’s extensive experience and expertise make him a trusted advisor for organisations seeking strategic insights, robust risk management, and sustainable business practices. His expertise, leadership, and commitment make him a highly respected and accomplished professional in the field of accounting and finance. His contributions to the field of accounting and finance continue to benefit clients across various industries in the Southeast Asia region.
+
+![](/images/tanhk.png)
+
 Associate Professor Tan Hiang Khoon is the Director of SingHealth Duke-NUS Global Health Institute and the Group Director of the International Collaboration Office at SingHealth. He also holds the position of Deputy CEO (Future Health System) at Singapore General Hospital.
 
 Dr Tan has a distinguished career in head and neck surgery and surgical oncology. He received his medical degree from the National University of Singapore, a Ph.D. from the University of Bristol, and advanced training in head and neck surgical oncology from the Institute Gustave Roussy in Paris. He has made significant contributions to surgery, particularly in pioneering endoscopic and robotic head and neck surgeries in Singapore. Dr Tan has demonstrated exceptional leadership in various roles, including the formation of the SingHealth Duke-NUS Head and Neck Disease Centre in 2013 and the integration of the Division of Surgery at Singapore General Hospital with the Division of Surgical Oncology at the National Cancer Centre Singapore in 2019.
@@ -19,7 +40,7 @@ Prior to joining Temasek, Ashok was Singapore Ambassador to the United States fo
 
 Ashok holds a Master of Arts from the University of London’s School of Oriental & African Studies and a Bachelor of Social Science (Hons) degree in Political Science from the National University of Singapore.
 
-![](/images/dr_jai.png)
+![](/images/jai.png)
 
 Dr Jai Prashanth Rao is a Senior Consultant Neurosurgeon in the National Neuroscience Institute (NNI). He graduated with his MBBS degree from the University of New South Wales, Australia in 1999 and was awarded his FRCSEd (SN) in 2013. Dr Rao believes strongly in the importance of education and was awarded his Master of Science (Health Professions Education) from the MGH Institute of Health Professions in 2015. Dr Rao is extensively involved in the education of medical students and is also the Programme Director of the SingHealth Neurosurgery Residency Programme. His education interests include online learning, simulation and interprofessional collaboration.
 
