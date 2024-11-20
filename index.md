@@ -27,4 +27,5 @@ sections:
       url: https://www.ermcs.sg/programme/day1/
       image: /images/ERMCS_2024_Photo_Collage_for_Website.png
       button: CLICK HERE FOR DETAILS
+      alt: ERMCS 2024 Programme
 ---
