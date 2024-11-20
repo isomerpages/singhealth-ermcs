@@ -171,4 +171,4 @@ the skills learned throughout the programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singhealthdeloitteermreg.png">
 </div>
-<p>If you have any queries, please email ors @<a href="http://singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">singhealth.com.sg</a>.</p>
+<p>If you have any queries, please email ors@singhealth.com.sg.</p>
