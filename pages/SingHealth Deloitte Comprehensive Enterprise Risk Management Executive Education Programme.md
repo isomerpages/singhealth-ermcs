@@ -160,11 +160,15 @@ the skills learned throughout the programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>*Detailed Course information will be shared with participants.</em>
+<p><em>*Detailed Course Information will be shared with participants.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p>Scan the QR code to register:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singhealthdeloitteermreg.png">
+</div>
+<p>If you have any queries, please email ors @<a href="http://singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">singhealth.com.sg</a>.</p>
