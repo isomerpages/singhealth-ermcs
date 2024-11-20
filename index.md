@@ -21,4 +21,14 @@ sections:
       image: /images/ERMCS_2024_Photo_Collage_for_Website.png
       alt: Register Now
       button: CLICK HERE FOR DETAILS
+  - infopic:
+      title: SingHealth-Deloitte ERM Executive Education Programme
+      id: infopic
+      description: Understand how to develop and implement innovative risk management
+        strategies that protect your organisation’s assets, reputation, and
+        competitive advantage.
+      button: Learn more about the programme here
+      url: https://www.ermcs.sg/singhealth-deloitte-comprehensive-enterprise-risk-management-executive-education-programme/
+      image: /images/SingHealth_Deloitte_ERM_Executive_Education.png
+      alt: Image alt text
 ---
