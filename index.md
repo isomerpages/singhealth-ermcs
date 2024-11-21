@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ERMCS_2024_Website_Banner_v2__resized_for_website_.png
+      background: /images/0001.jpg
       key_highlights:
         - title: Contact Us
           description: ""
