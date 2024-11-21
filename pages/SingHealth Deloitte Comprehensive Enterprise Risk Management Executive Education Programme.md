@@ -119,7 +119,7 @@ the skills learned throughout the programme.</p>
 </tbody>
 </table>
 <p></p>
-<p>Cohort 1 Information:</p>
+<p>Executive Certificate 1<sup>st</sup> Cohort Information:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -171,4 +171,7 @@ the skills learned throughout the programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singhealthdeloitteermreg.png">
 </div>
+<p><strong>Register by <u>6<sup>th</sup> December 2024</u></strong>
+</p>
+<p>Watch this space for more information on further runs and other courses.</p>
 <p>If you have any queries, please email ors@singhealth.com.sg.</p>
