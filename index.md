@@ -13,6 +13,14 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
   - infopic:
+      title: "ERMCS 2025: 23 & 24 September"
+      subtitle: SAVE THE DATES
+      id: infopic
+      description: Singapore's very own ERM congress returns for its third year.
+      button: details to be released
+      url: https://www.ermcs.sg/registration/
+      image: /images/pic_collage_homepage.png
+  - infopic:
       title: SingHealth-Deloitte ERM Executive Education Programme
       id: infopic
       description: Understand how to develop and implement innovative risk management
