@@ -12,6 +12,9 @@ sections:
         - title: Contact Us
           description: ""
           url: https://www.ermcs.sg/contact-us/
+        - title: REGISTRATION
+          description: DETAILS TO BE RELEASED
+          url: https://www.ermcs.sg/registration/
   - infopic:
       title: "ERMCS 2025: 23 & 24 September"
       subtitle: SAVE THE DATES
