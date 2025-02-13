@@ -19,7 +19,7 @@ sections:
       description: Singapore's very own ERM congress returns for its third year.
       button: details to be released
       url: https://www.ermcs.sg/registration/
-      image: /images/pic_collage_homepage.png
+      image: /images/ERMCS 2025/pic_collage_homepage.png
   - infopic:
       title: SingHealth-Deloitte ERM Executive Education Programme
       id: infopic
