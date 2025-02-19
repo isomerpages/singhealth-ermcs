@@ -6,19 +6,29 @@ variant: markdown
 ---
 Please take note of the following:
 
-* An email will be sent to the author’s email address to acknowledge the successful submission.
-* Authors will be notified for poster submission via email if the abstract has been accepted.
-* Authors with entries shortlisted for poster submission will be notified in mid-May 2024 via email.
-* Selected poster entries are required to be presented at the Congress’ Poster Judging Oral Presentation Session on 17 September 2024.
-* Awards for winning posters in each category will be based on the Poster Judges’ decision.
-* Late or inappropriately formatted submissions will not be accepted.
+·       Abstracts should be submitted by **30 April 2025**.
+
+·       Authors with accepted abstracts will be notified to submit their poster in **mid-May 2025**.
+
+·       Pre-judging for the poster competition will be held in **July 2025**.
+
+·       Main Author with shortlisted poster entries will be invited to present at the Poster Judging Presentation Session **via Online** in **July-August 2025**.
+
+·       Announcement of Results will be out by **end-August 2025**.
+
+·       At least one of the authors of the respective winning entries will be required to register for the Congress.
+
+·       Awards for winning posters in each category will be based on the Poster Judges’ decision.
+
+·       Late or inappropriately formatted submissions will not be accepted.
 
 **Important Dates**:
-* **Call for Abstract Submission Deadline**: ~~29 Mar 2024~~ Extended to 10 May 2024
-* **Announcement of Results (via email)**: ~~30 Apr 2024~~ Mid May 2024
-* **Authors of Shortlisted Abstracts to Submit Poster for Poster Competition**: Mid May to End June 2024
-* **Pre-Judging for Poster Competition**: July 2024
-* **Poster Presentation Judging**: 17 September 2024 (ERMCS Day 1)
-* **Announcement of Results**: 17 September 2024 (ERMCS Day 1)
+* **Abstract Submission Deadline**: 30 April 2025
+* **Notification of Accepted Abstracts (for Poster Submission)**: 19 May 2025
+* **Poster Submission Deadline**: 30 June 2025
+* **Pre-Judging for Poster Competition**: 4 July to 18 July 2025
+* **Notification of Shortlisted Posters (for Poster Presentation)**: 25 July 2025
+* **Poster Judging Presentation Session (Online)**: 28 July to 8 August 2025
+* **Announcement of Results**: 29 August 2025
 
-*Note: The dates are accurate as of 5 April 2024.*
+*Note: The dates are accurate as of 19 February 2025*
