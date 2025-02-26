@@ -23,6 +23,7 @@ sections:
       button: details to be released
       url: https://www.ermcs.sg/registration/
       image: /images/ERMCS 2025/pic_collage_homepage.png
+      alt: Image alt text
   - infopic:
       title: SingHealth-Deloitte ERM Executive Education Programme
       id: infopic
