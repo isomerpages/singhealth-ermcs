@@ -2,7 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - Onsite Guide.md
+      - SingHealth Deloitte Comprehensive Enterprise Risk Management Executive
+        Education Programme.md
       - Accomodation.md
       - About Singapore.md
       - Travel.md
