@@ -20,7 +20,7 @@ sections:
       subtitle: SAVE THE DATES
       id: infopic
       description: Singapore's very own ERM congress returns for its third year.
-      button: details to be released
+      button: Register here
       url: https://www.ermcs.sg/registration/
       image: /images/ERMCS 2025/pic_collage_homepage.png
       alt: Image alt text
