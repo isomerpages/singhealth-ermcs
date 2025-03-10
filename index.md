@@ -13,14 +13,14 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
         - title: REGISTRATION
-          description: DETAILS TO BE RELEASED
+          description: ""
           url: https://www.ermcs.sg/registration/
   - infopic:
       title: "ERMCS 2025: 23 & 24 September"
       subtitle: SAVE THE DATES
       id: infopic
       description: Singapore's very own ERM congress returns for its third year.
-      button: details to be released
+      button: Register here
       url: https://www.ermcs.sg/registration/
       image: /images/ERMCS 2025/pic_collage_homepage.png
       alt: Image alt text
