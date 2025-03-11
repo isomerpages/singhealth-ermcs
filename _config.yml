@@ -1,6 +1,6 @@
 title: ERMCS
 url: https://www.ermcs.sg
-favicon: /images/ermcs-website-icon-logo.png
+favicon: /images/ERMCS_website_icon.png
 colors:
   primary-color: "#006c72"
   secondary-color: "#04a6b6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1c041xwcffyjl.amplifyapp.com
 prod: https://master.d1c041xwcffyjl.amplifyapp.com
-shareicon: /images/ermcs-website-icon-logo.png
+shareicon: /images/ERMCS_website_icon.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

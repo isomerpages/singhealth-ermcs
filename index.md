@@ -2,7 +2,7 @@
 layout: homepage
 title: ERMCS
 description: Enterprise Risk Management Congress Singapore
-image: /images/ermcs-website-icon-logo.png
+image: /images/ERMCS_website_icon.png
 permalink: /
 notification: ""
 sections:
