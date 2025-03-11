@@ -4,19 +4,21 @@ permalink: /registration/
 description: ""
 variant: markdown
 ---
+
+![](/images/ERMCS%202025/ERMCS_2025_banner_for_website_reg_section_v1.png)
 ##### **ERMCS 2025 Registration** 
 
 **The registration fee for ERMCS 2025 is SGD 1,150.00**
 
 **Public Service/Public Healthcare participants** enjoy a special registration rate of **SGD 820.00**
 
-##### To register: https://form.gov.sg/67c68ae6117690d5d1cf9075
+##### [Click here to register](https://form.gov.sg/67c68ae6117690d5d1cf9075)
 
 ##### You can also register by scanning the QR code below
 ![](/images/ERMCS%202025/QR_ERMCS_2025_REG.png)
 ##### **Group Registration & Group Discount**
 
-For registration of 2 pax or more, you may use the group registration form. **Please email secretariat@ermcs.sg to request for the form.**
+For registration of 2 pax or more, you may use the group registration form. **Please email [secretariat@ermcs.sg](secretariat@ermcs.sg) to request for the form.**
 
 **Group discount is available** for group registration of 5 pax or more!
 
