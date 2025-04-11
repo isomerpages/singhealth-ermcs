@@ -11,6 +11,11 @@ description: ""
 discussion (2 days self-paced) over 3 months
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
+</div>
+<p></p>
 <p><strong>Objectives:</strong>
 </p>
 <ul data-tight="true" class="tight">
