@@ -132,11 +132,11 @@ the skills learned throughout the programme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Run 2 </strong>
+<p><strong>Run 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Run 3 </strong>
+<p><strong>Run 3</strong>
 </p>
 </td>
 </tr>
@@ -147,7 +147,6 @@ the skills learned throughout the programme.</p>
 <td rowspan="1" colspan="1">
 <p>1 Jul – 3 Oct 2025
 <br>(In-person: 1 Jul, 2 &amp; 3 Oct)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 Nov 2025 – 29 Jan 2026
@@ -156,7 +155,18 @@ the skills learned throughout the programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue:</p>
+<p>Register by</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
@@ -187,10 +197,11 @@ the skills learned throughout the programme.</p>
 <p></p>
 <p>Scan the QR code to register:</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/run2n3shdermreg.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/run2n3shdermreg.png">
 </div>
-<p><strong>Register by <u>31 May 2025 (Run 2) / 11 Oct 2025 (Run 3)</u></strong>
+<p><strong>Register by: <u>31 May 2025</u> (Run 2)<u>,</u> <u>11 Oct 2025</u> (Run 3)</strong>
 </p>
 <p>Watch this space for more information on further runs and other courses.</p>
 <p>If you have any queries, please email ors@singhealth.com.sg.</p>
