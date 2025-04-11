@@ -119,9 +119,10 @@ the skills learned throughout the programme.</p>
 </tbody>
 </table>
 <p></p>
-<p>Executive Certificate 1<sup>st</sup> Cohort Information:</p>
-<table style="minWidth: 50px">
+<p>Executive Certificate 2nd and 3rd Cohort Information:</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -131,7 +132,12 @@ the skills learned throughout the programme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Run 2 </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Run 3 </strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,12 +145,21 @@ the skills learned throughout the programme.</p>
 <p>Date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Jan – 28 Mar 2025 (In-person: 15 Jan, 27 &amp; 28 Mar)</p>
+<p>1 Jul – 3 Oct 2025
+<br>(In-person: 1 Jul, 2 &amp; 3 Oct)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Nov 2025 – 29 Jan 2026
+<br>(In-person: 11 Nov 2025, 28 &amp; 29 Jan 2026)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
@@ -157,9 +172,12 @@ the skills learned throughout the programme.</p>
 <td rowspan="1" colspan="1">
 <p>$3,600 (Before GST)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>$3,600 (Before GST)</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><em>*Detailed Course Information will be shared with participants.</em>
 </p>
 </td>
@@ -168,10 +186,11 @@ the skills learned throughout the programme.</p>
 </table>
 <p></p>
 <p>Scan the QR code to register:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/singhealthdeloitteermreg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/run2n3shdermreg.png">
 </div>
-<p><strong>Register by <u>6<sup>th</sup> December 2024</u></strong>
+<p><strong>Register by <u>31 May 2025 (Run 2) / 11 Oct 2025 (Run 3)</u></strong>
 </p>
 <p>Watch this space for more information on further runs and other courses.</p>
 <p>If you have any queries, please email ors@singhealth.com.sg.</p>
