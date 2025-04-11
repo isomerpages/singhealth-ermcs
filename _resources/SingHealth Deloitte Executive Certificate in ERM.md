@@ -206,5 +206,15 @@ the skills learned throughout the programme.</p>
 <p>If you have any queries, please email <a href="mailto:ors@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ors@singhealth.com.sg</a>.</p>
 <p><strong>Photos from Run 1:</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table.jpg">
+</div>
 <p></p>
