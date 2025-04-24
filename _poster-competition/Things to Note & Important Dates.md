@@ -6,7 +6,7 @@ variant: markdown
 ---
 Please take note of the following:
 
-·       Abstracts should be submitted by **30 April 2025**.
+·       Abstracts should be submitted by **9 May 2025** *[Extended]*
 
 ·       Authors with accepted abstracts will be notified to submit their poster in **mid-May 2025**.
 
@@ -31,4 +31,4 @@ Please take note of the following:
 * **Poster Judging Presentation Session (Online)**: 28 July to 8 August 2025
 * **Announcement of Results**: 29 August 2025
 
-*Note: The dates are accurate as of 19 February 2025*
+*Note: The dates are accurate as of 24 April 2025*
