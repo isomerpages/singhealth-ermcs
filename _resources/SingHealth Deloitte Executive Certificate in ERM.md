@@ -199,13 +199,6 @@ the skills learned throughout the programme.</p>
 </tbody>
 </table>
 <p></p>
-<p>Scan the QR code to register:</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/run2n3shdermreg.png">
-</div>
 <p><strong>Register by: <u>31 May 2025</u> (Run 2)<u>,</u> <u>11 Oct 2025</u> (Run 3)</strong>
 </p>
 <p>Watch this space for more information on further runs and other courses.</p>
-<p>If you have any queries, please email <a href="mailto:ors@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ors@singhealth.com.sg</a>.</p>
