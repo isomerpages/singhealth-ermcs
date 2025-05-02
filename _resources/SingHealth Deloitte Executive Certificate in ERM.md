@@ -8,9 +8,7 @@ description: ""
 <p><strong>Duration: </strong>40 hours
 <br><strong>Format: </strong>In-person and e-learning
 <br><strong>Frequency: </strong>In-person (3 days), e-learning &amp; team
-discussion (2 days self-paced) over 3 months
-<br>
-</p>
+discussion (2 days self-paced) over 3 months</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
@@ -202,3 +200,4 @@ the skills learned throughout the programme.</p>
 <p><strong>Register by: <u>31 May 2025</u> (Run 2)<u>,</u> <u>11 Oct 2025</u> (Run 3)</strong>
 </p>
 <p>Watch this space for more information on further runs and other courses.</p>
+<p></p>
