@@ -31,7 +31,7 @@ sections:
         strategies that protect your organisation’s assets, reputation, and
         competitive advantage.
       button: Learn more about the programme here
-      url: https://www.ermcs.sg/singhealth-deloitte-comprehensive-enterprise-risk-management-executive-education-programme/
+      url: https://www.ermcs.sg/singhealth-deloitte-executive-certificate-in-erm/
       image: /images/SingHealth_Deloitte_ERM_Executive_Education.png
       alt: Image alt text
 ---
