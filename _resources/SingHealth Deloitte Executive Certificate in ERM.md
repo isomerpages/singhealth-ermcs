@@ -197,7 +197,5 @@ the skills learned throughout the programme.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Register by: <u>31 May 2025</u> (Run 2)<u>,</u> <u>11 Oct 2025</u> (Run 3)</strong>
-</p>
 <p>Watch this space for more information on further runs and other courses.</p>
 <p></p>
