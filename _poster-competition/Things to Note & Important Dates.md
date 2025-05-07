@@ -23,7 +23,7 @@ Please take note of the following:
 ·       Late or inappropriately formatted submissions will not be accepted.
 
 **Important Dates**:
-* **Abstract Submission Deadline**: 30 April 2025
+* **Abstract Submission Deadline**: 9 May 2025 *[Extended]*
 * **Notification of Accepted Abstracts (for Poster Submission)**: 19 May 2025
 * **Poster Submission Deadline**: 30 June 2025
 * **Pre-Judging for Poster Competition**: 4 July to 18 July 2025
@@ -31,4 +31,4 @@ Please take note of the following:
 * **Poster Judging Presentation Session (Online)**: 28 July to 8 August 2025
 * **Announcement of Results**: 29 August 2025
 
-*Note: The dates are accurate as of 24 April 2025*
+*Note: The dates are accurate as of 7 May 2025*
