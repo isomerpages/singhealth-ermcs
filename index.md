@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/0001.jpg
       key_highlights:
-        - title: Contact Us
-          description: ""
-          url: https://www.ermcs.sg/contact-us/
         - title: REGISTRATION
           description: ""
           url: https://www.ermcs.sg/registration/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
+        - title: Contact Us
+          description: ""
+          url: https://www.ermcs.sg/contact-us/
   - infopic:
       title: "ERMCS 2025: 23 & 24 September"
       subtitle: SAVE THE DATES
