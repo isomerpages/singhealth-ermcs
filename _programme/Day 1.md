@@ -11,108 +11,117 @@ variant: markdown
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   background:#074F6A;mso-background-themecolor:accent4;mso-background-themeshade:
-  128;padding:0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="94"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%;
-  color:white;mso-themecolor:background1">Time</span></b></p></td><td style="width:381.4pt;border-top:solid windowtext 1.0pt;
+  128;padding:0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="94"><p class="MsoNormal"><b><span style="color:white;mso-themecolor:background1">Time</span></b></p></td><td style="width:381.4pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   background:#074F6A;mso-background-themecolor:accent4;mso-background-themeshade:
-  128;padding:0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%;
-  color:white;mso-themecolor:background1">ERMCS Day 1</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
+  128;padding:0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="color:white;mso-themecolor:background1">ERMCS Day 1</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">08:00AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal">08:00AM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">Registration / Breakfast / Networking</span></p></td></tr><tr style="mso-yfti-irow:2;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal">Registration / Breakfast / Networking</p></td></tr><tr style="mso-yfti-irow:2;height:.95pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">09:00AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="top" nowrap="" width="94"><p class="MsoNormal">09.00 AM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">Emcee welcome guests and delegates</span></p></td></tr><tr style="mso-yfti-irow:3;height:.95pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="bottom" width="509"><p style="margin-bottom:0cm" class="MsoNormal"><b>Opening Address</b><br><i style="mso-bidi-font-style:normal"><span style="mso-ascii-font-family:
+  Aptos;mso-hansi-font-family:Aptos">Dr LIM Cheok Peng, Chair, Risk Oversight Committee</span></i></p></td></tr><tr style="mso-yfti-irow:3;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">09.05 AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">09.15 AM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="bottom" width="509"><p style="margin-bottom:0cm" class="MsoNormal"><b><span style="font-size:11.0pt;
-  line-height:115%">Opening Address</span></b><span style="font-size:11.0pt;
-  line-height:115%"><br><i>Prof NG Wai Hoe, Group Chief Executive Officer, SingHealth</i>&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b>Plenary 1</b>: Futurescape – A Peep into Consumer Behaviours, Cultures and Spending Habits to Come</p></td></tr><tr style="mso-yfti-irow:4;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">09.15 AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal">10.00 AM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 1</span></b><span style="font-size:11.0pt;line-height:115%">: Futurescape – a Peep into Consumer Behaviors, Cultures and Spending Habits to come</span></p></td></tr><tr style="mso-yfti-irow:5;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal"><b>Coffee &amp; Tea Break / Networking / </b><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
+  Arial">Poster Viewing</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:1.65pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">10.00 AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal">10.30 AM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Coffee/Tea Break / Networking</span></b></p></td></tr><tr style="mso-yfti-irow:6;height:1.65pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="bottom" width="509"><p style="margin:0cm;mso-add-space:auto;line-height:
+  normal;mso-layout-grid-align:none;text-autospace:none" class="MsoListParagraph"><b>Plenary 2</b>: Clinical Risk Management related (Title to be confirmed)<br style="mso-special-character:
+  line-break"><br style="mso-special-character:line-break"><b><i><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:
+  Aptos;mso-bidi-font-family:Arial;color:#2F5496"></span></i></b></p></td></tr><tr style="mso-yfti-irow:6;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">10.30 AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">11.15 AM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 2</span></b><span style="font-size:11.0pt;line-height:115%">: Third Party Collaborations /Service Provision &amp; Clinical and Patient Safety Risk (TBC)</span></p></td></tr><tr style="mso-yfti-irow:7;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b>Plenary 3</b>: Risk Perception and Communication (Title to be confirmed)</p></td></tr><tr style="mso-yfti-irow:7;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">11.15 AM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">12.00 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 3</span></b><span style="font-size:11.0pt;line-height:115%">: Risk Perception and Communication (TBC)</span></p></td></tr><tr style="mso-yfti-irow:8;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b>Lunch / Networking</b></p></td></tr><tr style="mso-yfti-irow:8;height:1.65pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">12.00 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal">1.00 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Lunch / Networking</span></b></p></td></tr><tr style="mso-yfti-irow:9;height:1.65pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="bottom" width="509"><p class="MsoNormal"><b>Plenary 4</b>: Uncovering the Unseen: Transforming Risk Blind Spots into Opportunities for Growth</p></td></tr><tr style="mso-yfti-irow:9;height:.95pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">1.00 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="top" nowrap="" width="94"><p class="MsoNormal">2.00 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.65pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 4</span></b><span style="font-size:11.0pt;line-height:115%">: Uncovering the Unseen: Transforming Risk Blind Spots into Opportunities for Growth</span></p></td></tr><tr style="mso-yfti-irow:10;height:.95pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="bottom" width="509"><p class="MsoNormal"><b>Plenary 5</b>: Managing Crisis – A Personal Perspective</p></td></tr><tr style="mso-yfti-irow:10;height:1.0pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">2.00 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.0pt" valign="top" nowrap="" width="94"><p class="MsoNormal">2.45 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 5</span></b><span style="font-size:11.0pt;line-height:115%">: Managing Crisis – A Personal Perspective</span></p></td></tr><tr style="mso-yfti-irow:11;height:1.0pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.0pt" valign="bottom" width="509"><p class="MsoNormal"><b>Plenary 6</b>: AI Governance &amp; AI Ethics</p></td></tr><tr style="mso-yfti-irow:11;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.0pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">2.45 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal">3.30 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.0pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 6</span></b><span style="font-size:11.0pt;line-height:115%">: AI Governance &amp; AI Ethics</span></p></td></tr><tr style="mso-yfti-irow:12;height:.65pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:
+  Aptos">Coffee &amp; Tea Break / Networking / </span></b><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
+  Arial">Poster Viewing</span></b><b><span style="mso-ascii-font-family:Aptos;
+  mso-hansi-font-family:Aptos"></span></b></p></td></tr><tr style="mso-yfti-irow:12;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">3.30 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">4.00 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.65pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Coffee/Tea Break / Networking</span></b></p></td></tr><tr style="mso-yfti-irow:13;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:
+  Aptos">Plenary 7</span></b><span style="mso-ascii-font-family:Aptos;
+  mso-hansi-font-family:Aptos">: Design AI &amp; Innovation</span></p></td></tr><tr style="mso-yfti-irow:13;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">4.00 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">4.45 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Plenary 7</span></b><span style="font-size:11.0pt;line-height:115%">: Design AI &amp; Innovation</span></p></td></tr><tr style="mso-yfti-irow:14;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:
+  Aptos">ERM Conversation</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:
+  0cm;margin-left:11.7pt;mso-add-space:auto;text-indent:-11.7pt;line-height:
+  normal;mso-list:l0 level1 lfo1;mso-layout-grid-align:none;text-autospace:
+  none" class="MsoListParagraph"><span style="mso-ascii-font-family:Aptos;
+  mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
+  Aptos"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><i style="mso-bidi-font-style:normal"><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:Aptos">Prof ONG Biauw Chi, Group Chief Risk Officer, SingHealth, with Guest Panelists</span></i></p></td></tr><tr style="mso-yfti-irow:14;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">4.45 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">5.30 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">ERM Conversations</span></b></p></td></tr><tr style="mso-yfti-irow:15;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:
+  Aptos">Networking Cocktail Session </span></b><span style="mso-ascii-font-family:
+  Aptos;mso-hansi-font-family:Aptos">(Sponsor:<span style="mso-spacerun:yes">&nbsp; </span>Marsh)</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">5.30 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">6.00 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Networking Cocktail Session </span></b><span style="font-size:11.0pt;line-height:115%">(sponsored by Marsh)</span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">6.30 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">End of Day 1 Programme</span></b></p></td></tr></tbody></table>
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:
+  Aptos">End of Programme</span></b></p></td></tr></tbody></table>
