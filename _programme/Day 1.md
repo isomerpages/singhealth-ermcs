@@ -112,7 +112,7 @@ variant: markdown
   0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">Networking Cocktail Session </span></b><span style="font-size:11.0pt;line-height:115%">(sponsored by Marsh)</span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">6.00 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
+  0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="font-size:11.0pt;line-height:115%">6.30 PM</span></p></td><td style="width:381.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="bottom" width="509"><p class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%">End of Day 1 Programme</span></b></p></td></tr></tbody></table>
