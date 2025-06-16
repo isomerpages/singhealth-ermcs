@@ -19,10 +19,11 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
   - infopic:
-      title: "ERMCS 2025: 23 & 24 September"
-      subtitle: SAVE THE DATES
+      title: Registration closes 30 June
+      subtitle: ERMCS 2025
       id: infopic
-      description: Singapore's very own ERM congress returns for its third year.
+      description: Singapore's very own ERM congress returns for its third
+        year.  Seats are filling up fast, sign up now!
       button: Register here
       url: https://www.ermcs.sg/registration/
       image: /images/ERMCS 2025/pic_collage_homepage.png
