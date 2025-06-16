@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/ERMCS%202025/ERMCS_2025_banner_for_website_reg_section_v1.png)
-##### **ERMCS 2025 Registration (Closes 30 June)** 
+##### **ERMCS 2025 Registration (Closes 30 June 2025)** 
 
 **The registration fee for ERMCS 2025 is SGD 1,150.00**
 
