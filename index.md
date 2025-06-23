@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/0001.jpg
       key_highlights:
-        - title: REGISTRATION
-          description: ""
-          url: https://www.ermcs.sg/registration/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
