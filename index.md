@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/0001.jpg
       key_highlights:
-        - title: REGISTRATION
-          description: ""
-          url: https://www.ermcs.sg/registration/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
@@ -19,13 +16,13 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
   - infopic:
-      title: Registration closes 30 June
+      title: Registration has closed
       subtitle: ERMCS 2025
       id: infopic
-      description: Singapore's very own ERM congress returns for its third year. Seats
-        are limited and filling up fast, sign up now!
-      button: Register here
-      url: https://www.ermcs.sg/registration/
+      description: "Thank you for the support. For those who have registered, you can
+        check out the programme here:"
+      button: Programme
+      url: https://www.ermcs.sg/programme/day1/
       image: /images/ERMCS 2025/pic_collage_homepage.png
       alt: Image alt text
   - infopic:
