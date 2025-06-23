@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>(Abstract Call has ended)</strong></h4>
-<h4>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2025 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</h4>
+<p><strong>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2025 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</strong>
+</p>
 <h4><strong>Poster Categories:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -33,8 +34,6 @@ variant: tiptap
 <p>Operations</p>
 </li>
 </ol>
-<p></p>
-<h4>To submit your abstract, <a href="https://for.sg/ermcs-abstract" rel="noopener noreferrer nofollow" target="_blank">click here</a></h4>
 <p>For questions on abstract submission, please do not hesitate to contact
 us at secretariat@ermcs.sg</p>
 <p></p>
