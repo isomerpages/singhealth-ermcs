@@ -28,7 +28,7 @@ variant: markdown
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:.95pt" valign="bottom" width="509"><p style="margin-bottom:0cm" class="MsoNormal"><b>Opening Address</b><br><i style="mso-bidi-font-style:normal"><span style="mso-ascii-font-family:
-  Aptos;mso-hansi-font-family:Aptos">Dr LIM Cheok Peng, Chair, Risk Oversight Committee</span></i></p></td></tr><tr style="mso-yfti-irow:3;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  Aptos;mso-hansi-font-family:Aptos"></span></i></p></td></tr><tr style="mso-yfti-irow:3;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">09.15 AM</p></td><td style="width:381.4pt;border:none;border-bottom:
@@ -107,9 +107,8 @@ variant: markdown
   Aptos">ERM Conversation</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:11.7pt;mso-add-space:auto;text-indent:-11.7pt;line-height:
   normal;mso-list:l0 level1 lfo1;mso-layout-grid-align:none;text-autospace:
-  none" class="MsoListParagraph"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
-  Aptos"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><i style="mso-bidi-font-style:normal"><span style="mso-ascii-font-family:Aptos;mso-hansi-font-family:Aptos">Prof ONG Biauw Chi, Group Chief Risk Officer, SingHealth, with Guest Panelists</span></i></p></td></tr><tr style="mso-yfti-irow:14;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  none" class="MsoListParagraph"><span style="mso-ascii-font-family:Aptos;  mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
+  Aptos"><span style="mso-list:Ignore"></span></span></p></td></tr><tr style="mso-yfti-irow:14;height:.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal">5.30 PM</p></td><td style="width:381.4pt;border:none;border-bottom:
