@@ -127,7 +127,7 @@ description: ""
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:1.3pt" width="509"><p class="MsoNormal"><b><span style="color:black;mso-ligatures:none;mso-fareast-language:
   EN-SG">Closing Remarks</span></b><span style="color:black;mso-ligatures:none;
-  mso-fareast-language:EN-SG"><br><i>Prof ONG Biauw Chi (Group Chief Risk Officer, SingHealth)</i></span></p></td></tr><tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
+  mso-fareast-language:EN-SG"><br><i></i></span></p></td></tr><tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:1.3pt"><td style="width:70.4pt;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
   0cm 5.4pt 0cm 5.4pt;height:1.3pt" valign="top" nowrap="" width="94"><p class="MsoNormal"><span style="color:black;mso-ligatures:none;mso-fareast-language:
