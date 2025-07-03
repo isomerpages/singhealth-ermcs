@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.00 AM</p>
+<p>09:00AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Opening Address</strong>
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09.15 AM</p>
+<p>09:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 1</strong>: Futurescape – A Peep into Consumer Behaviours,
@@ -50,7 +50,7 @@ Cultures and Spending Habits to Come</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.00 AM</p>
+<p>10:00AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing</strong>
@@ -59,7 +59,7 @@ Cultures and Spending Habits to Come</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.30 AM</p>
+<p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 2</strong>: Clinical Risk Management related (Title to
@@ -71,7 +71,7 @@ be confirmed)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.15 AM</p>
+<p>11:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 3</strong>: Risk Perception and Communication (Title to
@@ -80,7 +80,7 @@ be confirmed)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.00 PM</p>
+<p>12:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lunch / Networking</strong>
@@ -89,7 +89,7 @@ be confirmed)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.00 PM</p>
+<p>1:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 4</strong>: Uncovering the Unseen: Transforming Risk Blind
@@ -98,7 +98,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.00 PM</p>
+<p>2:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 5</strong>: Managing Crisis – A Personal Perspective</p>
@@ -106,7 +106,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.45 PM</p>
+<p>2:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 6</strong>: AI Governance &amp; AI Ethics</p>
@@ -114,7 +114,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.30 PM</p>
+<p>3:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing</strong>
@@ -123,7 +123,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.00 PM</p>
+<p>4:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 7</strong>: Design AI &amp; Innovation</p>
@@ -131,7 +131,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.45 PM</p>
+<p>4:45 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ERM Conversation</strong>
@@ -141,7 +141,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.30 PM</p>
+<p>5:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Networking Cocktail Session </strong>(Sponsor:&nbsp; Marsh)</p>
@@ -149,7 +149,7 @@ Spots into Opportunities for Growth</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.00 PM</p>
+<p>6:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>End of Programme</strong>
