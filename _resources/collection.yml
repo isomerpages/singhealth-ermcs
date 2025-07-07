@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - SingHealth Deloitte Executive Certificate in ERM.md
       - About Singapore.md
       - Travel.md
