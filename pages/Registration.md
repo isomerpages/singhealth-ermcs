@@ -4,7 +4,7 @@ permalink: /registration/
 description: ""
 variant: markdown
 ---
-##### **ERMCS 2025 Registration has closed.**
+##### **ERMCS 2025 Registration has closed. See you at ERMCS 2025!**
 ![](/images/ERMCS%202025/ERMCS_2025_banner_for_website_reg_section_v1.png)
 
 **Kindly note the following:**
