@@ -6,8 +6,6 @@ variant: markdown
 ---
 Please take note of the following:
 
-·       At least one of the authors of the respective winning entries will be required to register for the Congress.
-
 ·       Awards for winning posters in each category will be based on the Poster Judges’ decision.
 
 ·       Late or inappropriately formatted submissions will not be accepted.
@@ -21,4 +19,4 @@ Please take note of the following:
 * **Poster Judging Presentation Session (Online)**: 28 July to 8 August 2025
 * **Announcement of Results**: 29 August 2025
 
-*Note: The dates are accurate as of 21 May 2025*
+*Note: The dates are accurate as of 10 Jul 2025*
