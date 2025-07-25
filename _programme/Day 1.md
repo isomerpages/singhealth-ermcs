@@ -74,8 +74,8 @@ be confirmed)
 <p>11:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 3</strong>: Risk Perception and Communication (Title to
-be confirmed)</p>
+<p><strong>Plenary 3</strong>: Perceiving and Communicating Health and Medical
+Risks</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Spots into Opportunities for Growth</p>
 <p>2:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 6</strong>: AI Governance &amp; AI Ethics</p>
+<p><strong>Plenary 6</strong>: Mission: AI Governance - Rogue Algorithms</p>
 </td>
 </tr>
 <tr>
