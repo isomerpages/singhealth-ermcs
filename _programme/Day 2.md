@@ -79,7 +79,8 @@ be confirmed)</p>
 <p>1:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 11</strong>: Title to be confirmed</p>
+<p><strong>Plenary 11</strong>: Inclusive Risk Management: Embracing Diversity
+for Resilient Futures</p>
 </td>
 </tr>
 <tr>
