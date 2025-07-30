@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/0001.jpg
       key_highlights:
+        - title: Welcome Message
+          description: ""
+          url: https://www.ermcs.sg/welcome-message/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
@@ -21,7 +24,7 @@ sections:
       id: infopic
       button: Programme
       url: https://www.ermcs.sg/programme/day1/
-      image: /images/ERMCS 2025/pic_collage_homepage.png
+      image: /images/ERMCS 2025/ERMCS_2025_Speakers_collage_v1.png
       alt: Image alt text
   - infopic:
       title: Welcome Message
