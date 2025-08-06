@@ -16,7 +16,8 @@ world.</p>
 professionals — united by a shared commitment to safeguarding our institutions,
 systems, and communities. As risk environments evolve, so must our strategies.
 ERM has grown beyond a compliance function — it is now a driver of strategic
-foresight, operational resilience, and innovation across industries.</p>
+foresight, operat</p>
+<p>ional resilience, and innovation across industries.</p>
 <p>As we navigate a world marked by climate shifts, digital disruption, global
 health challenges, and rapid AI adoption, we can no longer afford to manage
 risk in silos. This Congress brings together thought leaders and practitioners
