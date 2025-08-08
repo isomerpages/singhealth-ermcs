@@ -4,6 +4,8 @@ links:
     url: https://www.ermcs.sg
   - title: About ERMCS
     url: /about-ermcs/
+  - title: Welcome Message
+    url: /welcome-message/
   - title: Registration
     url: /registration/
   - title: Programme
@@ -16,5 +18,3 @@ links:
     collection: photo-gallery
   - title: Resources
     collection: resources
-  - title: Welcome Message
-    url: /welcome-message/
