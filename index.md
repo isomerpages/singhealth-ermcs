@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/0001.jpg
       key_highlights:
-        - title: Welcome Message
+        - title: About ERMCS
           description: ""
           url: https://www.ermcs.sg/about-ermcs/
         - title: PROGRAMME
