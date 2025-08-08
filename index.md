@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Welcome Message
           description: ""
-          url: https://www.ermcs.sg/welcome-message/
+          url: https://www.ermcs.sg/about-ermcs/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
