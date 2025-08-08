@@ -16,3 +16,5 @@ links:
     collection: photo-gallery
   - title: Resources
     collection: resources
+  - title: Welcome Message
+    url: /welcome-message/
