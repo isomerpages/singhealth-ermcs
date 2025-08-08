@@ -2,8 +2,8 @@ logo: /images/ERMCS_website_icon.png
 links:
   - title: Home
     url: https://www.ermcs.sg
-  - title: Welcome Message
-    url: /welcome-message/
+  - title: About ERMCS
+    url: /about/aboutermcs/
   - title: Registration
     url: /registration/
   - title: Programme
