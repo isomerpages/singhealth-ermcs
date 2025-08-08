@@ -1,8 +1,8 @@
 ---
 title: About ERMCS
-permalink: /about/aboutermcs/
-description: ""
+permalink: /about-ermcs/
 variant: markdown
+description: ""
 ---
 > ####  **Bringing together like-minded risk management leaders and professional from various industries**
 
