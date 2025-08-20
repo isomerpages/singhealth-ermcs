@@ -119,7 +119,7 @@ Access to Legal System (Title to be confirmed)</p>
 <p>3:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Technology Risk Landscape – Now and Beyond</em></strong>
+<p><strong>Technology Risk Landscape – Now and Beyond</strong>
 </p>
 </td>
 </tr>
