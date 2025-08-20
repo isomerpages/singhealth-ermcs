@@ -12,12 +12,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>Venue: </strong>Conrad Singapore Marina Bay</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ERMCS Day 1</strong>
+<p><strong>ERMCS Day 1 (23 Sep)</strong>
 </p>
 </td>
 </tr>
