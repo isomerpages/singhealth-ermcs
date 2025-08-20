@@ -11,6 +11,11 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>Venue: </strong>Conrad Singapore Marina Bay</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Time</strong>
 </p>
@@ -25,7 +30,8 @@ description: ""
 <p>08:00AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration / Breakfast / Networking</p>
+<p><strong>Registration / Breakfast / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,16 +46,16 @@ for the Future
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:15AM</p>
+<p>10:05AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing</strong>
+<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:40AM</p>
+<p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 9</strong>: Leveraging People, Process, Technology , and
@@ -70,7 +76,10 @@ be confirmed)</p>
 <p>12:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lunch / Networking / Poster Viewing</strong>
+<p><strong>Lunch / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
+</p>
+<p></p>
+<p><em>Lunch at Level 4 “Lounge by the Pool”</em>
 </p>
 </td>
 </tr>
@@ -106,7 +115,7 @@ Access to Legal System (Title to be confirmed)</p>
 <p>3:15PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing</strong>
+<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
 </p>
 </td>
 </tr>
@@ -115,7 +124,8 @@ Access to Legal System (Title to be confirmed)</p>
 <p>3:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing Plenary</strong>: Risk Landscape – Now and Beyond</p>
+<p><strong>Technology Risk Landscape – Now and Beyond</strong>
+</p>
 </td>
 </tr>
 <tr>

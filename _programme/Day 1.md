@@ -12,12 +12,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>Venue: </strong>Conrad Singapore Marina Bay</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ERMCS Day 1</strong>
+<p><strong>ERMCS Day 1 (23 Sep)</strong>
 </p>
 </td>
 </tr>
@@ -53,7 +58,7 @@ Cultures and Spending Habits to Come</p>
 <p>10:00AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing</strong>
+<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
 </p>
 </td>
 </tr>
@@ -83,7 +88,10 @@ Risks</p>
 <p>12:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lunch / Networking</strong>
+<p><strong>Lunch / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
+</p>
+<p></p>
+<p><em>Lunch at Level 4 “Lounge by the Pool”</em>
 </p>
 </td>
 </tr>
@@ -117,7 +125,7 @@ Spots into Opportunities for Growth</p>
 <p>3:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing</strong>
+<p><strong>Coffee &amp; Tea Break / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
 </p>
 </td>
 </tr>

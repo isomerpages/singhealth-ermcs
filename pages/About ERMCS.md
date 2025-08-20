@@ -8,8 +8,6 @@ description: ""
 
 Started in 2023, the annual **Enterprise Risk Management Congress Singapore**, organised by the SingHealth Office of Risk Services, will bring together **like-minded ERM leaders and professionals** to share their ERM insights, expert advice and experiences in their expertise areas. 
 
-![](/images/Img_0054.jpg)
-
 ERMCS will seek to take stock of the myriad of current and emerging risks in various domains and underscore the urgency to remain resilient and adaptive in the face of unparalleled and/or impending risks in this VUCA world.
 
 
