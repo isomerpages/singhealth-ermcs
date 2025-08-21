@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ERMCS Day 1 (23 Sep)</strong>
+<p><strong>ERMCS Day 1 (23 September)</strong>
 </p>
 </td>
 </tr>
