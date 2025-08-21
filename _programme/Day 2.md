@@ -21,7 +21,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ERMCS Day 2</strong>
+<p><strong>ERMCS Day 2 (24 September)</strong>
 </p>
 </td>
 </tr>

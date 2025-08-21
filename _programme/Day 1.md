@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ERMCS Day 1 (23 Sep)</strong>
+<p><strong>ERMCS Day 1 (23 September)</strong>
 </p>
 </td>
 </tr>
@@ -67,10 +67,7 @@ Cultures and Spending Habits to Come</p>
 <p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 2</strong>: Clinical Risk Management related (Title to
-be confirmed)
-<br>
-<br>
+<p><strong>Plenary 2: Risk Management and Governance of Third Party Collaborations in Healthcare <br><br></strong>
 </p>
 </td>
 </tr>
