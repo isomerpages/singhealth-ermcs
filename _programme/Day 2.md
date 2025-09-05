@@ -58,7 +58,7 @@ for the Future
 <p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 9</strong>: Leveraging People, Process, Technology , and
+<p><strong>Plenary 9</strong>: Leveraging People, Process, Technology, and
 Data for Effective Workplace Risk Management</p>
 </td>
 </tr>
@@ -67,8 +67,8 @@ Data for Effective Workplace Risk Management</p>
 <p>11:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 10</strong>: Human Resource Risk Management (Title to
-be confirmed)</p>
+<p><strong>Plenary 10</strong>: Rethinking Human Capital in an AI-Powered
+World</p>
 </td>
 </tr>
 <tr>
@@ -97,8 +97,9 @@ for Resilient Futures</p>
 <p>1:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 12</strong>: Digital Health and Technology Innovations
-&amp; Risk Management</p>
+<p><strong>Plenary 12</strong>: Behavior Intelligence for Pricing, Persistency
+and</p>
+<p>Engagement</p>
 </td>
 </tr>
 <tr>
