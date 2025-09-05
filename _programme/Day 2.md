@@ -106,8 +106,7 @@ for Resilient Futures</p>
 <p>2:30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 13</strong>: Healthcare for Intellectual Disability and
-Access to Legal System (Title to be confirmed)</p>
+<p><strong>Plenary 13</strong>: Managing the Risks of Invisible Disabilities</p>
 </td>
 </tr>
 <tr>
