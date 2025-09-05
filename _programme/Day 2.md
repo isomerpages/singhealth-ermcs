@@ -78,9 +78,6 @@ World</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lunch / Networking / Poster Viewing (at Level 4 Pavilion)</strong>
 </p>
-<p></p>
-<p><em>Lunch at Level 4 “Lounge by the Pool”</em>
-</p>
 </td>
 </tr>
 <tr>
