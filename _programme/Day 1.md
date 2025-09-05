@@ -31,7 +31,8 @@ variant: tiptap
 <p>08:00AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration / Breakfast / Networking</p>
+<p><strong>Registration / Breakfast / Networking</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +68,8 @@ Cultures and Spending Habits to Come</p>
 <p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 2: Risk Management and Governance of Third Party Collaborations in Healthcare <br><br></strong>
+<p><strong>Plenary 2: </strong>Risk Management and Governance of Third-Party
+Collaborations in Healthcare <strong><br><br></strong>
 </p>
 </td>
 </tr>
@@ -131,7 +133,8 @@ Spots into Opportunities for Growth</p>
 <p>4:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 7</strong>: Design AI &amp; Innovation</p>
+<p><strong>Plenary 7</strong>: Design AI Innovation in the Age of AI and
+Uncertainty</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +151,7 @@ Spots into Opportunities for Growth</p>
 <p>5:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Networking Cocktail Session </strong>(Sponsor:&nbsp; Marsh)</p>
+<p><strong>Networking Cocktail Session </strong>(Sponsor:&nbsp;Marsh)</p>
 </td>
 </tr>
 <tr>
