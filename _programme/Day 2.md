@@ -39,10 +39,12 @@ description: ""
 <p>09:00AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 8</strong>: Navigating AI Transformation: Redefining Education
-for the Future</p>
+<p><strong>Plenary 8</strong>:<strong> Navigating AI Transformation: Redefining Education for the Future</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp; <em>Mr John ANG, Group Chief Technology Officer, Etonhouse International Education Group</em>
-<br><strong>Panel Discussion</strong>: AI Digital Trust</p>
+</p>
+<p><strong>Panel Discussion: AI Digital Trust</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp; <em>Moderator: CI. Asst. Prof Jai Prashanth RAO, Chair, ERM Education Taskforce, SingHealth</em>
 </p>
 <p>-&nbsp;&nbsp;&nbsp; <em>Panelist: Mr John ANG, Group Chief Technology Officer, Etonhouse International Education Group</em>
@@ -67,8 +69,8 @@ for the Future</p>
 <p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 9</strong>: Leveraging People, Process, Technology, and
-Data for Effective Workplace Risk Management</p>
+<p><strong>Plenary 9: Leveraging People, Process, Technology, and Data for Effective Workplace Risk Management</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp; <em>Mr KUNG Teong Wah, General Manager, Parkroyal Collection Pickering, Singapore</em>
 </p>
 </td>
@@ -78,8 +80,8 @@ Data for Effective Workplace Risk Management</p>
 <p>11:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 10</strong>: Rethinking Human Capital in an AI-Powered
-World</p>
+<p><strong>Plenary 10: Rethinking Human Capital in an AI-Powered World</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp; <em>Mr Aslam SARDAR, Chief Executive Officer, Institute of Human Resource Professionals</em>
 </p>
 </td>
@@ -98,8 +100,8 @@ World</p>
 <p>1:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 11</strong>: Inclusive Risk Management: Embracing Diversity
-for Resilient Futures</p>
+<p><strong>Plenary 11: Inclusive Risk Management: Embracing Diversity for Resilient Futures</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp; <em>Ms Jenny TAN, Immediate Past President, SheLeadsTech SG Founder, ISACA Singapore Chapter</em>
 </p>
 </td>
@@ -109,9 +111,8 @@ for Resilient Futures</p>
 <p>1:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 12</strong>: Behavior Intelligence for Pricing, Persistency
-and</p>
-<p>Engagement</p>
+<p><strong>Plenary 12: Behavior Intelligence for Pricing, Persistency and Engagement</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Mr Gourab MUKHERJEE, CEO &amp; Co-Founder, Aktivo Labs</em>
 </p>
 </td>
@@ -121,7 +122,8 @@ and</p>
 <p>2:30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 13</strong>: Managing the Risks of Invisible Disabilities</p>
+<p><strong>Plenary 13: Managing the Risks of Invisible Disabilities</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Ms Peggy YEE, Founding Director, PY Legal LLC</em>
 </p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Dr CHEN Shiling, Founder and Executive Director, Happee Hearts Movement</em>
