@@ -41,7 +41,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Opening Address</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Dr LIM Cheok Peng, Chair, Risk Oversight Committee, SingHealth</em>
+</p>
+<p><strong>- </strong><em>Dr LIM Cheok Peng, Chair, Risk Oversight Committee, SingHealth</em>
 </p>
 </td>
 </tr>
@@ -50,9 +51,9 @@ variant: tiptap
 <p>09:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 1</strong>: Futurescape – A Peep into Consumer Behaviours,
-Cultures and Spending Habits to Come</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Ms Jacqueline Alexis THNG, Head, Frog Asia (Influential Marketing and Branding Leader)</em>
+<p><strong>Plenary 1: Futurescape – A Peep into Consumer Behaviours, Cultures and Spending Habits to Come</strong>
+</p>
+<p><strong>- </strong><em>Ms Jacqueline Alexis THNG, Head, Frog Asia (Influential Marketing and Branding Leader)</em>
 </p>
 </td>
 </tr>
@@ -70,8 +71,8 @@ Cultures and Spending Habits to Come</p>
 <p>10:30AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 2: </strong>Risk Management and Governance of Third-Party
-Collaborations in Healthcare</p>
+<p><strong>Plenary 2: Risk Management and Governance of Third-Party Collaborations in Healthcare</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Cl. A/Prof Peter LU Kuo Sun, Chief Risk Officer, Changi General Hospital, Senior Consultant, Otorhinolaryngology, Head &amp; Neck Surgery, Changi General Hospital</em>
 </p>
 </td>
@@ -81,8 +82,8 @@ Collaborations in Healthcare</p>
 <p>11:15AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 3</strong>: Perceiving and Communicating Health and Medical
-Risks</p>
+<p><strong>Plenary 3: Perceiving and Communicating Health and Medical Risks</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Prof Leonard LEE, Director, National University of Singapore, Lloyd’s Register Foundation Institute for the Public Understanding of Risk (IPUR), Singapore</em>
 </p>
 </td>
@@ -101,8 +102,8 @@ Risks</p>
 <p>1:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 4</strong>: Uncovering the Unseen: Transforming Risk Blind
-Spots into Opportunities for Growth</p>
+<p><strong>Plenary 4: Uncovering the Unseen: Transforming Risk Blind Spots into Opportunities for Growth</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Dr Sarjit SINGH, Senior Advisor, Audit &amp; Assurance – Advisory Services, Deloitte &amp; Touché, Singapore</em>
 </p>
 </td>
@@ -112,7 +113,8 @@ Spots into Opportunities for Growth</p>
 <p>2:00PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 5</strong>: Managing Crisis – A Personal Perspective</p>
+<p><strong>Plenary 5: Managing Crisis – A Personal Perspective</strong>
+</p>
 <p><em>- Mr Danny CHAN, Regional Chief Security Officer, Asia Pacific, Mastercard, Asia Pacific, Business Continuity Practitioner</em>
 </p>
 </td>
@@ -122,7 +124,8 @@ Spots into Opportunities for Growth</p>
 <p>2:45PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 6</strong>: Mission: AI Governance - Rogue Algorithms</p>
+<p><strong>Plenary 6: Mission: AI Governance - Rogue Algorithms</strong>
+</p>
 <p><em>- Dr Martin LEO, Chief Risk Officer, National University of Singapore</em>
 </p>
 </td>
@@ -141,8 +144,8 @@ Spots into Opportunities for Growth</p>
 <p>4:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plenary 7</strong>: Design AI Innovation in the Age of AI and
-Uncertainty</p>
+<p><strong>Plenary 7: Design AI Innovation in the Age of AI and Uncertainty</strong>
+</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Mr POON King Wang, Chief Strategy &amp; Design AI Officer; Director, Lee Kuan Yew Centre for Innovative Cities, Singapore University of Technology &amp; Design</em>
 </p>
 </td>
@@ -152,7 +155,7 @@ Uncertainty</p>
 <p>4:45 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ERM Conversation</strong>
+<p><strong>ERM Conversations</strong>
 </p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Prof ONG Biauw Chi, Group Chief Risk Officer, SingHealth</em>
 </p>
