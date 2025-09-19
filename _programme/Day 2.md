@@ -40,8 +40,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 8</strong>: Navigating AI Transformation: Redefining Education
-for the Future
+for the Future</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Mr John ANG, Group Chief Technology Officer, Etonhouse International Education Group</em>
 <br><strong>Panel Discussion</strong>: AI Digital Trust</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Moderator: CI. Asst. Prof Jai Prashanth RAO, Chair, ERM Education Taskforce, SingHealth</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Panelist: Mr John ANG, Group Chief Technology Officer, Etonhouse International Education Group</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Panelist: Ms Jenny TAN, Immediate Past President, SheLeadsTech SG Founder, ISACA Singapore Chapter</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Panelist: Mr Gourab MUKHERJEE, CEO &amp; Co-Founder, Aktivo Labs</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -60,6 +69,8 @@ for the Future
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 9</strong>: Leveraging People, Process, Technology, and
 Data for Effective Workplace Risk Management</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Mr KUNG Teong Wah, General Manager, Parkroyal Collection Pickering, Singapore</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,6 +80,8 @@ Data for Effective Workplace Risk Management</p>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 10</strong>: Rethinking Human Capital in an AI-Powered
 World</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Mr Aslam SARDAR, Chief Executive Officer, Institute of Human Resource Professionals</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,6 +100,8 @@ World</p>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 11</strong>: Inclusive Risk Management: Embracing Diversity
 for Resilient Futures</p>
+<p>-&nbsp;&nbsp;&nbsp; <em>Ms Jenny TAN, Immediate Past President, SheLeadsTech SG Founder, ISACA Singapore Chapter</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,6 +112,8 @@ for Resilient Futures</p>
 <p><strong>Plenary 12</strong>: Behavior Intelligence for Pricing, Persistency
 and</p>
 <p>Engagement</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Mr Gourab MUKHERJEE, CEO &amp; Co-Founder, Aktivo Labs</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,6 +122,10 @@ and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenary 13</strong>: Managing the Risks of Invisible Disabilities</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Ms Peggy YEE, Founding Director, PY Legal LLC</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Dr CHEN Shiling, Founder and Executive Director, Happee Hearts Movement</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -123,6 +144,10 @@ and</p>
 <td rowspan="1" colspan="1">
 <p><strong>Technology Risk Landscape – Now and Beyond</strong>
 </p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Mr Ali CHAUDHRY, Managing Director &amp; Head of Financial &amp; Professional Liability (FINPRO), Marsh</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Mr Brendan LAWS, Chief Operating Officer, Blackpanda</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +165,7 @@ and</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Closing Remarks</strong>
-<br>
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; <em>Prof ONG Biauw Chi, Group Chief Risk Officer, SingHealth</em>
 </p>
 </td>
 </tr>
