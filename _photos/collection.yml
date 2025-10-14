@@ -1,5 +1,5 @@
 collections:
-  photo-gallery:
+  photos:
     output: true
     order:
       - Highlights.md
