@@ -22,7 +22,7 @@ sections:
       title: Thank you for making ERMCS 2025 a resounding success
       id: infopic
       button: Check out the photo highlights
-      url: https://www.ermcs.sg/photos/highlights
+      url: https://www.ermcs.sg/highlights/
       image: /images/ERMCS 2025/Z52_8861.jpg
       alt: Image alt text
   - infopic:
