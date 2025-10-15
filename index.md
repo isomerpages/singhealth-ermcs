@@ -19,12 +19,11 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
   - infopic:
-      title: See you on 23 & 24 September!
-      subtitle: Registration has closed
+      title: Thank you for making ERMCS 2025 a resounding success
       id: infopic
-      button: Programme
-      url: https://www.ermcs.sg/programme/day1/
-      image: /images/ERMCS 2025/ERMCS_2025_Speakers_collage_v1.png
+      button: Check out the photo highlights
+      url: https://www.ermcs.sg/highlights/
+      image: /images/ERMCS 2025/Z52_8861.jpg
       alt: Image alt text
   - infopic:
       title: Welcome Message
