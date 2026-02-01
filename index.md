@@ -35,6 +35,7 @@ sections:
       url: https://www.ermcs.sg/highlights/
       image: /images/ERMCS 2025/Z52_8861.jpg
       alt: Image alt text
+      subtitle: ERMCS 2025
   - infopic:
       title: Welcome Message
       subtitle: ERMCS 2025
