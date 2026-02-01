@@ -6,9 +6,9 @@ variant: markdown
 ---
 Please take note of the following:
 
-·       Awards for winning posters in each category will be based on the Poster Judges’ decision.
+* Awards for winning posters in each category will be based on the Poster Judges’ decision.
 
-·       Late or inappropriately formatted submissions will not be accepted.
+* Late or inappropriately formatted submissions will not be accepted.
 
 **Important Dates**:
 
