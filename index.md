@@ -26,7 +26,7 @@ sections:
         projects / initiatives.
       button: More details here
       url: https://www.ermcs.sg/postercompetition/callforabstracts/
-      image: /images/ERMCS 2026/Picture1.jpg
+      image: /images/ERMCS 2025/Z63_9439.jpg
       alt: Image alt text
   - infopic:
       title: Thank you for making ERMCS 2025 a resounding success
