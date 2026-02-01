@@ -4,7 +4,7 @@ permalink: /postercompetition/callforabstracts/
 description: ""
 variant: tiptap
 ---
-<h2>Call for Abstracts Starts Now! </h2>
+<h2>Call for Abstracts Starts Now!</h2>
 <p></p>
 <p><strong>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2026 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</strong>
 </p>
