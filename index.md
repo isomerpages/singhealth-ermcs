@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
   - infopic:
+      title: Poster Competition
+      subtitle: ERMCS 2026
+      id: infopic
+      description: Call for Abstracts Starts Now!
+      button: More details here
+      url: https://www.ermcs.sg/postercompetition/callforabstracts/
+      image: /images/ERMCS 2026/https___for_sg_ermcs2026abstract.png
+      alt: Image alt text
+  - infopic:
       title: Thank you for making ERMCS 2025 a resounding success
       id: infopic
       button: Check out the photo highlights
