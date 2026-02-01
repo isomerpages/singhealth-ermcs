@@ -34,5 +34,6 @@ variant: tiptap
 </li>
 </ol>
 <p>For questions on abstract submission, please do not hesitate to contact
-us at [secretariat@ermcs.sg]</p>
+us at <em>[secretariat@ermcs.sg]</em>
+</p>
 <p></p>
