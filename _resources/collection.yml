@@ -1,6 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - About Singapore.md
-      - Travel.md

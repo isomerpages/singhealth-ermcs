@@ -4,8 +4,12 @@ permalink: /postercompetition/callforabstracts/
 description: ""
 variant: tiptap
 ---
-<h4><strong>(Abstract Call has ended)</strong></h4>
-<p><strong>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2025 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</strong>
+<h2>Call for Abstracts Starts Now!</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/https___for_sg_ermcs2026abstract.png">
+</div>
+<p></p>
+<p><strong>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2026 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</strong>
 </p>
 <h4><strong>Poster Categories:</strong></h4>
 <ol data-tight="true" class="tight">
@@ -35,5 +39,6 @@ variant: tiptap
 </li>
 </ol>
 <p>For questions on abstract submission, please do not hesitate to contact
-us at secretariat@ermcs.sg</p>
+us at <a href="mailto:secretariat@ermcs.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@ermcs.sg</a>
+</p>
 <p></p>
