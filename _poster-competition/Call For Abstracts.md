@@ -34,8 +34,7 @@ variant: tiptap
 <p>Operations</p>
 </li>
 </ol>
-<p></p>
-<p>Scan the QR Code below for submission</p>
+<h4><sup>Scan the QR Code below for submission</sup></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/abstract qr.png">
 </div>
