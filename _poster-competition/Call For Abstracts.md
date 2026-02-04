@@ -5,10 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Call for Abstracts Starts Now!</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/https___for_sg_ermcs2026abstract.png">
-</div>
-<p></p>
 <p><strong>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2026 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</strong>
 </p>
 <h4><strong>Poster Categories:</strong></h4>
@@ -38,6 +34,10 @@ variant: tiptap
 <p>Operations</p>
 </li>
 </ol>
+<h4><sup>Scan the QR Code below for submission</sup></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/abstract qr.png">
+</div>
 <p>For questions on abstract submission, please do not hesitate to contact
 us at <a href="mailto:secretariat@ermcs.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@ermcs.sg</a>
 </p>
