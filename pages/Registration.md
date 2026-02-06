@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>ERMCS 2026 Registration (Closes 30 June 2026)</strong></h5>
-<p>The registration fee for ERMCS 2025 is SGD 1,150.00</p>
+<p>The registration fee for ERMCS 2026 is SGD 1,150.00</p>
 <p><strong>Public Service/Public Healthcare participants</strong> enjoy a
 special registration rate of SGD 860.00</p>
 <p><a href="https://for.sg/ermcs26reg" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
