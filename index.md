@@ -12,6 +12,9 @@ sections:
         - title: About ERMCS
           description: ""
           url: https://www.ermcs.sg/about-ermcs/
+        - title: Registration
+          description: ""
+          url: https://www.ermcs.sg/registration/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
@@ -34,13 +37,4 @@ sections:
       image: /images/ERMCS 2025/Z52_8861.jpg
       alt: Image alt text
       subtitle: ERMCS 2025
-  - infopic:
-      title: Welcome Message
-      subtitle: ERMCS 2025
-      id: infopic
-      description: by Prof Ong Biauw Chi, Group Chief Risk Officer (GCRO), SingHealth
-      button: Read it here
-      url: /welcome-message/
-      image: /images/ERMCS 2025/20240918_0738_cropped.jpg
-      alt: Image alt text
 ---

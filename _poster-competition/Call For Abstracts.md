@@ -36,9 +36,7 @@ variant: tiptap
 </ol>
 <h4><sup>Scan the QR Code below for submission</sup></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/abstract qr.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/abstract qr.png">
 </div>
 <p>For questions on abstract submission, please do not hesitate to contact
-us at <a href="mailto:secretariat@ermcs.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@ermcs.sg</a>
-</p>
-<p></p>
+us at <a href="mailto:ermcs@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ermcs@singhealth.com.sg</a>.</p>
