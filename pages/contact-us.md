@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: the ERMCS Organising Committee
 locations:
   - address:
-      - "168 Jalan Bukit Merah "
-      - "Surbana One #11-01 "
+      - 168 Jalan Bukit Merah
+      - "Surbana One #11-01"
       - Singapore 150168
     operating_hours:
       - days: Mon - Fri
@@ -17,7 +17,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: secretariat@ermcs.sg
+      - email: ermcs@singhealth.com.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
