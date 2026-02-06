@@ -12,6 +12,9 @@ sections:
         - title: About ERMCS
           description: ""
           url: https://www.ermcs.sg/about-ermcs/
+        - title: Registration
+          description: ""
+          url: https://www.ermcs.sg/registration/
         - title: PROGRAMME
           description: ""
           url: https://www.ermcs.sg/programme/day1/
