@@ -20,30 +20,48 @@ form.&nbsp;<strong>Please email <a href="ermcs@singhealth.com.sg" rel="noopener 
 </p>
 <p><strong>Group discount is available</strong>&nbsp;for group registration
 of 5 pax or more!</p>
-<p>##### **Kindly note the following:**</p>
-<p>* All prices quoted are in Singapore Dollars (SGD) and are subject to
-prevailing government tax.</p>
-<p>* Payment must be made before the congress commencement date to secure
-your registration.</p>
-<p>* For replacement or cancellation requests, please notify the Secretariat
-(at secretariat@ermcs.sg) in writing, no later than 16 August 2025.</p>
-<p>* Full registration fees will be charged for any cancellation received
-after 16 August 2025.</p>
-<p>* Overseas delegates who test positive for COVID-19 upon arrival in Singapore
-will have to bear all costs associated with COVID-19 related testing, isolation
-and recovery.</p>
-<p>* The issued conference pass shall be used by the registered ERMCS delegate
+<h5><strong>Kindly note the following</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>All prices quoted are in Singapore Dollars (SGD) and are subject to prevailing
+government tax.</p>
+</li>
+<li>
+<p>Payment must be made before the congress commencement date to secure your
+registration.</p>
+</li>
+<li>
+<p>For replacement or cancellation requests, please notify the Secretariat
+(at ermcs@singhealth.com.sg) in writing, no later than 7 August 2026.</p>
+</li>
+<li>
+<p>Full registration fees will be charged for any cancellation/replacement
+received after 7 August 2026.</p>
+</li>
+<li>
+<p>The issued conference pass shall be used by the registered ERMCS delegate
 only. Upon issuance of the ERMCS conference pass, ERMCS delegates agree
 not to handover, give or share the conference pass to/with anyone for access
 to the ERMCS venue. No exceptions will be made to this policy.</p>
-<p>* The programme schedule and plenary titles are subject to changes.</p>
-<p>##### **PDPA Notices:**</p>
-<p>* By providing the information, you hereby agree that the Organising Committee
+</li>
+<li>
+<p>The programme schedule and plenary titles are subject to changes.</p>
+</li>
+</ul>
+<h5><strong>PDPA Notices</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>By providing the information, you hereby agree that the Organising Committee
 of ERMCS shall collect, use, disclose or process personal data concerning
 you in compliance with SingHealth Personal Data Protection Act (PDPA) and
 all subsidiary legislation for the purpose of the Congress, subsequent
 registration to and all other actions necessary in relation to the event,
 where applicable, pursuant to the SingHealth Data Protection Policy of
-which a copy is available at [https://www.singhealth.com.sg/pdpa](https://www.singhealth.com.sg/pdpa)</p>
-<p>* Please note that photographs may be taken during the event for publicity
+which a copy is available at <a href="https://www.singhealth.com.sg/pdpa" rel="noopener nofollow" target="_blank">https://www.singhealth.com.sg/pdpa</a>.</p>
+</li>
+<li>
+<p>Please note that photographs may be taken during the event for publicity
 purposes.</p>
+</li>
+</ul>
+<p></p>
