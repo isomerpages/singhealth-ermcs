@@ -16,7 +16,7 @@ special registration rate of SGD 860.00</p>
 </div>
 <h5><strong>Group Registration &amp; Group Discount</strong></h5>
 <p>For registration of 2 pax or more, you may use the group registration
-form.&nbsp;<strong>Please email <a href="ermcs@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ermcs@singhealth.com.sg</a> to request for the form.</strong>
+form.&nbsp;<strong>Please email <a href="mailto:ermcs@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ermcs@singhealth.com.sg</a> to request for the form.</strong>
 </p>
 <p><strong>Group discount is available</strong>&nbsp;for group registration
 of 5 pax or more!</p>
