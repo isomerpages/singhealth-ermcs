@@ -12,9 +12,8 @@ The registration fee for ERMCS 2025 is SGD 1,150.00
 
 [Click here to register](https://for.sg/ermcs26reg)
 
-\##### You can also register by scanning the QR code below
-
-!\[\](/images/ERMCS%202025/QR\_ERMCS\_2025\_REG.png)
+You can also register by scanning the QR code below
+![](/images/ERMCS%202026/registration%20qr.png)
 
 \##### \*\*Group Registration & Group Discount\*\*
 
