@@ -39,6 +39,6 @@ variant: tiptap
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/abstract qr.png">
 </div>
 <p>For questions on abstract submission, please do not hesitate to contact
-us at <a href="mailto:secretariat@ermcs.sg" rel="noopener noreferrer nofollow" target="_blank">secretariat@ermcs.sg</a>
+us at <a href="ermcs@singhealth.com.sg" rel="noopener nofollow" target="_blank">ermcs@singhealth.com.sg</a>
 </p>
 <p></p>
