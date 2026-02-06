@@ -15,9 +15,9 @@ The registration fee for ERMCS 2025 is SGD 1,150.00
 You can also register by scanning the QR code below
 ![](/images/ERMCS%202026/registration%20qr.png)
 
-\##### \*\*Group Registration & Group Discount\*\*
+##### **Group Registration & Group Discount**
 
-For registration of 2 pax or more, you may use the group registration form. \*\*Please email \[secretariat@ermcs.sg\](secretariat@ermcs.sg) to request for the form.\*\*
+For registration of 2 pax or more, you may use the group registration form. **Please email [ermcs@singhealth.com.sg](ermcs@singhealth.com.sg) to request for the form.**
 
 \*\*Group discount is available\*\* for group registration of 5 pax or more!
 
