@@ -19,7 +19,7 @@ You can also register by scanning the QR code below
 
 For registration of 2 pax or more, you may use the group registration form. **Please email [ermcs@singhealth.com.sg](ermcs@singhealth.com.sg) to request for the form.**
 
-\*\*Group discount is available\*\* for group registration of 5 pax or more!
+**Group discount is available** for group registration of 5 pax or more!
 
 \##### \*\*Kindly note the following:\*\*
 
