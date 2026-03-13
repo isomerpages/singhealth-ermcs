@@ -22,6 +22,15 @@ sections:
           description: ""
           url: https://www.ermcs.sg/contact-us/
   - infopic:
+      title: ERMCS 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: ERMCS returns on 15 & 16 September, bringing together professionals
+        for two days of insights, innovation, and networking.
+      button: Registration details here
+      url: https://www.ermcs.sg/registration/
+      alt: Image alt text
+  - infopic:
       title: ERMCS 2026 Poster Competition
       id: infopic
       description: Call for Abstracts Starts Now!
