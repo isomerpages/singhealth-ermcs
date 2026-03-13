@@ -26,7 +26,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: ERMCS returns on 15 & 16 September at Conrad Singapore Marina Bay,
-        bringing together professionals for two days of insights, innovation,
+        bringing together risk professionals for two days of insights, dialogues
         and networking.
       button: Registration details here
       url: https://www.ermcs.sg/registration/
