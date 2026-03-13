@@ -30,6 +30,7 @@ sections:
       button: Registration details here
       url: https://www.ermcs.sg/registration/
       alt: Image alt text
+      image: /images/ERMCS 2025/Z52_8869.jpg
   - infopic:
       title: ERMCS 2026 Poster Competition
       id: infopic
