@@ -23,7 +23,6 @@ sections:
           url: https://www.ermcs.sg/contact-us/
   - infopic:
       title: ERMCS 2026
-      subtitle: Add an image and text
       id: infopic
       description: ERMCS returns on 15 & 16 September at Conrad Singapore Marina Bay,
         bringing together risk professionals for two days of insights, dialogues
