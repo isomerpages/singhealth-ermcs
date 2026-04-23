@@ -31,8 +31,8 @@ government tax.</p>
 registration.</p>
 </li>
 <li>
-<p>For replacement or cancellation requests, please notify the Secretariat
-(at ermcs@singhealth.com.sg) in writing, no later than 7 August 2026.</p>
+<p>For cancellation requests, please notify the Secretariat (at ermcs@singhealth.com.sg)
+in writing, no later than 7 August 2026.</p>
 </li>
 <li>
 <p>Full registration fees will be charged for any cancellation received after
