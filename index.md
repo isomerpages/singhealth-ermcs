@@ -32,14 +32,6 @@ sections:
       alt: Image alt text
       image: /images/ERMCS 2025/Z52_8869.jpg
   - infopic:
-      title: ERMCS 2026 Poster Competition
-      id: infopic
-      description: Call for Abstracts Starts Now!
-      button: More details here
-      url: https://www.ermcs.sg/postercompetition/callforabstracts/
-      image: /images/ERMCS 2025/Z63_9439.jpg
-      alt: Image alt text
-  - infopic:
       title: Thank you for making ERMCS 2025 a resounding success
       id: infopic
       button: Check out the photo highlights
