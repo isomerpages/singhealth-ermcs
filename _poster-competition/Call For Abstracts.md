@@ -4,39 +4,5 @@ permalink: /postercompetition/callforabstracts/
 description: ""
 variant: tiptap
 ---
-<h2>Call for Abstracts Starts Now!</h2>
-<p><strong>The Enterprise Risk Management Congress Singapore (ERMCS) Organising Committee 2026 cordially invites you to submit abstracts to share ideas, expertise and showcase your risk management related projects / initiatives.</strong>
-</p>
-<h4><strong>Poster Categories:</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Clinical Risk &amp; Patient Safety</p>
-</li>
-<li>
-<p>Compliance, Regulation, Workplace &amp; Safety</p>
-</li>
-<li>
-<p>Crisis Communications &amp; Management</p>
-</li>
-<li>
-<p>Cybersecurity, Data &amp; Technology</p>
-</li>
-<li>
-<p>Finance &amp; Insurance</p>
-</li>
-<li>
-<p>Human Capital</p>
-</li>
-<li>
-<p>Research, Innovation &amp; Education</p>
-</li>
-<li>
-<p>Operations</p>
-</li>
-</ol>
-<h4><sup>Scan the QR Code below for submission</sup></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ERMCS 2026/abstract qr.png">
-</div>
-<p>For questions on abstract submission, please do not hesitate to contact
-us at <a href="mailto:ermcs@singhealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">ermcs@singhealth.com.sg</a>.</p>
+<h4>Abstracts submission has ended</h4>
+<p></p>
